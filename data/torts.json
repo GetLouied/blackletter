@@ -5,44 +5,44 @@
     "title": "Torts — attack outline",
     "sections": [
       {
-        "h": "0. Intent gateway",
+        "h": "0. Intent — the gateway to every intentional tort",
         "items": [
-          "Purpose to cause the contact/apprehension OR knowledge to a substantial certainty it will result.",
-          "Intent to harm NOT required; understanding of wrongfulness NOT required.",
-          "Capacity: minority (Garratt) and mental disability (Wagner) do not bar intent — they bear only on capacity to hold the knowledge.",
-          "Transferred intent: battery · assault · false imprisonment · trespass to land · trespass to chattels (Talmage). Not bystander IIED (Taylor)."
+          "Intent is satisfied where the actor acts for the purpose of causing the contact or apprehension, or acts knowing that it is substantially certain to result. Intent to cause harm is not required, and neither is an understanding that the act is wrongful.",
+          "Capacity: neither minority nor mental disability is a categorical defense. Each bears only on whether this particular actor, given his experience, capacity, and understanding, could hold the requisite knowledge (Garratt v. Dailey; Wagner v. State).",
+          "Transferred intent: intent to commit battery, assault, false imprisonment, trespass to land, or trespass to chattels transfers both to the person actually injured and to the tort actually committed (Talmage v. Smith). It does not supply the intent for a bystander's emotional distress claim where the defendant did not know she was present (Taylor v. Vallelunga)."
         ]
       },
       {
         "h": "1. Battery",
         "items": [
-          "Intentional act → harmful or offensive contact → with the person of another → without consent.",
-          "Offensiveness judged by an ordinary person in context; crowded-life contact is not offensive (Wallace v. Rosen).",
-          "Contact with anything closely identified with the body counts (Fisher) — protects dignity.",
-          "No harm required → nominal damages."
+          "Battery is an intentional act causing harmful or offensive contact with the person of another. The intent runs to the contact, not to the harm — the actor must intend the contact, or know it is substantially certain to result. (Lack of consent is often recited as an element; in most jurisdictions consent is properly an affirmative defense the defendant raises, so check how your course frames it.)",
+          "Offensiveness is judged by the sensibilities of an ordinary person in the circumstances. Contact that is part of the customary give-and-take of crowded life is not offensive unless it is rude, insolent, or angry (Wallace v. Rosen).",
+          "The contact need not touch the body: anything so closely identified with the person as to be customarily regarded as part of it will suffice, because the tort protects personal dignity (Fisher v. Carrousel Motor Hotel).",
+          "No physical injury is required; a plaintiff who proves battery without harm may recover nominal damages."
         ]
       },
       {
         "h": "2. Assault",
         "items": [
-          "Intentional act → reasonable apprehension → of imminent harmful or offensive contact.",
-          "Apprehension ≠ fear. Apparent ability suffices; actual ability not required (Western Union v. Hill)."
+          "Assault is an intentional act causing the plaintiff reasonable apprehension of an imminent harmful or offensive contact.",
+          "Apprehension means awareness of the threatened contact; it is not the same as fear, so a plaintiff who was unafraid still has a claim.",
+          "Apparent ability to carry out the contact is sufficient, judged from the standpoint of a reasonable person in the plaintiff's position; actual ability is not required (Western Union Telegraph Co. v. Hill)."
         ]
       },
       {
         "h": "3. False imprisonment",
         "items": [
-          "Intentional act → restraint of physical liberty within fixed boundaries → without adequate legal justification.",
-          "Restraint may be non-physical: threats, duress, asserted authority (Big Town).",
-          "Plaintiff must be conscious of confinement at the time, or harmed by it; later memory not required (Parvi)."
+          "False imprisonment is an intentional restraint of the plaintiff's physical liberty within boundaries fixed by the defendant, without adequate legal justification.",
+          "The restraint may be accomplished by threats, duress, or asserted legal authority as readily as by physical force (Big Town Nursing Home v. Newman), where egregious disregard of the plaintiff's rights also supported punitive damages.",
+          "The plaintiff must have been conscious of the confinement at the time, or else harmed by it. She need not remember it afterward, so an intoxicated plaintiff's loss of memory presents a jury question rather than a bar (Parvi v. City of Kingston)."
         ]
       },
       {
-        "h": "4. IIED",
+        "h": "4. Intentional infliction of emotional distress",
         "items": [
-          "Intentional or reckless → extreme and outrageous → causation → SEVERE distress.",
-          "Severity is the usual failure point (Harris v. Jones).",
-          "Bystander: defendant must know of the plaintiff's presence / direct the conduct at them (Taylor v. Vallelunga)."
+          "IIED requires conduct that is intentional or reckless; that is extreme and outrageous; that is causally connected to the plaintiff's emotional distress; and distress that is severe.",
+          "Severity is where these claims usually fail. A plaintiff is expected to tolerate a degree of rough treatment, and vague or weakly supported evidence of aggravation will not carry the element even where the conduct was plainly outrageous (Harris v. Jones).",
+          "A bystander must show that the defendant knew of her presence and directed the conduct at her, or recklessly disregarded the distress it would cause her (Taylor v. Vallelunga)."
         ]
       }
     ]

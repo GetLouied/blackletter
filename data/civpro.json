@@ -5,42 +5,49 @@
     "title": "Civil Procedure — attack outline",
     "sections": [
       {
-        "h": "1. Which court can hear this?",
+        "h": "1. Which court can hear this claim?",
         "items": [
-          "Exclusive federal (CAPS): copyright · antitrust · patent infringement · securities → federal only.",
-          "Federal question but not CAPS → concurrent, either system.",
-          "State law claim → federal only through diversity; otherwise default state SMJ."
+          "State courts have general subject matter jurisdiction: they may hear any claim outside the exclusive federal categories, and remain available as a catch-all when federal requirements fail.",
+          "Federal courts have limited subject matter jurisdiction: all federal law claims, but state law claims only where the diversity requirements are met.",
+          "Exclusive federal jurisdiction is narrow — copyright, antitrust, patent infringement, and securities (CAPS). Diversity is irrelevant to these; same-state parties do not matter.",
+          "Most other federal claims are concurrent, so either court system may hear them.",
+          "Subject matter jurisdiction can never be waived, stipulated to, or consented into existence. A judge who notices its absence must dismiss on his own motion."
         ]
       },
       {
-        "h": "2. Complete diversity",
+        "h": "2. Is there complete diversity of citizenship?",
         "items": [
-          "No plaintiff may share a state with any defendant; same-side overlap is fine.",
-          "Natural person → domicile (true, fixed, permanent; exactly one). U.S. citizen abroad → stateless (Friedrich).",
-          "Corporation → every state of incorporation + PPB by nerve center (Harrison).",
-          "Partnership / LLC / union → every partner or member's state.",
-          "Legal representative → the represented person's state, § 1332(c)(2).",
-          "Alienage § 1332(a)(2): alien v. citizen works; LPRA v. citizen of the SAME state fails; alien v. alien never."
+          "§ 1332(a) — The district courts have original jurisdiction over civil actions where the matter in controversy exceeds $75,000, exclusive of interest and costs, and is between citizens of different states.",
+          "Complete diversity requires that no plaintiff be a citizen of the same state as any defendant. Shared citizenship on the same side of the v. is irrelevant; a single overlapping pair across it destroys jurisdiction over the whole case.",
+          "A natural person is a citizen of the state of his domicile — his true, fixed, and permanent home. He always has one domicile and never more than one. A child takes the domicile of his parents until majority or emancipation.",
+          "A United States citizen domiciled abroad is stateless: neither a citizen of any state nor an alien. His presence defeats both diversity and alienage jurisdiction (Friedrich v. Davis).",
+          "A corporation is a citizen of every state in which it is incorporated and of the one state of its principal place of business. Principal place of business means the corporation's nerve center — the place where its high-level officers direct, control, and coordinate the corporation's activities, typically its headquarters, and not where the bulk of its operations occur (Hertz Corp. v. Friend, 559 U.S. 77 (2010); applied in Harrison v. Granite Bay Care).",
+          "A partnership, limited liability company, or labor union is a citizen of every state in which any partner or member is a citizen. No principal-place-of-business rule applies to these.",
+          "§ 1332(c)(2) — The legal representative of a decedent, infant, or incompetent is deemed a citizen only of the state of the person represented; his own domicile is disregarded.",
+          "Alienage, § 1332(a)(2) — The grant reaches actions between citizens of a State and citizens or subjects of a foreign state, with the alien on either side. Because the grant requires a State citizen opposite the alien, an action between aliens alone falls within no category of § 1332(a) at all and cannot be heard.",
+          "The 2011 proviso to § 1332(a)(2) then carves out one case that would otherwise qualify: there is no jurisdiction “of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State.” So a Florida citizen cannot sue a permanent resident alien domiciled in Florida.",
+          "§ 1332(a)(3) — Aliens may appear on both sides as additional parties, provided completely diverse State citizens anchor the suit. π (FL) and π (Mexico) against Δ (GA) and Δ (Mexico) is proper; π (Mexico) against Δ (Mexico) and Δ (FL) is not, until the alien defendant is dropped."
         ]
       },
       {
-        "h": "3. Amount in controversy",
+        "h": "3. Does the amount in controversy clear the threshold?",
         "items": [
-          "Must EXCEED $75,000; good-faith allegation controls unless legal certainty says otherwise.",
-          "Pre-filing interest counts; post-filing interest and costs do not; attorney fees only under an American Rule exception.",
-          "Injunction → either party's valuation (exam rule).",
-          "Aggregation: 1π/1Δ may aggregate; 1π/multiple Δ may not; multiple π/1Δ may not; joint claims count once at full value."
+          "The matter in controversy must exceed $75,000, exclusive of interest and costs. Exactly $75,000 fails.",
+          "The plaintiff's good-faith allegation controls unless it appears to a legal certainty that he cannot recover that amount. Because the figure is measured at commencement, a verdict below the threshold does not defeat jurisdiction.",
+          "Interest accruing before filing counts toward the amount; interest accruing afterward does not, and costs never do. Attorney fees count only where recoverable under an exception to the American Rule.",
+          "Where an injunction is sought, the amount is satisfied if its value to either party exceeds the threshold.",
+          "Aggregation: a single plaintiff may add together all of his claims against a single defendant, related or not. He may not add claims asserted against separate defendants, and separate plaintiffs may not add their claims together. A joint claim — joint tortfeasors, or jointly held property or rights — counts once, at its full value against each defendant."
         ]
       },
       {
-        "h": "4. Timing and adjustments",
+        "h": "4. Timing, realignment, and the exceptions",
         "items": [
-          "Citizenship and AIC fixed at commencement. Pre-commencement changes count regardless of motive; post-commencement changes never do.",
-          "Realignment by actual interests can create or destroy diversity.",
-          "Collusive joinder: artificial assignments ignored; genuine unilateral moves allowed.",
-          "Domestic relations: divorce/alimony/custody DECREES only — collection of unpaid support is fine [exam].",
-          "Probate: no direct administration; related tort claims against administrators are fine.",
-          "SMJ is never waivable — judge must dismiss sua sponte."
+          "Citizenship and the amount in controversy are both fixed when the action is commenced. Changes made before commencement count whatever the motive; changes made afterward can neither create nor destroy diversity.",
+          "A natural person changes domicile by physical presence in the new state together with the intent to make it his true, fixed, and permanent home. Courts test that intent by objective evidence — residence, property, bank accounts, voter registration, employment, driver's license, and payment of taxes (Ceglia v. Zuckerberg).",
+          "The court may realign the parties according to their actual interests rather than the labels used in the complaint, which can create or destroy diversity.",
+          "Collusive joinder: an artificial assignment of a claim made solely to manufacture diversity is disregarded, but a genuine, unilateral change of citizenship is effective even if made for that purpose.",
+          "The domestic relations exception is limited to decrees of divorce, alimony, and child custody. It does not bar an action to collect spousal or child support already awarded.",
+          "The probate exception means a federal court will not administer an estate or probate a will directly, but it may hear related tort and misconduct claims against those who do."
         ]
       }
     ]
