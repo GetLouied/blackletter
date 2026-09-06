@@ -5,57 +5,61 @@
     "title": "Contracts — attack outline",
     "sections": [
       {
-        "h": "0. Threshold",
+        "h": "0. Threshold questions",
         "items": [
-          "Goods or services? → UCC Article 2 vs. common law / Restatement (2d).",
-          "Objective theory governs throughout: outward expression, not secret intent (Lucy v. Zehmer)."
+          "Goods or services? Article 2 of the UCC governs transactions in goods; the common law, guided by the Restatement (Second) of Contracts, governs services.",
+          "Intent is measured objectively. Look to the outward expression of a person as manifesting his intention, rather than to his secret and unexpressed intention; the law imputes to a person an intention corresponding to the reasonable meaning of his words and acts (Lucy v. Zehmer).",
+          "Formation requires all three ingredients: an offer, an acceptance, and consideration."
         ]
       },
       {
         "h": "1. Is there an offer?",
         "items": [
-          "§ 24: manifestation of willingness, so made as to justify understanding that assent is invited and will conclude it.",
-          "§ 26 negative: no offer if a further manifestation of assent is required.",
-          "Factors (none dispositive): finality · completeness · context · audience · jargon · method of acceptance · policy/fairness · accepted practice.",
-          "Advertisement? → default invitation (Craft). Exception if performance promised in positive terms, clear/definite/explicit, other facts show intent (Lefkowitz; contrast Leonard).",
-          "Price quotation? → course of dealing + manner of inviting acceptance (Nordyne; Fairmount; contrast Moulton)."
+          "§ 24 — An offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it.",
+          "§ 26 — There is no offer if the person to whom it is addressed knows or has reason to know that the person making it does not intend to conclude a bargain until he has made a further manifestation of assent.",
+          "Practical test: if the offeree could be reasonably certain that saying \"I accept\" would create mutually binding obligations, it is probably an offer.",
+          "Weigh the eight factors, none of which is dispositive: finality, completeness, context, audience, jargon, method of acceptance, public policy and fairness, and accepted practice between the parties.",
+          "Advertisement? Presumed to be an invitation for the audience to make offers (Craft v. Elder & Johnston). It is an offer only where some performance was promised in positive terms in return for something requested, and the terms are clear, definite, and explicit, leaving nothing open for negotiation (Lefkowitz; contrast Leonard v. PepsiCo).",
+          "Price quotation? Also presumed an invitation, but it becomes an offer where prior negotiation, complete terms, and a limited audience make it appear that assent alone would close the deal (Nordyne; Fairmount Glass; contrast Moulton v. Kershaw)."
         ]
       },
       {
-        "h": "2. Was the offer still alive?",
+        "h": "2. Is the offer still open?",
         "items": [
-          "Terminated by: rejection · revocation · counteroffer · lapse of time · death of the offeror.",
-          "§ 43: definite inconsistent action + reliable information kills the power of acceptance (Dickinson v. Dodds).",
-          "Hold-open promise without consideration = nudum pactum, not binding.",
-          "Option: supported by consideration → irrevocable; or § 87(2) substantial pre-acceptance reliance."
+          "An offer terminates by rejection; by revocation at any time before acceptance; by counteroffer, which operates as a rejection; by lapse of the time stated in the offer or a reasonable time; or by the death of the offeror.",
+          "§ 43 — The offeree's power of acceptance is also terminated when the offeror takes definite action inconsistent with an intention to enter into the proposed contract and the offeree acquires reliable information to that effect (Dickinson v. Dodds).",
+          "A promise to hold an offer open, unsupported by consideration, is a nudum pactum and does not bind the offeror.",
+          "It does bind where consideration was given for the promise of irrevocability, creating a true option; or under § 87(2), where the offeror should reasonably expect the offer to induce action or forbearance of a substantial character before acceptance and it does — in which case the offer is binding as an option contract to the extent necessary to prevent injustice."
         ]
       },
       {
         "h": "3. Was there an acceptance?",
         "items": [
-          "§ 50: manifestation of assent in a manner invited or required by the offer.",
-          "Mode: promise (every essential act + notice) vs. performance (part performed/tendered; preparation insufficient). Ambiguous → either.",
-          "Mirror image: material change = counteroffer; § 61 mere request survives unless acceptance depends on it (Ardente).",
-          "Notice: required for promise-acceptance (Hendricks); notice to an agent within authority binds the principal.",
-          "Timing: § 63(a) acceptance effective on dispatch; revocations/rejections/second-move acceptances on receipt; options on receipt."
+          "§ 50 — An acceptance of an offer is the manifestation of assent to the terms thereof, made by the offeree in a manner invited or required by the offer. By default, an offer invites acceptance in any reasonable manner.",
+          "Mode: to accept by promise, the offeree must complete every act essential to the making of the promise. To accept by performance, at least part of what the offer requests must be performed or tendered; mere preparation to perform is insufficient. If the offer is ambiguous as to mode, the offeree may do either.",
+          "Mirror image rule: an acceptance that attempts to change a material term of the offer is a counteroffer, not an acceptance. But under § 61, an acceptance that merely requests a change or addition is not invalidated unless the acceptance is made to depend on assent to that change (Ardente v. Horan).",
+          "Notice: there is no contract until acceptance is communicated to the offeror, and where the offer calls for a promise rather than an act, notice of acceptance is always essential. Notice to an agent acting within the scope of his authority is notice to the principal (Hendricks v. Behee).",
+          "Timing, § 63(a): an acceptance sent in a manner invited by the offer is operative as soon as it is put out of the offeree's control, whether or not it ever reaches the offeror. Revocations, rejections, and the exercise of an option are effective only upon receipt."
         ]
       },
       {
         "h": "4. Is there consideration?",
         "items": [
-          "Bargained-for exchange: return promise · act · forbearance · affecting legal relations.",
-          "Benefit to promisor not required (Hamer); almost any benefit suffices (Langer).",
-          "Not consideration: past consideration (Dougherty); a condition merely necessary to receive a gift (Kirksey).",
-          "Forbearance of an invalid claim: § 74(1) — doubtful claim OR honest belief in validity."
+          "Consideration is a bargained-for exchange: something sought by the promisor in exchange for his promise, and given by the promisee in exchange for that promise.",
+          "It may take the form of a return promise, an act other than a promise, a forbearance, or a performance affecting legal relations.",
+          "Benefit to the promisor is not required — forbearing to exercise a legal right one is free to exercise is consideration (Hamer v. Sidway) — and conversely almost any benefit to the promisor will suffice (Langer v. Superior Steel).",
+          "Not consideration: a benefit the promisor had already received before making the promise (Dougherty v. Salt); or an act that is merely the condition of receiving a gift rather than the price of the promise (Kirksey v. Kirksey).",
+          "§ 74(1) — Forbearance to assert a claim that proves invalid is consideration only if the claim is in fact doubtful because of uncertainty as to the facts or the law, or the forbearing party believes it may fairly be determined to be valid (Military College v. Brooks)."
         ]
       },
       {
-        "h": "5. No consideration? Try the substitutes.",
+        "h": "5. No consideration? Reach for the substitutes.",
         "items": [
-          "Promissory estoppel § 90 — promise · reasonably expected to induce · actually induces · injustice avoidable only by enforcement. Remedy as justice requires.",
-          "Unjust enrichment — benefit received + retention unjust. Exceptions: volunteer; forced exchange. Subordinate to contracts.",
-          "Promise for a benefit already received — Mills default; pre-existing legal obligation categories (infancy, SOL, bankruptcy); material benefit rule (Webb) vs. refusal (Harrington); § 86 with its gift / no-enrichment / disproportion limits.",
-          "Argue BOTH interpretations where the jurisdiction is unsettled — that is the professor's stated expectation."
+          "Promissory estoppel, § 90 — A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee, and which does induce such action or forbearance, is binding if injustice can be avoided only by enforcement of the promise; the remedy may be limited as justice requires. Note the sequence: the promise must precede the reliance.",
+          "Unjust enrichment — The plaintiff must show that a benefit was received from him and that retention of it without payment would be inequitable. Retention is not unjust where the benefit was unrequested and voluntarily conferred, or where paying would force an exchange the defendant would not have purchased at market value (Sparks v. Gustafson).",
+          "Restitution is subordinate to contracts: where a valid contract governs the benefit conferred, it fixes the recovery.",
+          "Promise for a benefit already received — Moral obligation alone will not support a promise (Mills v. Wyman) unless it revives a pre-existing legal obligation that has become unenforceable: a debt incurred during infancy, a debt barred by the statute of limitations, or a debt discharged in bankruptcy.",
+          "§ 86, the material benefit rule — A promise made in recognition of a benefit previously received by the promisor from the promisee is binding to the extent necessary to prevent injustice, but not where the benefit was conferred as a gift, where the promisor was not unjustly enriched, or to the extent the promise is disproportionate to the benefit. Compare Webb v. McGowin, enforcing such a promise, with Harrington v. Taylor, refusing to; argue both interpretations."
         ]
       }
     ]
