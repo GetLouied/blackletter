@@ -1,0 +1,31 @@
+/* Phone-specific overrides. Loaded after styles.css so these win. */
+
+html { -webkit-text-size-adjust: 100%; background: #1c1913; }
+body { margin: 0; overscroll-behavior-y: contain; }
+#root { min-height: 100vh; }
+
+/* keep content clear of the notch and the home indicator */
+.desk {
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: calc(48px + env(safe-area-inset-bottom));
+  padding-left: max(16px, env(safe-area-inset-left));
+  padding-right: max(16px, env(safe-area-inset-right));
+}
+
+@media (max-width: 820px) {
+  /* iOS zooms the viewport whenever a focused input is under 16px */
+  input, textarea, select { font-size: 16px !important; }
+  .blank { font-size: 16px !important; }
+
+  .blurtbox { font-size: 17px !important; line-height: 32px !important; }
+  .prompt { font-size: 20px !important; line-height: 31px !important; }
+  .blurt-topic { font-size: 26px !important; }
+
+  .pad, .attack-pad { transform: none !important; }
+
+  /* fingers, not cursors */
+  .tab, .chip, .fchip { padding: 9px 15px !important; }
+  .mcq { padding: 13px 14px !important; }
+  .clitem { padding: 11px 0 !important; }
+  .btn { padding: 13px 22px !important; }
+}

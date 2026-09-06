@@ -123,3 +123,36 @@ material-benefit split between *Webb* and *Harrington* being the obvious example
 
 Check anything you plan to rely on against your own materials, and never cite this in
 anything that matters.
+
+---
+
+## Project layout
+
+```
+index.html               shell — nothing but links and a mount point
+css/styles.css           all app styling
+css/mobile.css           phone overrides (safe areas, tap targets, 16px inputs)
+js/app.js                the built bundle — generated, don't hand-edit
+data/manifest.json       list of subjects
+data/contracts.json      cards, blurts, ladders, and attack outline per subject
+data/torts.json
+data/civpro.json
+src/                     readable source
+  main.jsx               boot: fetch the decks, then render
+  App.jsx                the app itself — modes, grading, weighting
+  helpers.js             pure functions (cloze parsing, weighted draw)
+  storage.js             localStorage read/write
+  data.js                fetches /data at startup
+  components/            ClozeLine, Pad, AttackCard, BrowseView, StatsView
+build.sh                 rebuilds js/app.js from src/
+sw.js                    offline caching
+```
+
+**Adding or fixing content** means editing a file in `data/` and pushing. No build step —
+the app fetches those JSON files at load.
+
+**Adding a subject** means dropping `data/property.json` in, adding one line to
+`data/manifest.json`, and adding it to the `SHELL` list in `sw.js`.
+
+**Changing behavior** means editing `src/`, then running `./build.sh` to regenerate
+`js/app.js`.

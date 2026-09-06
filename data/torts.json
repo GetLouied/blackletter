@@ -1,0 +1,537 @@
+{
+  "key": "torts",
+  "name": "Torts",
+  "attack": {
+    "title": "Torts — attack outline",
+    "sections": [
+      {
+        "h": "0. Intent gateway",
+        "items": [
+          "Purpose to cause the contact/apprehension OR knowledge to a substantial certainty it will result.",
+          "Intent to harm NOT required; understanding of wrongfulness NOT required.",
+          "Capacity: minority (Garratt) and mental disability (Wagner) do not bar intent — they bear only on capacity to hold the knowledge.",
+          "Transferred intent: battery · assault · false imprisonment · trespass to land · trespass to chattels (Talmage). Not bystander IIED (Taylor)."
+        ]
+      },
+      {
+        "h": "1. Battery",
+        "items": [
+          "Intentional act → harmful or offensive contact → with the person of another → without consent.",
+          "Offensiveness judged by an ordinary person in context; crowded-life contact is not offensive (Wallace v. Rosen).",
+          "Contact with anything closely identified with the body counts (Fisher) — protects dignity.",
+          "No harm required → nominal damages."
+        ]
+      },
+      {
+        "h": "2. Assault",
+        "items": [
+          "Intentional act → reasonable apprehension → of imminent harmful or offensive contact.",
+          "Apprehension ≠ fear. Apparent ability suffices; actual ability not required (Western Union v. Hill)."
+        ]
+      },
+      {
+        "h": "3. False imprisonment",
+        "items": [
+          "Intentional act → restraint of physical liberty within fixed boundaries → without adequate legal justification.",
+          "Restraint may be non-physical: threats, duress, asserted authority (Big Town).",
+          "Plaintiff must be conscious of confinement at the time, or harmed by it; later memory not required (Parvi)."
+        ]
+      },
+      {
+        "h": "4. IIED",
+        "items": [
+          "Intentional or reckless → extreme and outrageous → causation → SEVERE distress.",
+          "Severity is the usual failure point (Harris v. Jones).",
+          "Bystander: defendant must know of the plaintiff's presence / direct the conduct at them (Taylor v. Vallelunga)."
+        ]
+      }
+    ]
+  },
+  "blurts": [
+    {
+      "id": "b-t-intent",
+      "topic": "Intent",
+      "components": [
+        "Purpose to cause the contact or apprehension, OR",
+        "Knowledge to a substantial certainty that it will result",
+        "Intent to HARM is not required",
+        "Substantial certainty is higher than risk or recklessness"
+      ],
+      "model": [
+        "Intent is satisfied where the actor acts with the purpose of causing the contact or apprehension, or with knowledge to a substantial certainty that it will result.",
+        "Intent to injure is not required — only intent as to the contact itself. Note the height of the standard: substantial certainty, not mere risk or recklessness."
+      ]
+    },
+    {
+      "id": "b-t-capacity",
+      "topic": "Capacity to form intent",
+      "components": [
+        "A minor may be liable if capable of forming the requisite intent",
+        "Age bears only on experience, capacity, and understanding (Garratt)",
+        "Mental disability does not bar intent (Wagner)",
+        "The tort needs intent to contact, not appreciation of wrongfulness",
+        "Capacity is a factual question, not a categorical defense"
+      ],
+      "model": [
+        "Neither minority nor mental disability is a categorical bar. A minor may be liable for an intentional tort if capable of forming the requisite intent; age matters only insofar as it bears on whether this child, given his experience, capacity, and understanding, knew the contact was substantially certain to follow (Garratt v. Dailey).",
+        "A mentally disabled actor can likewise form intent to contact — the tort does not require appreciation that the act is wrong (Wagner v. State)."
+      ]
+    },
+    {
+      "id": "b-t-transfer",
+      "topic": "Transferred intent",
+      "components": [
+        "Intent against A transfers when B is injured instead",
+        "Intent also transfers between torts",
+        "Covers battery, assault, false imprisonment, trespass to land, trespass to chattels",
+        "No intent toward the specific victim required"
+      ],
+      "model": [
+        "Where the defendant intends one of the covered intentional torts against one person, that intent transfers to the person actually injured and to the tort actually committed — no intent toward the specific victim is required (Talmage v. Smith: a stick thrown at one trespassing boy that blinds another supports battery).",
+        "The doctrine covers the five historic trespass writs: battery, assault, false imprisonment, trespass to land, and trespass to chattels."
+      ]
+    },
+    {
+      "id": "b-t-taylor",
+      "topic": "Taylor v. Vallelunga — the transferred intent limit",
+      "components": [
+        "Daughter watched her father being beaten; she was not touched",
+        "No allegation the defendants knew she was present",
+        "…or intended to cause HER distress",
+        "Transferred intent does not supply bystander IIED",
+        "Demurrer sustained; dismissal affirmed"
+      ],
+      "model": [
+        "The plaintiff witnessed a beating of her father and sued for emotional distress. She could not recover: there was no allegation the defendants knew she was present or intended to cause her distress.",
+        "Intent directed at the primary victim does not transfer to a bystander's IIED claim — the bystander must be within the defendant's contemplation."
+      ]
+    },
+    {
+      "id": "b-t-battery",
+      "topic": "Battery — elements",
+      "components": [
+        "An intentional act",
+        "Causing harmful or offensive contact",
+        "With the person of another",
+        "Without consent"
+      ],
+      "model": [
+        "Battery: an intentional act causing harmful or offensive contact with the person of another, without consent. Intent runs to the contact, not to the harm — no physical injury is required, and a plaintiff proving battery without harm may recover nominal damages."
+      ]
+    },
+    {
+      "id": "b-t-battery2",
+      "topic": "Battery — offensive contact",
+      "components": [
+        "Offensiveness judged by an ordinary person, in context",
+        "Crowded-life contact is not offensive unless rude, insolent, or angry (Wallace)",
+        "Contact with anything closely identified with the body counts (Fisher)",
+        "Battery protects personal dignity, not just the body"
+      ],
+      "model": [
+        "Offensiveness is judged objectively by ordinary sensibilities and in context — ordinary contact in the customary give-and-take of crowded life is not offensive unless rude, insolent, or angry (Wallace v. Rosen, a teacher tapping a parent's back during a fire drill).",
+        "The contact need not touch the body: anything so closely identified with the person as to be customarily regarded as part of it — a plate snatched from the hand — suffices, because battery protects personal dignity (Fisher v. Carrousel Motor Hotel)."
+      ]
+    },
+    {
+      "id": "b-t-assault",
+      "topic": "Assault — elements",
+      "components": [
+        "An intentional act",
+        "Causing reasonable apprehension",
+        "Of an IMMINENT harmful or offensive contact",
+        "Apprehension is awareness, not fear"
+      ],
+      "model": [
+        "Assault: an intentional act causing the plaintiff reasonable apprehension of an imminent harmful or offensive contact. Apprehension means awareness of the threatened contact — it is not fear, so an unafraid plaintiff still has a claim."
+      ]
+    },
+    {
+      "id": "b-t-assault2",
+      "topic": "Assault — apparent ability",
+      "components": [
+        "Apparent ability to complete the contact suffices",
+        "Actual ability is not required",
+        "Judged from a reasonable person's viewpoint",
+        "Western Union v. Hill — the counter may have blocked the reach"
+      ],
+      "model": [
+        "The defendant needs only apparent ability to carry out the threatened contact, judged from the standpoint of a reasonable person in the plaintiff's position; actual ability is not required (Western Union Telegraph Co. v. Hill, where the counter may have made the reach physically impossible)."
+      ]
+    },
+    {
+      "id": "b-t-fi",
+      "topic": "False imprisonment — elements",
+      "components": [
+        "An intentional act",
+        "Restraint of physical liberty within boundaries fixed by the defendant",
+        "Without adequate legal justification",
+        "Restraint may be non-physical — threats, duress, asserted authority"
+      ],
+      "model": [
+        "False imprisonment: an intentional direct restraint of another's physical liberty within boundaries fixed by the defendant, without adequate legal justification.",
+        "The restraint need not be physical — threats, duress, or asserted legal authority suffice, as where a nursing home seized belongings, denied phone use, and retrieved a resident who left (Big Town Nursing Home v. Newman), where egregious disregard of rights also supported punitive damages."
+      ]
+    },
+    {
+      "id": "b-t-parvi",
+      "topic": "False imprisonment — awareness (Parvi)",
+      "components": [
+        "The plaintiff must be conscious of the confinement at the time",
+        "…or else harmed by it",
+        "Later memory of the confinement is NOT required",
+        "Intoxicated plaintiff's lack of memory is a jury question, not a bar"
+      ],
+      "model": [
+        "False imprisonment requires that the plaintiff be conscious of the confinement at the time, or else harmed by it. But awareness at the time and memory afterward are different things: a plaintiff who cannot later recall being confined may still recover, so an intoxicated plaintiff's lack of memory presents a jury question rather than a bar (Parvi v. City of Kingston)."
+      ]
+    },
+    {
+      "id": "b-t-iied",
+      "topic": "IIED — elements",
+      "components": [
+        "Intentional or reckless conduct",
+        "Extreme and outrageous conduct",
+        "Causal connection between the conduct and the distress",
+        "The distress must be SEVERE"
+      ],
+      "model": [
+        "IIED has four elements: the conduct was intentional or reckless; it was extreme and outrageous; there is a causal connection between the conduct and the emotional distress; and the distress was severe."
+      ]
+    },
+    {
+      "id": "b-t-harris",
+      "topic": "IIED — severity (Harris v. Jones)",
+      "components": [
+        "Severity is the usual point of failure",
+        "The law expects people to tolerate some rough treatment",
+        "Vague or weak evidence of aggravation is insufficient",
+        "Outrageous conduct proven, severity not — plaintiff lost"
+      ],
+      "model": [
+        "Severity is the demanding element. A supervisor mimicked the plaintiff's stutter dozens of times over months — plainly outrageous — but the evidence that his distress was severe was too vague and weakly supported, so the claim failed (Harris v. Jones).",
+        "The law expects people to tolerate a certain amount of rough treatment; proving outrageousness is not enough."
+      ]
+    }
+  ],
+  "ladders": [
+    {
+      "id": "l-t-intent",
+      "concept": "Intent",
+      "prompt": "Name the two ways the intent element is satisfied.",
+      "slots": [
+        {
+          "label": "Purpose to cause the contact or apprehension",
+          "keywords": [
+            "purpose",
+            "desire",
+            "intend to cause"
+          ]
+        },
+        {
+          "label": "Knowledge to a substantial certainty that it will result",
+          "keywords": [
+            "substantial certainty",
+            "substantially certain",
+            "knowledge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-t-battery",
+      "concept": "Battery",
+      "prompt": "Name the elements of battery.",
+      "slots": [
+        {
+          "label": "An intentional act",
+          "keywords": [
+            "intent",
+            "intentional act"
+          ]
+        },
+        {
+          "label": "Causing harmful or offensive contact",
+          "keywords": [
+            "harmful",
+            "offensive",
+            "contact"
+          ]
+        },
+        {
+          "label": "With the person of another",
+          "keywords": [
+            "person of another",
+            "another",
+            "plaintiff's person"
+          ]
+        },
+        {
+          "label": "Without consent",
+          "keywords": [
+            "consent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-t-assault",
+      "concept": "Assault",
+      "prompt": "Name the elements of assault.",
+      "slots": [
+        {
+          "label": "An intentional act",
+          "keywords": [
+            "intent",
+            "intentional act"
+          ]
+        },
+        {
+          "label": "Causing reasonable apprehension",
+          "keywords": [
+            "apprehension",
+            "reasonable apprehension"
+          ]
+        },
+        {
+          "label": "Of an imminent harmful or offensive contact",
+          "keywords": [
+            "imminent",
+            "harmful",
+            "offensive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-t-fi",
+      "concept": "False imprisonment",
+      "prompt": "Name the elements of false imprisonment.",
+      "slots": [
+        {
+          "label": "An intentional act",
+          "keywords": [
+            "intent",
+            "intentional"
+          ]
+        },
+        {
+          "label": "Restraint of the plaintiff's physical liberty within fixed boundaries",
+          "keywords": [
+            "restrain",
+            "confine",
+            "boundar",
+            "liberty"
+          ]
+        },
+        {
+          "label": "Without adequate legal justification",
+          "keywords": [
+            "justification",
+            "authority",
+            "lawful",
+            "legal justification"
+          ]
+        },
+        {
+          "label": "Plaintiff conscious of the confinement at the time (or harmed by it)",
+          "keywords": [
+            "conscious",
+            "aware",
+            "awareness",
+            "knowledge of"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-t-iied",
+      "concept": "IIED",
+      "prompt": "Name the elements of intentional infliction of emotional distress.",
+      "slots": [
+        {
+          "label": "Intentional or reckless conduct",
+          "keywords": [
+            "intent",
+            "reckless"
+          ]
+        },
+        {
+          "label": "Extreme and outrageous conduct",
+          "keywords": [
+            "outrageous",
+            "extreme"
+          ]
+        },
+        {
+          "label": "Causal connection between conduct and distress",
+          "keywords": [
+            "caus"
+          ]
+        },
+        {
+          "label": "The emotional distress is SEVERE",
+          "keywords": [
+            "severe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-t-transfer",
+      "concept": "Transferred intent torts",
+      "prompt": "Name the torts transferred intent applies to.",
+      "slots": [
+        {
+          "label": "Battery",
+          "keywords": [
+            "battery"
+          ]
+        },
+        {
+          "label": "Assault",
+          "keywords": [
+            "assault"
+          ]
+        },
+        {
+          "label": "False imprisonment",
+          "keywords": [
+            "false imprison",
+            "imprison"
+          ]
+        },
+        {
+          "label": "Trespass to land",
+          "keywords": [
+            "trespass to land",
+            "land"
+          ]
+        },
+        {
+          "label": "Trespass to chattels",
+          "keywords": [
+            "chattel"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "t-intent",
+      "type": "cloze",
+      "concept": "Battery intent — Garratt v. Dailey",
+      "text": "Intent is satisfied by acting with the {{purpose}} of causing the contact, or with knowledge to a {{substantial}} {{certainty}} that the contact will result.",
+      "why": "Age and mental capacity go only to whether the actor COULD hold that knowledge — Garratt (age five), Wagner (mental disability). Neither status defeats intent by itself."
+    },
+    {
+      "id": "t-wagner",
+      "type": "flash",
+      "concept": "Capacity — Wagner v. State",
+      "prompt": "Does mental disability defeat the intent element of battery?",
+      "answer": [
+        "No. Battery requires only intent to make the contact —",
+        "not intent to harm, and not understanding that the act is wrong.",
+        "A mentally disabled actor can form that intent."
+      ],
+      "fallback": "Only intent to {{contact}} is required — not intent to {{harm}}, and not understanding of wrongfulness.",
+      "why": "Pairs with Garratt: two kinds of incapacity, one intent standard."
+    },
+    {
+      "id": "t-fisher",
+      "type": "flash",
+      "concept": "Battery — Fisher v. Carrousel",
+      "prompt": "Is touching the plaintiff's body required for battery?",
+      "answer": [
+        "No. Contact with anything so closely identified with the body",
+        "as to be customarily regarded as part of the person (a plate in the hand) suffices.",
+        "Battery protects personal dignity, not just skin."
+      ],
+      "fallback": "Contact with an object closely {{identified}} with the body counts; battery protects personal {{dignity}}.",
+      "why": "Plate snatched from Fisher's hand — no skin contact, still battery."
+    },
+    {
+      "id": "t-assault",
+      "type": "flash",
+      "concept": "Assault — Western Union v. Hill",
+      "prompt": "Assault: actual ability or apparent ability to complete the contact?",
+      "answer": [
+        "Apparent ability is enough, judged from a reasonable person's view.",
+        "Actual ability to complete the touching is NOT required."
+      ],
+      "fallback": "{{apparent}} ability is enough; {{actual}} ability is not required.",
+      "why": "The counter may have physically stopped Sapp from reaching Mrs. Hill — irrelevant, because it reasonably appeared he could."
+    },
+    {
+      "id": "t-fi",
+      "type": "flash",
+      "concept": "False imprisonment — Big Town + Parvi",
+      "prompt": "False imprisonment: the rule, plus Parvi's refinement about awareness?",
+      "answer": [
+        "Direct restraint of another's physical liberty without adequate legal justification (Big Town).",
+        "The plaintiff must be conscious of the confinement AT THE TIME (or harmed by it) —",
+        "but need not remember it later (Parvi)."
+      ],
+      "fallback": "Restraint of physical {{liberty}} without legal {{justification}}; the victim must be {{conscious}} of it at the time, or harmed by it.",
+      "why": "Parvi was drunk and remembered nothing — but memory later ≠ awareness at the time. Jury question."
+    },
+    {
+      "id": "t-iied",
+      "type": "flash",
+      "concept": "IIED — Harris v. Jones",
+      "prompt": "IIED: the four elements?",
+      "answer": [
+        "1) Intentional or reckless conduct",
+        "2) Extreme and outrageous",
+        "3) Causal connection between conduct and distress",
+        "4) The emotional distress must be severe"
+      ],
+      "fallback": "1) {{intentional}} or reckless 2) {{extreme}} and outrageous 3) a {{causal}} connection 4) the distress must be {{severe}}.",
+      "why": "Harris proved the mocking but lost on element four — severity is a high bar, and vague evidence won't clear it."
+    },
+    {
+      "id": "t-transfer",
+      "type": "flash",
+      "concept": "Transferred intent — Talmage v. Smith",
+      "prompt": "Transferred intent: what transfers, and where does it stop?",
+      "answer": [
+        "Intent to commit a tort against A transfers when the act injures B instead.",
+        "Works among: battery, assault, false imprisonment, trespass to land, trespass to chattels.",
+        "Limit: it does NOT reach a bystander's IIED claim where the defendant didn't know the bystander was present (Taylor v. Vallelunga)."
+      ],
+      "fallback": "Intent aimed at {{A}} transfers to injured {{B}} — but not to an unknown {{bystander}}'s IIED claim.",
+      "why": "Talmage: stick thrown at one boy, hits another — liable. Taylor: daughter secretly watching her father's beating — no IIED without directed intent."
+    },
+    {
+      "id": "t-mcq-stick",
+      "type": "mcq",
+      "concept": "Transferred intent",
+      "scenario": "D throws a rock to scare trespasser A off his shed; it misses and blinds bystander B, whom D never saw. Battery against B?",
+      "options": [
+        "No — D had no intent toward B",
+        "Yes — transferred intent supplies the intent element",
+        "No — B assumed the risk by standing nearby",
+        "Yes — but only as negligence, not battery"
+      ],
+      "correct": 1,
+      "explanation": "Talmage v. Smith: intent to commit unlawful contact against A transfers to B, the person actually struck. D can't escape liability because he hit the wrong target.",
+      "why": "You don't need intent toward the specific victim — just intent to commit the tort against someone."
+    },
+    {
+      "id": "t-mcq-crowd",
+      "type": "mcq",
+      "concept": "Offensive contact in context",
+      "scenario": "During a fire drill in a packed stairwell, a teacher taps a parent's back with her fingertips to get her attention over the alarm. The parent falls and sues for battery. Best analysis?",
+      "options": [
+        "Battery — any unconsented touch qualifies",
+        "No battery — ordinary contact in a crowded setting isn't offensive unless rude, insolent, or angry",
+        "No battery — school employees are immune",
+        "Battery — because injury resulted, intent is presumed"
+      ],
+      "correct": 1,
+      "explanation": "Wallace v. Rosen: some contact is part of the ordinary give-and-take of crowded life. Offensiveness is judged by an ordinary person, not one unduly sensitive about dignity — and context (emergency, alarm, crowd) matters.",
+      "why": "Battery's 'offensive' element is contextual, not absolute."
+    }
+  ]
+}

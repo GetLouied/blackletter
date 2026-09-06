@@ -1,17 +1,27 @@
 /* Black Letter — offline shell.
-   Bump CACHE when you publish new notes so phones pick up the update. */
-const CACHE = "blackletter-v2";
+   Bump CACHE whenever you publish, or phones keep serving the old copy. */
+const CACHE = "blackletter-v3";
+
 const SHELL = [
   "./",
   "./index.html",
+  "./css/styles.css",
+  "./css/mobile.css",
+  "./js/app.js",
   "./manifest.webmanifest",
   "./apple-touch-icon.png",
-  "./icon-192.png",
-  "./icon-512.png"
+  "./icons/icon-192.png",
+  "./icons/icon-512.png",
+  "./data/manifest.json",
+  "./data/contracts.json",
+  "./data/torts.json",
+  "./data/civpro.json"
 ];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  e.waitUntil(
+    caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener("activate", (e) => {

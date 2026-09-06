@@ -1,0 +1,995 @@
+{
+  "key": "civpro",
+  "name": "Civil Procedure",
+  "attack": {
+    "title": "Civil Procedure — attack outline",
+    "sections": [
+      {
+        "h": "1. Which court can hear this?",
+        "items": [
+          "Exclusive federal (CAPS): copyright · antitrust · patent infringement · securities → federal only.",
+          "Federal question but not CAPS → concurrent, either system.",
+          "State law claim → federal only through diversity; otherwise default state SMJ."
+        ]
+      },
+      {
+        "h": "2. Complete diversity",
+        "items": [
+          "No plaintiff may share a state with any defendant; same-side overlap is fine.",
+          "Natural person → domicile (true, fixed, permanent; exactly one). U.S. citizen abroad → stateless (Friedrich).",
+          "Corporation → every state of incorporation + PPB by nerve center (Harrison).",
+          "Partnership / LLC / union → every partner or member's state.",
+          "Legal representative → the represented person's state, § 1332(c)(2).",
+          "Alienage § 1332(a)(2): alien v. citizen works; LPRA v. citizen of the SAME state fails; alien v. alien never."
+        ]
+      },
+      {
+        "h": "3. Amount in controversy",
+        "items": [
+          "Must EXCEED $75,000; good-faith allegation controls unless legal certainty says otherwise.",
+          "Pre-filing interest counts; post-filing interest and costs do not; attorney fees only under an American Rule exception.",
+          "Injunction → either party's valuation (exam rule).",
+          "Aggregation: 1π/1Δ may aggregate; 1π/multiple Δ may not; multiple π/1Δ may not; joint claims count once at full value."
+        ]
+      },
+      {
+        "h": "4. Timing and adjustments",
+        "items": [
+          "Citizenship and AIC fixed at commencement. Pre-commencement changes count regardless of motive; post-commencement changes never do.",
+          "Realignment by actual interests can create or destroy diversity.",
+          "Collusive joinder: artificial assignments ignored; genuine unilateral moves allowed.",
+          "Domestic relations: divorce/alimony/custody DECREES only — collection of unpaid support is fine [exam].",
+          "Probate: no direct administration; related tort claims against administrators are fine.",
+          "SMJ is never waivable — judge must dismiss sua sponte."
+        ]
+      }
+    ]
+  },
+  "blurts": [
+    {
+      "id": "b-cp-smj",
+      "topic": "State vs. federal SMJ",
+      "components": [
+        "State courts — general SMJ, the catch-all",
+        "Federal courts — limited SMJ",
+        "Federal: all federal claims + state claims meeting diversity",
+        "SMJ is never waivable — sua sponte dismissal"
+      ],
+      "model": [
+        "State courts have general subject matter jurisdiction — they can hear any claim outside exclusive federal SMJ and are always available as a catch-all. Federal courts have limited SMJ: all federal law claims, but state law claims only where diversity requirements are met.",
+        "Federal SMJ can never be waived, stipulated, or consented into existence; a judge noticing its absence must dismiss sua sponte."
+      ]
+    },
+    {
+      "id": "b-cp-caps",
+      "topic": "Exclusive, concurrent, and default SMJ",
+      "components": [
+        "Exclusive federal — CAPS: copyright, antitrust, patent infringement, securities",
+        "Concurrent — most federal claims, either system",
+        "Default — state court remains when federal requirements fail",
+        "Diversity is irrelevant to a CAPS claim"
+      ],
+      "model": [
+        "Exclusive federal jurisdiction is narrow — CAPS: copyright, antitrust, patent infringement, and securities. Diversity analysis never starts for these; same-state parties are irrelevant.",
+        "Most federal claims — Title VII, for instance — are concurrent, so either system may hear them. Where neither a federal claim nor diversity exists, state court is the default forum ('default SMJ')."
+      ]
+    },
+    {
+      "id": "b-cp-complete",
+      "topic": "Complete diversity",
+      "components": [
+        "§ 1332(a) — citizens of different states, exceeding $75,000",
+        "No plaintiff may share a state with any defendant",
+        "Shared citizenship on the SAME side is fine",
+        "One overlapping pair destroys the whole case"
+      ],
+      "model": [
+        "28 U.S.C. § 1332(a): original jurisdiction where the matter in controversy exceeds $75,000, exclusive of interest and costs, and is between citizens of different states.",
+        "Complete diversity means no plaintiff may be a citizen of the same state as any defendant. Same-side overlap is irrelevant — all plaintiffs may be Floridians and all defendants Georgians — but a single overlapping pair across the v. destroys jurisdiction over the entire case."
+      ]
+    },
+    {
+      "id": "b-cp-domicile",
+      "topic": "Citizenship — natural persons",
+      "components": [
+        "A citizen of the state of domicile",
+        "Domicile = true, fixed, and permanent home",
+        "Always exactly one; never more than one",
+        "A child takes the parents' domicile until majority or emancipation"
+      ],
+      "model": [
+        "A natural person is a citizen of the state in which she is domiciled — her true, fixed, and permanent home. Everyone always has one domicile and never more than one. A child takes the domicile of the parents unless changed at the age of majority or upon emancipation."
+      ]
+    },
+    {
+      "id": "b-cp-stateless",
+      "topic": "Stateless citizens (Friedrich)",
+      "components": [
+        "A U.S. citizen domiciled abroad is not a citizen of any state",
+        "…and is not an alien either",
+        "'Stateless' — fits no § 1332 category",
+        "Neither diversity nor alienage jurisdiction is available"
+      ],
+      "model": [
+        "A U.S. citizen domiciled abroad is not a citizen of a state, because domicile is abroad, and is not an alien, because she remains a U.S. citizen — 'stateless' (Friedrich v. Davis).",
+        "Such a party fits no § 1332 category, so her presence on either side defeats both diversity and alienage jurisdiction. Chain this with the member rule: one stateless partner makes a partnership un-diverse against anyone."
+      ]
+    },
+    {
+      "id": "b-cp-corp",
+      "topic": "Citizenship — corporations",
+      "components": [
+        "Every state by which it has been incorporated",
+        "Plus the ONE state of its principal place of business",
+        "PPB by the nerve center test (Harrison)",
+        "Where officers direct, control, and coordinate — not where operations occur",
+        "BOTH citizenships count for complete diversity"
+      ],
+      "model": [
+        "A corporation is a citizen of every state by which it has been incorporated and of the one state where it has its principal place of business.",
+        "The PPB is located by the nerve center test — the place where officers direct, control, and coordinate the corporation's activities, not where the operations physically happen (Harrison v. Granite Bay Care). Both citizenships count, so a Delaware corporation with a New York nerve center is non-diverse against any New Yorker."
+      ]
+    },
+    {
+      "id": "b-cp-members",
+      "topic": "Citizenship — partnerships, LLCs, unions",
+      "components": [
+        "Citizen of every state where ANY partner or member is a citizen",
+        "No principal place of business rule applies",
+        "One member in the wrong state destroys diversity",
+        "The classic trap is treating an LLC like a corporation"
+      ],
+      "model": [
+        "A partnership, LLC, or labor union is a citizen of every state in which any partner or member is a citizen. There is no PPB rule for these — membership is everything, so an LLC with members in ten states is a citizen of all ten and one member in the wrong state destroys complete diversity."
+      ]
+    },
+    {
+      "id": "b-cp-legalrep",
+      "topic": "Citizenship — legal representatives",
+      "components": [
+        "Deemed a citizen only of the represented person's state",
+        "§ 1332(c)(2)",
+        "Covers decedents, infants, and incompetents",
+        "The representative's own domicile is ignored"
+      ],
+      "model": [
+        "Under § 1332(c)(2), the legal representative of the estate of a decedent is deemed a citizen only of the same state as the decedent, and the representative of an infant or incompetent only of the same state as that person.",
+        "The representative's own domicile is irrelevant: a Georgia executor for a Florida decedent is a Florida citizen for diversity purposes — which also blocks manufacturing diversity by picking an out-of-state representative."
+      ]
+    },
+    {
+      "id": "b-cp-timing",
+      "topic": "Timing of citizenship",
+      "components": [
+        "Determined when the lawsuit is commenced",
+        "Pre-commencement changes count, regardless of reason",
+        "Post-commencement changes never create or destroy diversity",
+        "The AIC is likewise fixed at commencement"
+      ],
+      "model": [
+        "A party's citizenship is determined when the lawsuit is commenced. Pre-commencement changes count regardless of the reason — they may create or destroy diversity, and motive alone is not disqualifying. Post-commencement changes never do, so a defendant cannot escape a federal forum by relocating mid-case.",
+        "The amount in controversy is likewise fixed at commencement."
+      ]
+    },
+    {
+      "id": "b-cp-change",
+      "topic": "Changing domicile",
+      "components": [
+        "Physical presence in the new state — crossing the line counts",
+        "AND intent to make it the true, fixed, permanent home",
+        "Both prongs must coincide",
+        "Courts test intent with objective evidence (Ceglia)",
+        "Residence, property, accounts, voter registration, employment, license, taxes"
+      ],
+      "model": [
+        "A natural person changes domicile by physical presence in the new state — crossing the state line counts — plus intent to make it her true, fixed, and permanent home. Both must coincide.",
+        "Courts test intent with objective evidence: physical residence, personal and real property, bank and brokerage accounts, voter registration, employment, driver's license and auto registration, and payment of taxes (Ceglia v. Zuckerberg). Saying you have moved is not enough; the paper trail decides."
+      ]
+    },
+    {
+      "id": "b-cp-alienage",
+      "topic": "Alienage — the basic rule",
+      "components": [
+        "§ 1332(a)(2) — citizens of a state vs. citizens or subjects of a foreign state",
+        "The alien may be on either side",
+        "Diversity exists between an alien and a U.S. citizen domiciled in a state",
+        "Extra alien parties don't destroy it if a diverse pairing anchors the suit"
+      ],
+      "model": [
+        "Under § 1332(a)(2), jurisdiction exists between citizens of a state and citizens or subjects of a foreign state; the alien may appear on either side of the v.",
+        "Additional alien parties do not destroy jurisdiction so long as a properly diverse plaintiff–defendant pairing anchors the suit."
+      ]
+    },
+    {
+      "id": "b-cp-alienage2",
+      "topic": "Alienage — the limits",
+      "components": [
+        "LPRA vs. U.S. citizen works — UNLESS domiciled in the same state",
+        "That carve-out is statutory text in § 1332(a)(2)",
+        "Alien vs. alien — never",
+        "…even two LPRAs domiciled in different states",
+        "π(MEX) v. Δ(MEX) + Δ(FLA) fails until the alien defendant is dropped"
+      ],
+      "model": [
+        "Statutory carve-out: no jurisdiction where a foreign citizen lawfully admitted for permanent residence is domiciled in the same U.S. state as the opposing citizen — that is written into § 1332(a)(2), not judge-made.",
+        "Alienage never exists between two aliens, even where both are LPRAs domiciled in different states. So π (MEX) against Δ (MEX) and Δ (FLA) fails; drop the Mexican defendant and it works."
+      ]
+    },
+    {
+      "id": "b-cp-aic",
+      "topic": "Amount in controversy — the threshold",
+      "components": [
+        "Must EXCEED $75,000 — exactly $75,000 fails",
+        "Exclusive of interest and costs",
+        "The plaintiff's good-faith allegation controls",
+        "Legal certainty test — it exists unless certain it does not",
+        "Recovery below the threshold does not defeat jurisdiction"
+      ],
+      "model": [
+        "The matter in controversy must exceed $75,000, exclusive of interest and costs — exactly $75,000 fails.",
+        "The plaintiff's good-faith allegation controls: if the plaintiff says the amount exists, it exists unless we can say to a legal certainty that it does not. Because the AIC is measured at commencement, a later recovery below the threshold does not retroactively defeat jurisdiction."
+      ]
+    },
+    {
+      "id": "b-cp-aic2",
+      "topic": "Amount in controversy — what counts",
+      "components": [
+        "Pre-filing interest counts; post-filing interest does not",
+        "Costs never count — filing fees, court reporters, experts",
+        "Attorney fees count only under an exception to the American Rule",
+        "Injunctions — either side's valuation may satisfy (exam rule)",
+        "Mitigation reduces the claim (Bush v. Roadway)"
+      ],
+      "model": [
+        "Interest: pre-filing interest counts toward the AIC; post-filing interest does not. Costs — filing fees, court reporter fees, expert witness fees — never count. Attorney fees count only where recoverable under some exception to the American Rule.",
+        "For injunctions, the exam rule is that the AIC is satisfied if either party's valuation exceeds the threshold. And mitigation reduces the claim: interim wages from a new job are subtracted from a lost-wages figure (Bush v. Roadway Express)."
+      ]
+    },
+    {
+      "id": "b-cp-agg",
+      "topic": "Aggregation rules",
+      "components": [
+        "One plaintiff + one defendant — may aggregate all claims, related or not",
+        "One plaintiff + multiple defendants — may NOT aggregate",
+        "Multiple plaintiffs + one defendant — may NOT aggregate",
+        "Joint claims count once, at full value against each defendant"
+      ],
+      "model": [
+        "A single plaintiff may aggregate the value of all her claims against a single defendant, related or not. A single plaintiff may not aggregate claims against two different defendants, and two plaintiffs may not aggregate their separate claims against a single defendant.",
+        "A joint claim — joint tortfeasors, or jointly held property or rights — counts once at full value rather than presenting an aggregation problem, so under joint and several liability the full amount is in controversy against each defendant."
+      ]
+    },
+    {
+      "id": "b-cp-collusive",
+      "topic": "Collusive joinder & realignment",
+      "components": [
+        "Artificial assignments made solely to manufacture diversity are disregarded",
+        "Does NOT reach a genuine unilateral citizenship change",
+        "Motive alone is not disqualifying",
+        "Realignment by actual interests, not complaint labels",
+        "Realignment can create or destroy diversity"
+      ],
+      "model": [
+        "Courts disregard artificial assignments of claims made solely to manufacture diversity. But the doctrine does not reach a genuine, unilateral change of citizenship made to create diversity — motive alone is not disqualifying, so actually moving your life counts while assigning a claim to a strawman does not.",
+        "Separately, the court may realign parties according to their actual interests rather than how the complaint labels them, which can create or destroy diversity."
+      ]
+    },
+    {
+      "id": "b-cp-drp",
+      "topic": "Domestic relations & probate exceptions",
+      "components": [
+        "Domestic relations — divorce, alimony, and custody DECREES only",
+        "Does NOT bar collection of unpaid spousal or child support [exam]",
+        "Probate — no direct administration of an estate or will",
+        "Related tort/misconduct claims against administrators CAN be heard"
+      ],
+      "model": [
+        "The domestic relations exception is narrowly limited to divorce, alimony, and child custody decrees. It does not apply to a collection action to recover unpaid spousal or child support — the professor flagged this for the exam.",
+        "The probate exception means federal courts will not administer an estate or will directly, but they can hear related tort or misconduct claims against those who administer estates."
+      ]
+    }
+  ],
+  "ladders": [
+    {
+      "id": "l-cp-div",
+      "concept": "Diversity jurisdiction",
+      "prompt": "Name the requirements for diversity jurisdiction under § 1332(a).",
+      "slots": [
+        {
+          "label": "Complete diversity of citizenship",
+          "keywords": [
+            "complete diversity",
+            "diverse",
+            "different states",
+            "citizenship"
+          ]
+        },
+        {
+          "label": "Amount in controversy exceeding $75,000",
+          "keywords": [
+            "75,000",
+            "75000",
+            "amount in controversy",
+            "aic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-cp-caps",
+      "concept": "Exclusive federal SMJ",
+      "prompt": "Name the claims within exclusive federal subject matter jurisdiction (CAPS).",
+      "slots": [
+        {
+          "label": "Copyright",
+          "keywords": [
+            "copyright"
+          ]
+        },
+        {
+          "label": "Anti-trust",
+          "keywords": [
+            "antitrust",
+            "anti-trust",
+            "anti trust"
+          ]
+        },
+        {
+          "label": "Patent infringement",
+          "keywords": [
+            "patent"
+          ]
+        },
+        {
+          "label": "Securities",
+          "keywords": [
+            "securit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-cp-entities",
+      "concept": "Citizenship by party type",
+      "prompt": "Name the party types whose citizenship is determined by a distinct rule.",
+      "slots": [
+        {
+          "label": "Natural person — domicile",
+          "keywords": [
+            "natural person",
+            "individual",
+            "domicil",
+            "person"
+          ]
+        },
+        {
+          "label": "Corporation — incorporation + PPB",
+          "keywords": [
+            "corporation",
+            "incorporat"
+          ]
+        },
+        {
+          "label": "Partnership / LLC — every partner or member",
+          "keywords": [
+            "partnership",
+            "llc",
+            "member",
+            "partner"
+          ]
+        },
+        {
+          "label": "Legal representative — the represented person's state",
+          "keywords": [
+            "representative",
+            "executor",
+            "estate",
+            "decedent"
+          ]
+        },
+        {
+          "label": "Labor union — every member",
+          "keywords": [
+            "union"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-cp-agg",
+      "concept": "Aggregation rules",
+      "prompt": "Name the aggregation rules for the amount in controversy.",
+      "slots": [
+        {
+          "label": "One plaintiff + one defendant: may aggregate all claims",
+          "keywords": [
+            "one plaintiff one defendant",
+            "single plaintiff",
+            "may aggregate",
+            "can aggregate"
+          ]
+        },
+        {
+          "label": "One plaintiff + multiple defendants: no aggregation",
+          "keywords": [
+            "two defendants",
+            "multiple defendants",
+            "against two"
+          ]
+        },
+        {
+          "label": "Multiple plaintiffs + one defendant: no aggregation",
+          "keywords": [
+            "two plaintiffs",
+            "multiple plaintiffs"
+          ]
+        },
+        {
+          "label": "Joint claims count once at full value",
+          "keywords": [
+            "joint"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-cp-except",
+      "concept": "Exceptions to diversity",
+      "prompt": "Name the exceptions to diversity jurisdiction.",
+      "slots": [
+        {
+          "label": "Collusive joinder",
+          "keywords": [
+            "collusi"
+          ]
+        },
+        {
+          "label": "Domestic relations",
+          "keywords": [
+            "domestic"
+          ]
+        },
+        {
+          "label": "Probate",
+          "keywords": [
+            "probate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-cp-domicile",
+      "concept": "Changing domicile",
+      "prompt": "Name what a natural person must show to change domicile.",
+      "slots": [
+        {
+          "label": "Physical presence in the new state",
+          "keywords": [
+            "physical",
+            "presence",
+            "present"
+          ]
+        },
+        {
+          "label": "Intent to make it the true, fixed, permanent home",
+          "keywords": [
+            "intent",
+            "intend",
+            "permanent"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "cp-1332",
+      "type": "cloze",
+      "concept": "Diversity statute — 28 U.S.C. § 1332(a)",
+      "text": "The district courts have original jurisdiction where the matter in controversy exceeds {{$75,000}}, exclusive of {{interest}} and {{costs}}, and is between citizens of different {{states}}.",
+      "why": "The two pillars of diversity jurisdiction: complete diversity + amount in controversy. Both must be satisfied."
+    },
+    {
+      "id": "cp-complete-div",
+      "type": "cloze",
+      "concept": "Complete diversity",
+      "text": "Complete diversity requires that no {{plaintiff}} be a citizen of the same state as any {{defendant}}; shared citizenship on the {{same}} side of the v. is fine.",
+      "why": "π-NJ + π-NJ vs. Δ-NY + Δ-NY works. One NY plaintiff against one NY defendant kills it. A judge who notices the defect must dismiss sua sponte — no motion needed."
+    },
+    {
+      "id": "cp-domicile",
+      "type": "cloze",
+      "concept": "Citizenship — natural person",
+      "text": "A natural person is a citizen of the state of her domicile — her {{true}}, {{fixed}}, and {{permanent}} home. Every person has exactly {{one}} domicile, never more.",
+      "why": "A child takes the parents' domicile until majority/emancipation. A U.S. citizen domiciled abroad is 'stateless' — neither a state citizen nor an alien, so no diversity OR alienage jurisdiction (Friedrich v. Davis)."
+    },
+    {
+      "id": "cp-nerve",
+      "type": "cloze",
+      "concept": "Corporate PPB — Harrison v. Granite Bay",
+      "text": "A corporation's principal place of business is found by the {{nerve}} {{center}} test — the place where officers {{direct}}, control, and coordinate the corporation's activities.",
+      "why": "Where the decisions are made, not where operations happen. Granite Bay's group homes were in Maine, but its officers decided from Concord, NH → PPB = NH."
+    },
+    {
+      "id": "cp-caps",
+      "type": "flash",
+      "concept": "Exclusive federal SMJ — CAPS",
+      "prompt": "Which claims fall within EXCLUSIVE federal subject matter jurisdiction? (the mnemonic)",
+      "answer": [
+        "C — Copyright",
+        "A — Anti-trust",
+        "P — Patent infringement",
+        "S — Securities",
+        "Everything else a state court can hear."
+      ],
+      "fallback": "{{Copyright}}, {{Anti}}-trust, {{Patent}} infringement, {{Securities}} — 'CAPS'.",
+      "why": "Most federal claims (e.g., Title VII) are CONCURRENT — either court system. CAPS claims are the narrow federal-only carve-out."
+    },
+    {
+      "id": "cp-gen-lim",
+      "type": "flash",
+      "concept": "General vs. limited SMJ",
+      "prompt": "Why are state courts called courts of GENERAL SMJ and federal courts courts of LIMITED SMJ?",
+      "answer": [
+        "State courts can hear nearly any claim — all state law claims, plus all federal claims except the exclusive (CAPS) set. Always available: the catch-all.",
+        "Federal courts hear only a limited subset — all federal law claims, but state law claims only when diversity requirements are met."
+      ],
+      "fallback": "State courts hear {{any}} claim outside exclusive SMJ; federal courts hear all {{federal}} claims but state claims only through {{diversity}}.",
+      "why": "Professor's 'default SMJ': there is always a state court for your claim even when federal court is closed to you."
+    },
+    {
+      "id": "cp-corp",
+      "type": "flash",
+      "concept": "Citizenship — corporation",
+      "prompt": "A corporation is a citizen of which state(s)?",
+      "answer": [
+        "1) Every state in which it is incorporated (can be more than one), AND",
+        "2) The one state of its principal place of business — found by the nerve center test.",
+        "BOTH citizenships count when testing complete diversity."
+      ],
+      "fallback": "Every state of {{incorporation}} plus the state of its principal place of {{business}} — located at its {{nerve}} center.",
+      "why": "The dual citizenship is the trap: a DE-incorporated corporation with a NY nerve center kills diversity against ANY New York opponent (professor's slide hypo)."
+    },
+    {
+      "id": "cp-members",
+      "type": "flash",
+      "concept": "Citizenship — partnership / LLC / union",
+      "prompt": "Partnerships, LLCs, and labor unions: citizens of which state(s)?",
+      "answer": [
+        "Every state in which ANY partner or member is a citizen.",
+        "One member in the wrong state destroys complete diversity.",
+        "Unlike corporations, there is no PPB rule here — membership is everything."
+      ],
+      "fallback": "Every state in which any {{partner}} or {{member}} is a citizen — no principal place of {{business}} rule applies.",
+      "why": "The classic exam trick is treating an LLC like a corporation. It isn't — an LLC with members in ten states is a citizen of all ten."
+    },
+    {
+      "id": "cp-legalrep",
+      "type": "flash",
+      "concept": "Citizenship — legal representative",
+      "prompt": "A legal representative (of a decedent, infant, or incompetent) is a citizen of which state?",
+      "answer": [
+        "The state of the REPRESENTED person — not the representative's own state.",
+        "§ 1332(c)(2): the representative is 'deemed' a citizen only of the represented person's state."
+      ],
+      "fallback": "The state of the {{represented}} person only — the representative's {{own}} citizenship is ignored.",
+      "why": "Professor's hypo: a Georgia executor for a Florida decedent is a citizen of FLORIDA for diversity purposes."
+    },
+    {
+      "id": "cp-timing",
+      "type": "flash",
+      "concept": "Timing of citizenship",
+      "prompt": "When is a party's citizenship determined — and which changes count?",
+      "answer": [
+        "At the moment the lawsuit is commenced.",
+        "Pre-commencement changes count, regardless of motive (can create or destroy diversity).",
+        "Post-commencement changes never count (cannot create or destroy diversity)."
+      ],
+      "fallback": "Citizenship is fixed at {{commencement}}; {{pre}}-commencement changes count regardless of motive; {{post}}-commencement changes never do.",
+      "why": "A defendant can't escape a judge it dislikes by relocating its PPB mid-case — and a plaintiff who genuinely moves before filing manufactures diversity legitimately (motive alone isn't disqualifying)."
+    },
+    {
+      "id": "cp-change-dom",
+      "type": "flash",
+      "concept": "Changing domicile — Ceglia v. Zuckerberg",
+      "prompt": "How does a natural person change domicile, and how do courts verify it?",
+      "answer": [
+        "1) Physical presence in the new state (crossing the line counts), AND",
+        "2) Intent to make it her true, fixed, permanent home.",
+        "Courts test intent with objective evidence: residence, real/personal property, bank accounts, voter registration, employment, driver's license, tax payments."
+      ],
+      "fallback": "{{physical}} presence in the new state plus {{intent}} to make it the true, fixed, permanent home — proven by {{objective}} evidence.",
+      "why": "Both prongs must coincide. Saying you've moved isn't enough; the paper trail decides (Ceglia)."
+    },
+    {
+      "id": "cp-stateless",
+      "type": "flash",
+      "concept": "Stateless citizen — Friedrich v. Davis",
+      "prompt": "A U.S. citizen domiciled abroad is a party. Diversity? Alienage?",
+      "answer": [
+        "Neither. A U.S. citizen domiciled abroad is not a citizen of any state (no state domicile) — and is not an alien (still a U.S. citizen).",
+        "'Stateless' — their presence defeats both diversity AND alienage jurisdiction."
+      ],
+      "fallback": "A U.S. citizen domiciled {{abroad}} is not a citizen of a state nor an {{alien}} — '{{stateless}}' — so there can be neither diversity nor alienage jurisdiction.",
+      "why": "Friedrich v. Davis. A stateless party fits no § 1332 category, so the whole configuration fails."
+    },
+    {
+      "id": "cp-evidence",
+      "type": "flash",
+      "concept": "Objective evidence of domicile — Ceglia",
+      "prompt": "Courts test a claimed domicile change with objective evidence. Name at least five kinds.",
+      "answer": [
+        "Physical residence · personal and real property · bank and brokerage accounts · voter registration · employment · driver's license and auto registration · payment of taxes."
+      ],
+      "fallback": "Physical {{residence}}, real and personal {{property}}, bank and brokerage accounts, {{voter}} registration, employment, driver's {{license}} and auto registration, and payment of {{taxes}}.",
+      "why": "Ceglia v. Zuckerberg — the paper trail decides intent, not the party's say-so."
+    },
+    {
+      "id": "cp-aic-test",
+      "type": "flash",
+      "concept": "AIC — good faith & legal certainty",
+      "prompt": "The amount in controversy standard: whose number controls, and what's the test?",
+      "answer": [
+        "Must EXCEED $75,000, exclusive of interest and costs.",
+        "The plaintiff's good-faith allegation controls — unless it appears to a legal certainty the amount cannot be recovered.",
+        "Recovering less than $75,000 later does NOT defeat jurisdiction (AIC is measured at commencement).",
+        "Exam rule for injunctions: satisfied if EITHER side's valuation exceeds $75,000."
+      ],
+      "fallback": "Plaintiff's {{good}}-faith allegation controls unless it appears to a legal {{certainty}} the amount cannot be recovered; recovery below the minimum {{after}} commencement does not defeat jurisdiction.",
+      "why": "$75,000.00 exactly fails — it must exceed. Punitive damages can carry a claim over the line."
+    },
+    {
+      "id": "cp-aic-counts",
+      "type": "flash",
+      "concept": "AIC — what counts",
+      "prompt": "For the AIC: which of these count — pre-filing interest, post-filing interest, court costs, attorney fees, mitigated wages?",
+      "answer": [
+        "Pre-filing interest: counts. Post-filing interest: does not.",
+        "Costs (filing fees, court reporters, experts): do not count.",
+        "Attorney fees: count only if recoverable under an exception to the American Rule.",
+        "Mitigation subtracts: pre-commencement earnings from a new job reduce a lost-wages claim (Bush v. Roadway)."
+      ],
+      "fallback": "{{pre}}-filing interest counts; post-filing interest and {{costs}} do not; attorney fees count only under an exception to the {{American}} Rule; {{mitigation}} reduces the claim.",
+      "why": "Bush also teaches burden: the party invoking federal jurisdiction (there, the removing defendant) must prove the AIC when questioned — and Roadway wouldn't put a number on Bush's other damages for fear of setting a floor for trial."
+    },
+    {
+      "id": "cp-alienage",
+      "type": "flash",
+      "concept": "Alienage jurisdiction",
+      "prompt": "Alienage: which configurations work, and which never do?",
+      "answer": [
+        "Alien vs. U.S. citizen domiciled in a state: works (either side).",
+        "LPRA vs. U.S. citizen: works — UNLESS the LPRA is domiciled in the same state as the opposing citizen.",
+        "Alien vs. alien: NEVER — even two LPRAs domiciled in different states.",
+        "Extra alien parties don't destroy jurisdiction so long as a fully diverse citizen pairing anchors the suit — but π(MEX) vs. Δ(MEX) + Δ(FL) fails until the foreign defendant is dropped."
+      ],
+      "fallback": "An alien vs. a {{citizen}} of a state = alienage jurisdiction; two {{aliens}} on opposite sides = never; an LPRA domiciled in the {{same}} state as the opposing citizen destroys it.",
+      "why": "§ 1332(a)(2): the LPRA same-state carve-out is statutory, not judge-made. And a U.S. citizen domiciled abroad fits nowhere — stateless (Friedrich)."
+    },
+    {
+      "id": "cp-exceptions",
+      "type": "flash",
+      "concept": "Exceptions to diversity jurisdiction",
+      "prompt": "The three exceptions to diversity jurisdiction — and the exam-flagged carve-out?",
+      "answer": [
+        "Collusive joinder: courts ignore artificial claim assignments made solely to manufacture diversity (genuine unilateral moves are fine — motive alone isn't disqualifying).",
+        "Domestic relations: divorce, alimony/support awards or modifications, and custody decrees ONLY — but a collection action for UNPAID support is NOT excluded. [Exam point]",
+        "Probate: federal courts won't administer an estate or will directly — but CAN hear related tort/misconduct claims against administrators."
+      ],
+      "fallback": "The domestic relations exception covers {{divorce}}, support, and {{custody}} decrees — but does NOT bar {{collection}} actions for unpaid support; courts also disregard {{collusive}} joinder.",
+      "why": "The professor flagged the unpaid-support collection carve-out specifically for the exam."
+    },
+    {
+      "id": "cp-realign",
+      "type": "flash",
+      "concept": "Realignment",
+      "prompt": "What is realignment, and why does it matter for diversity?",
+      "answer": [
+        "The court may realign parties according to their ACTUAL interests, regardless of how the complaint labels them.",
+        "Realignment can create or destroy complete diversity."
+      ],
+      "fallback": "The court aligns parties by their actual {{interests}}, not their labels — which can {{create}} or destroy diversity.",
+      "why": "Labels don't control; substance does. A 'defendant' whose interests track the plaintiff's gets moved across the v."
+    },
+    {
+      "id": "cp-mcq-agg1",
+      "type": "mcq",
+      "concept": "Aggregation — Rule 1",
+      "scenario": "π (NJ) sues Δ (NY) in one lawsuit: negligence for $50,000 and breach of contract for $60,000. Is the amount in controversy satisfied?",
+      "options": [
+        "No — each claim must independently exceed $75,000",
+        "Yes — one plaintiff may aggregate all her claims against one defendant: $110,000",
+        "No — tort and contract claims can never be combined",
+        "Yes — but only because the claims arise from the same transaction"
+      ],
+      "correct": 1,
+      "explanation": "Aggregation Rule 1: a single plaintiff adds together ALL her claims against a single defendant — related or not. $50k + $60k = $110k, AIC satisfied.",
+      "why": "One-on-one is the only free aggregation. Add a party on either side and the rules flip."
+    },
+    {
+      "id": "cp-mcq-agg2",
+      "type": "mcq",
+      "concept": "Aggregation — Rules 2 & 3",
+      "scenario": "π (NJ) sues Δ-1 (NY) for negligence ($50,000) and Δ-2 (PA) for negligence ($60,000) in one lawsuit. AIC satisfied?",
+      "options": [
+        "Yes — the total at stake is $110,000",
+        "No — one plaintiff cannot aggregate claims against multiple defendants; neither claim clears $75,000",
+        "Yes — as long as complete diversity exists",
+        "No — negligence claims are capped at $75,000"
+      ],
+      "correct": 1,
+      "explanation": "Aggregation Rule 2: no adding across defendants. Each defendant's exposure is measured separately, and neither $50k nor $60k exceeds $75k. (Rule 3 is the mirror: multiple plaintiffs can't combine against one defendant.)",
+      "why": "Exception: a JOINT claim (joint tortfeasors, jointly held rights) counts as one claim for its full value."
+    },
+    {
+      "id": "cp-mcq-jsl",
+      "type": "mcq",
+      "concept": "AIC — joint & several liability",
+      "scenario": "Polly (FL) sues Daniel (GA) and Donald (SC) — jointly and severally liable — for $100,000 in one negligence action. Can she satisfy the AIC in federal court?",
+      "options": [
+        "No — $100,000 split across two defendants is $50,000 each",
+        "Yes — under joint and several liability, the claim against EACH defendant is for the full $100,000",
+        "No — multiple defendants always defeat the AIC",
+        "Yes — but only if each defendant's share independently exceeds $75,000"
+      ],
+      "correct": 1,
+      "explanation": "Joint and several liability means Polly can collect the entire $100,000 from either defendant alone — so the amount in controversy against each is $100,000, even though she can only collect $100,000 in total.",
+      "why": "Joint claims are the carve-out from the no-aggregation rules: one claim, full value."
+    },
+    {
+      "id": "cp-mcq-timing",
+      "type": "mcq",
+      "concept": "Post-commencement citizenship change",
+      "scenario": "ABC (DE + NY) sues DEF (CA + PPB Los Angeles) in federal court. Mid-case, after unfavorable rulings, DEF moves its principal place of business to New York and moves to dismiss for lack of complete diversity. Result?",
+      "options": [
+        "Grant — complete diversity no longer exists",
+        "Deny — citizenship is fixed at commencement; post-commencement changes cannot destroy diversity",
+        "Grant — a corporation's citizenship follows its current PPB",
+        "Deny — but only because DEF's motive was improper"
+      ],
+      "correct": 1,
+      "explanation": "Citizenship is measured when the suit is commenced (DE+NY vs. CA). Post-commencement changes never create or destroy diversity — motive is irrelevant, timing is everything.",
+      "why": "Flip side: a genuine pre-commencement move counts even if made precisely to create diversity."
+    },
+    {
+      "id": "cp-mcq-injunction",
+      "type": "mcq",
+      "concept": "AIC — valuing an injunction",
+      "scenario": "Peter (NY) seeks an injunction forcing Danielle (CT) to lower her beach house. Success raises Peter's home value by $50,000; compliance costs Danielle $250,000. For exam purposes, is the AIC satisfied?",
+      "options": [
+        "No — the plaintiff's viewpoint controls, and $50,000 falls short",
+        "Yes — the AIC is satisfied if EITHER party's valuation exceeds $75,000",
+        "No — injunctions have no monetary value for AIC purposes",
+        "Yes — injunction cases are exempt from the AIC requirement"
+      ],
+      "correct": 1,
+      "explanation": "Courts split on valuing injunctions, but the exam rule per the professor: the AIC is satisfied when the value from EITHER the plaintiff's or the defendant's perspective exceeds $75,000. Danielle's $250,000 compliance cost carries it.",
+      "why": "Know both views exist; apply the either-viewpoint rule on the exam."
+    },
+    {
+      "id": "cp-mcq-alien",
+      "type": "mcq",
+      "concept": "Alienage — alien on both sides",
+      "scenario": "π (citizen of Mexico) sues Δ-1 (citizen of Mexico) and Δ-2 (U.S. citizen, FL) on a state law claim for $200,000. Alienage jurisdiction?",
+      "options": [
+        "Yes — an alien versus a U.S. citizen always supports alienage jurisdiction",
+        "No — aliens appear on both sides of the v.; but dropping the Mexican defendant would cure it",
+        "Yes — additional foreign parties never affect jurisdiction",
+        "No — alienage jurisdiction requires all parties to be U.S. citizens"
+      ],
+      "correct": 1,
+      "explanation": "Alienage never exists between two aliens — and here aliens sit on both sides. Extra alien parties are tolerated only when a fully diverse pairing anchors the suit. Drop Δ-1, and π(MEX) vs. Δ(FL) is a clean § 1332(a)(2) case.",
+      "why": "Check every party's status before calling it alienage — one alien opposite another poisons the configuration."
+    },
+    {
+      "id": "cp-mcq-caps",
+      "type": "mcq",
+      "concept": "Exclusive SMJ — professor's Sherman Act hypo",
+      "scenario": "Polly (FL) sues Daniel (FL) for violating the Sherman Act, 15 U.S.C. § 1 (federal antitrust). Where can this claim be heard?",
+      "options": [
+        "State court only — the parties aren't diverse",
+        "Federal court only — antitrust falls within exclusive federal SMJ (CAPS)",
+        "Either court — most federal claims are concurrent",
+        "Neither court — no diversity and no AIC alleged"
+      ],
+      "correct": 1,
+      "explanation": "Antitrust is the A in CAPS — one of the few claims exclusively vested in federal courts. Diversity is irrelevant: this is federal question territory, and same-state parties don't matter.",
+      "why": "Spot the exclusive-SMJ claims first; diversity analysis never even starts for CAPS claims."
+    },
+    {
+      "id": "cp-mcq-concurrent",
+      "type": "mcq",
+      "concept": "Concurrent SMJ — professor's Title VII hypo",
+      "scenario": "Polly (FL) sues Daniel (FL) and ABC Corp under Title VII of the Civil Rights Act (federal law). Which court(s) can hear it?",
+      "options": [
+        "Federal only — all federal claims are exclusively federal",
+        "Either — most federal law claims fall within the concurrent jurisdiction of both systems",
+        "State only — the parties share Florida citizenship",
+        "Neither — employment claims must go to an agency first"
+      ],
+      "correct": 1,
+      "explanation": "Title VII is a federal claim, but NOT a CAPS claim — so it's concurrent: a state court (general SMJ) or a federal court (federal question) can hear it. Shared FL citizenship blocks diversity, but federal question jurisdiction doesn't need diversity.",
+      "why": "Exclusive is the narrow exception; concurrent is the norm for federal claims."
+    },
+    {
+      "id": "cp-mcq-default",
+      "type": "mcq",
+      "concept": "Default SMJ — professor's $50k hypo",
+      "scenario": "Polly (FL) wants to sue Daniel (FL) for negligence, seeking $50,000. Which court(s) can hear the claim?",
+      "options": [
+        "Either — negligence claims are concurrent",
+        "State court only — same-state parties AND an amount under $75,000.01 each independently defeat diversity",
+        "Federal court only — car accidents involve federal highways",
+        "State court only — but solely because of the dollar amount"
+      ],
+      "correct": 1,
+      "explanation": "This is the professor's 'default SMJ' scenario: a state law claim that CANNOT enter federal court because diversity fails twice over — no diverse citizenship and no sufficient AIC. State court is the catch-all that always remains.",
+      "why": "Either defect alone kills diversity; here there are two."
+    },
+    {
+      "id": "cp-mcq-corpdiv",
+      "type": "mcq",
+      "concept": "Complete diversity — corporate plaintiff",
+      "scenario": "π-1 (a corporation incorporated in DE with its PPB in NY), π-2 (NJ), π-3 (AL) sue Δ-1 (NY), Δ-2 (NY), Δ-3 (TX). Complete diversity?",
+      "options": [
+        "Yes — π-1 is a Delaware corporation, and no other plaintiff overlaps",
+        "No — π-1 is ALSO a citizen of NY (its PPB), overlapping with Δ-1 and Δ-2",
+        "Yes — corporate citizenship is only tested where incorporated",
+        "No — multiple defendants from the same state defeat diversity by themselves"
+      ],
+      "correct": 1,
+      "explanation": "Both corporate citizenships count. π-1 is a citizen of DE AND NY — and NY defendants sit across the v. Complete diversity fails. (Same-side overlaps, like the two NY defendants, are always fine.)",
+      "why": "Straight from the professor's Class One slides — always run the corporation's second citizenship."
+    },
+    {
+      "id": "cp-mcq-suasponte",
+      "type": "mcq",
+      "concept": "Sua sponte dismissal",
+      "scenario": "Peter (NY) sues Danielle (NY) in federal court on a $200,000 state law contract claim. Neither party objects to jurisdiction, but the judge notices the shared citizenship. What must the judge do?",
+      "options": [
+        "Nothing — objections to jurisdiction are waived if not raised",
+        "Dismiss for lack of SMJ, even without any motion — federal judges must police their own jurisdiction",
+        "Transfer the case to state court automatically",
+        "Proceed, but flag the issue for appeal"
+      ],
+      "correct": 1,
+      "explanation": "The Constitution and § 1332 limit federal SMJ, so federal judges are obligated to police it themselves. A judge who notices the defect must dismiss sua sponte — party silence can't create jurisdiction that doesn't exist.",
+      "why": "SMJ can never be waived, stipulated, or consented into existence."
+    },
+    {
+      "id": "cp-mcq-verdict",
+      "type": "mcq",
+      "concept": "AIC — measured at commencement",
+      "scenario": "Peter (NY) sues Danielle (CT) in federal court alleging $200,000 in contract damages. The jury awards only $25,000. Danielle immediately moves to dismiss for lack of SMJ. Result?",
+      "options": [
+        "Grant — the recovery proves less than $75,000 was ever in controversy",
+        "Deny — AIC is measured at commencement from the plaintiff's good-faith allegation; a smaller verdict changes nothing",
+        "Grant — but Peter keeps the $25,000",
+        "Deny — but only because Danielle waited until after trial"
+      ],
+      "correct": 1,
+      "explanation": "The AIC is fixed at the moment of filing, based on a good-faith allegation. Recovering less later — even far less — does not retroactively strip jurisdiction. The legal-certainty test is applied looking forward from filing, not backward from the verdict.",
+      "why": "Timing symmetry with citizenship: both jurisdiction inputs lock at commencement."
+    },
+    {
+      "id": "cp-hypo-llc",
+      "type": "mcq",
+      "concept": "LLC vs. corporation citizenship trap",
+      "scenario": "An LLC with two members (one domiciled in FL, one in GA) sues a corporation incorporated in DE with its nerve center in FL, for $500,000. Complete diversity?",
+      "options": [
+        "Yes — the LLC is a citizen of its state of organization only",
+        "No — the LLC is a citizen of FL and GA (every member), the corporation of DE and FL — Florida sits on both sides",
+        "Yes — LLCs take only their principal place of business",
+        "No — LLCs can never invoke diversity jurisdiction"
+      ],
+      "correct": 1,
+      "explanation": "The classic trap: an LLC takes EVERY member's citizenship (no PPB rule), while a corporation takes incorporation + nerve center. FL appears on both sides of the v. — complete diversity fails.",
+      "why": "Run entity citizenship rules separately for each side before comparing; never treat an LLC like a corporation."
+    },
+    {
+      "id": "cp-hypo-exec",
+      "type": "mcq",
+      "concept": "Legal representative citizenship",
+      "scenario": "A Georgia resident serving as executor of a Florida decedent's estate sues a Florida defendant in federal court for $200,000. Diversity?",
+      "options": [
+        "Yes — the executor is a Georgia citizen suing a Florida citizen",
+        "No — under § 1332(c)(2), the executor is deemed a citizen only of Florida (the decedent's state), so both sides are Floridian",
+        "Yes — estates are citizens of every state where estate property sits",
+        "No — estates can never sue in federal court"
+      ],
+      "correct": 1,
+      "explanation": "§ 1332(c)(2): a legal representative takes ONLY the represented person's citizenship — the executor's own Georgia domicile is ignored. FL vs. FL, no diversity. This is the professor's exact hypo with the parties put in suit posture.",
+      "why": "Also blocks manufacturing diversity by hand-picking an out-of-state representative."
+    },
+    {
+      "id": "cp-hypo-stateless",
+      "type": "mcq",
+      "concept": "Stateless member poisons the entity",
+      "scenario": "A partnership's three partners are domiciled in TX, OK — and one is a U.S. citizen domiciled in Paris. The partnership sues a NY corporation for $1M in federal court. Diversity?",
+      "options": [
+        "Yes — TX/OK vs. NY is completely diverse; ignore the partner abroad",
+        "No — the U.S.-citizen partner domiciled abroad is stateless, and the partnership takes every partner's status — no diversity configuration is possible",
+        "Yes — the Paris partner counts as a French citizen, creating alienage",
+        "No — partnerships cannot sue in federal court"
+      ],
+      "correct": 1,
+      "explanation": "Chain two rules: a U.S. citizen domiciled abroad is stateless (Friedrich) — neither a state citizen nor an alien — and a partnership carries EVERY partner's citizenship. One stateless partner makes the entity un-diverse against anyone; the suit belongs in state court.",
+      "why": "Friedrich + the member rule stacked — exactly the kind of two-rule chain essay exams reward."
+    },
+    {
+      "id": "cp-hypo-lpra",
+      "type": "mcq",
+      "concept": "Alienage — the LPRA carve-out",
+      "scenario": "A citizen of Brazil, lawfully admitted for permanent residence (green card) and domiciled in Florida, sues a U.S. citizen domiciled in Florida for $100,000. Alienage jurisdiction?",
+      "options": [
+        "Yes — an alien versus a U.S. citizen is the core alienage case",
+        "No — § 1332(a)(2)'s carve-out: no jurisdiction between a foreign citizen admitted for permanent residence and a U.S. citizen domiciled in the SAME state",
+        "Yes — green card holders are treated as U.S. citizens",
+        "No — Brazilians cannot sue in U.S. courts"
+      ],
+      "correct": 1,
+      "explanation": "The statutory exception written into § 1332(a)(2): an LPRA domiciled in the same U.S. state as the opposing citizen destroys alienage jurisdiction. Move either party's domicile to Georgia and the suit works.",
+      "why": "The carve-out is statutory text, not case law — quote it as such."
+    },
+    {
+      "id": "cp-hypo-move",
+      "type": "mcq",
+      "concept": "Pre-commencement move made to create diversity",
+      "scenario": "Three weeks before filing against a Texas defendant, P moves from Texas to Oklahoma specifically so she can sue in federal court — new apartment, new job, OK driver's license, voter registration, bank accounts. She then files. Does diversity exist?",
+      "options": [
+        "No — a move motivated by creating diversity is collusive and ignored",
+        "Yes — a GENUINE pre-commencement domicile change counts regardless of motive; the objective evidence shows real intent to remain",
+        "No — she must live in Oklahoma at least one year first",
+        "Yes — but only if the defendant consents"
+      ],
+      "correct": 1,
+      "explanation": "Two rules cooperating: citizenship is fixed at commencement, and pre-commencement changes count REGARDLESS of reason — motive alone is not disqualifying (that's the collusive-joinder doctrine's own limit; it targets artificial claim ASSIGNMENTS, not genuine unilateral moves). The Ceglia-style objective evidence proves the change is real.",
+      "why": "Distinguish: assigning a claim to an out-of-state strawman = collusive; actually moving your life = allowed."
+    },
+    {
+      "id": "cp-hypo-nerve",
+      "type": "mcq",
+      "concept": "Nerve center vs. operations",
+      "scenario": "A corporation runs all its factories in Ohio, where 95% of employees work — but its officers set policy and direct operations from a small headquarters in New York. Incorporated in Delaware. Its citizenships?",
+      "options": [
+        "DE and OH — the principal place of business is where the business mostly happens",
+        "DE and NY — the nerve center test locates the PPB where officers direct, control, and coordinate, not where operations occur",
+        "OH only — most employees controls",
+        "DE, OH, and NY — corporations take every state where they operate"
+      ],
+      "correct": 1,
+      "explanation": "Harrison v. Granite Bay: the nerve center is the place of direction and decision — the brain, not the muscle. Heavy operations in Ohio don't move the PPB from the New York headquarters. Exactly one PPB, plus every state of incorporation.",
+      "why": "Watch for facts that dangle a big-operations state as bait — the test asks where decisions are made."
+    },
+    {
+      "id": "cp-hypo-support",
+      "type": "mcq",
+      "concept": "Domestic relations — the collection carve-out",
+      "scenario": "After a state-court divorce, P (now domiciled in GA) sues her ex-spouse (FL) in federal court to COLLECT $150,000 in unpaid, already-awarded child support. The ex moves to dismiss under the domestic relations exception. Result?",
+      "options": [
+        "Dismiss — anything touching child support is a domestic relations matter",
+        "Deny — the exception covers only issuing/modifying divorce, alimony, and custody decrees; a collection action for unpaid support proceeds in diversity",
+        "Dismiss — family members can never be diverse",
+        "Deny — but only if the state court certifies the question"
+      ],
+      "correct": 1,
+      "explanation": "The exam-flagged carve-out: the domestic relations exception is narrow — divorce, alimony, and custody DECREES. A suit to collect a support debt already reduced to an award is an ordinary money claim; with GA vs. FL and $150,000, diversity is satisfied.",
+      "why": "Your outline literally tags this '[know for exam]' — the trap answer is over-reading the exception."
+    },
+    {
+      "id": "cp-hypo-interest",
+      "type": "mcq",
+      "concept": "AIC — interest and costs arithmetic",
+      "scenario": "P sues a diverse defendant alleging $70,000 in contract damages, plus $6,000 in interest that accrued BEFORE filing, and expects $10,000 in filing fees and expert costs. Amount in controversy satisfied?",
+      "options": [
+        "No — $70,000 in damages falls short and nothing else ever counts",
+        "Yes — pre-filing interest counts toward the AIC: $70,000 + $6,000 = $76,000, exceeding $75,000 (costs never count)",
+        "Yes — $70,000 + $10,000 in costs = $80,000",
+        "No — interest of any kind is excluded by the statute"
+      ],
+      "correct": 1,
+      "explanation": "The professor's split on 'exclusive of interest and costs': PRE-filing interest (part of the accrued claim) counts; post-filing interest and litigation costs (filing fees, court reporters, experts) never do. $76,000 exceeds — not merely equals — $75,000. AIC satisfied.",
+      "why": "Attorney fees are the third wrinkle: they count only when recoverable under an exception to the American Rule."
+    }
+  ]
+}

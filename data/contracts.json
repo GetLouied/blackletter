@@ -1,0 +1,1621 @@
+{
+  "key": "contracts",
+  "name": "Contracts",
+  "attack": {
+    "title": "Contracts — attack outline",
+    "sections": [
+      {
+        "h": "0. Threshold",
+        "items": [
+          "Goods or services? → UCC Article 2 vs. common law / Restatement (2d).",
+          "Objective theory governs throughout: outward expression, not secret intent (Lucy v. Zehmer)."
+        ]
+      },
+      {
+        "h": "1. Is there an offer?",
+        "items": [
+          "§ 24: manifestation of willingness, so made as to justify understanding that assent is invited and will conclude it.",
+          "§ 26 negative: no offer if a further manifestation of assent is required.",
+          "Factors (none dispositive): finality · completeness · context · audience · jargon · method of acceptance · policy/fairness · accepted practice.",
+          "Advertisement? → default invitation (Craft). Exception if performance promised in positive terms, clear/definite/explicit, other facts show intent (Lefkowitz; contrast Leonard).",
+          "Price quotation? → course of dealing + manner of inviting acceptance (Nordyne; Fairmount; contrast Moulton)."
+        ]
+      },
+      {
+        "h": "2. Was the offer still alive?",
+        "items": [
+          "Terminated by: rejection · revocation · counteroffer · lapse of time · death of the offeror.",
+          "§ 43: definite inconsistent action + reliable information kills the power of acceptance (Dickinson v. Dodds).",
+          "Hold-open promise without consideration = nudum pactum, not binding.",
+          "Option: supported by consideration → irrevocable; or § 87(2) substantial pre-acceptance reliance."
+        ]
+      },
+      {
+        "h": "3. Was there an acceptance?",
+        "items": [
+          "§ 50: manifestation of assent in a manner invited or required by the offer.",
+          "Mode: promise (every essential act + notice) vs. performance (part performed/tendered; preparation insufficient). Ambiguous → either.",
+          "Mirror image: material change = counteroffer; § 61 mere request survives unless acceptance depends on it (Ardente).",
+          "Notice: required for promise-acceptance (Hendricks); notice to an agent within authority binds the principal.",
+          "Timing: § 63(a) acceptance effective on dispatch; revocations/rejections/second-move acceptances on receipt; options on receipt."
+        ]
+      },
+      {
+        "h": "4. Is there consideration?",
+        "items": [
+          "Bargained-for exchange: return promise · act · forbearance · affecting legal relations.",
+          "Benefit to promisor not required (Hamer); almost any benefit suffices (Langer).",
+          "Not consideration: past consideration (Dougherty); a condition merely necessary to receive a gift (Kirksey).",
+          "Forbearance of an invalid claim: § 74(1) — doubtful claim OR honest belief in validity."
+        ]
+      },
+      {
+        "h": "5. No consideration? Try the substitutes.",
+        "items": [
+          "Promissory estoppel § 90 — promise · reasonably expected to induce · actually induces · injustice avoidable only by enforcement. Remedy as justice requires.",
+          "Unjust enrichment — benefit received + retention unjust. Exceptions: volunteer; forced exchange. Subordinate to contracts.",
+          "Promise for a benefit already received — Mills default; pre-existing legal obligation categories (infancy, SOL, bankruptcy); material benefit rule (Webb) vs. refusal (Harrington); § 86 with its gift / no-enrichment / disproportion limits.",
+          "Argue BOTH interpretations where the jurisdiction is unsettled — that is the professor's stated expectation."
+        ]
+      }
+    ]
+  },
+  "blurts": [
+    {
+      "id": "b-c-sources",
+      "topic": "Sources of contract law",
+      "components": [
+        "Common law — judge-made, governs services",
+        "Restatement (Second) of Contracts as the common-law guide",
+        "UCC Article 2 — statutory, governs transactions in goods",
+        "Threshold question: goods or services?"
+      ],
+      "model": [
+        "Common law — judge-made, applies to services, organized for study by the Restatement (Second) of Contracts. UCC Article 2 — statutory, applies to transactions in goods.",
+        "Characterize the subject matter first; the rules diverge (notably on the mirror image rule)."
+      ]
+    },
+    {
+      "id": "b-c-objective",
+      "topic": "Objective theory of contracts",
+      "components": [
+        "Outward expression controls, not secret unexpressed intention",
+        "Law imputes an intention matching the reasonable meaning of words and acts",
+        "A private joke or reservation does not defeat a manifested agreement",
+        "Unless a reasonable person would have recognized the joke"
+      ],
+      "model": [
+        "We look to the outward expression of a person as manifesting his intention rather than to his secret and unexpressed intention; the law imputes an intention corresponding to the reasonable meaning of his words and acts (Lucy v. Zehmer).",
+        "A private reservation — drunk, joking — does not defeat what the conduct manifested, unless a reasonable person in the other party's position would have understood it as a joke (contrast Leonard)."
+      ]
+    },
+    {
+      "id": "b-c-formation",
+      "topic": "Contract formation ingredients",
+      "components": [
+        "Offer — one party offers a promise",
+        "Acceptance — the other party accepts",
+        "Offer + acceptance = meeting of the minds",
+        "Consideration — bargained-for exchange"
+      ],
+      "model": [
+        "Three ingredients: offer, acceptance (together the meeting of the minds), and consideration — a bargained-for exchange.",
+        "Where one is missing, the workarounds are promissory estoppel and restitution."
+      ]
+    },
+    {
+      "id": "b-c-offer",
+      "topic": "Offer — definition",
+      "components": [
+        "§ 24 — manifestation of willingness to enter into a bargain",
+        "So made as to justify another in understanding assent is invited",
+        "…and that assent will conclude it",
+        "§ 26 — no offer if a further manifestation of assent is required",
+        "Test: would 'I accept' create mutually binding obligations?"
+      ],
+      "model": [
+        "Rest. § 24: an offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understanding that their assent to that bargain is invited and will conclude it.",
+        "Rest. § 26 negative: no offer where the addressee knows or has reason to know the maker does not intend to conclude a bargain until making a further manifestation of assent.",
+        "Working test: if 'I accept' would create mutually binding obligations, it is probably an offer."
+      ]
+    },
+    {
+      "id": "b-c-offerfactors",
+      "topic": "Offer — the eight factors",
+      "components": [
+        "Finality",
+        "Completeness",
+        "Context",
+        "Audience",
+        "Jargon",
+        "Method of acceptance",
+        "Public policy / fairness",
+        "Accepted practice",
+        "None is dispositive"
+      ],
+      "model": [
+        "Finality (willing to be bound on acceptance); completeness (substantially all contemplated terms); context (indicating hope for acceptance); audience (broad audience cuts against); jargon ('legally binding offer' language); method of acceptance specified; public policy and fairness (exploiting an ambiguity cuts against); accepted practice or course of dealing.",
+        "None of these is necessarily dispositive — they are weighed, not counted."
+      ]
+    },
+    {
+      "id": "b-c-quotes",
+      "topic": "Price quotations — the rule",
+      "components": [
+        "General rule — a quotation invites offers, it is not one",
+        "Becomes an offer if assent alone would conclude the deal",
+        "Factor — extent of prior inquiry",
+        "Factor — completeness of terms",
+        "Factor — number of recipients"
+      ],
+      "model": [
+        "A price quotation is generally not an offer but a suggestion to induce offers. It becomes one if detailed enough that it reasonably appears assent to the quote is all that is needed to ripen it into a contract.",
+        "Rest. § 26 cmt. c factors: the extent of prior inquiry, the completeness of the terms, and the number of persons to whom it was communicated."
+      ]
+    },
+    {
+      "id": "b-c-quotecases",
+      "topic": "Quotation cases compared",
+      "components": [
+        "Moulton — unsolicited general circular, no quantity limit, not an offer",
+        "Fairmount — answered a specific inquiry, 'for immediate acceptance' — offer",
+        "Nordyne — months of negotiation, complete terms, one recipient, custom product — offer",
+        "The variable is specificity plus acceptance-inviting language"
+      ],
+      "model": [
+        "Moulton v. Kershaw: an unsolicited general trade letter ('we are authorized to offer') with no quantity limit is a solicitation, not an offer.",
+        "Fairmount Glass Works: a quote responding to a specific inquiry, with quantity fixed by that inquiry and 'for immediate acceptance,' is an offer.",
+        "Nordyne v. ICM: a negotiated, complete, single-recipient quotation for a custom product is an offer, accepted by the production sign-off."
+      ]
+    },
+    {
+      "id": "b-c-ads",
+      "topic": "Advertisements — the rule",
+      "components": [
+        "Default — an ad invites offers, it is not one (Craft)",
+        "Q1 — performance promised in positive terms for something requested",
+        "Q2 — clear, definite, explicit, nothing open to negotiation",
+        "Q3 — other facts showing intent to be bound"
+      ],
+      "model": [
+        "Absent special circumstances, an advertisement is a mere invitation for the audience to make offers (Craft v. Elder & Johnston).",
+        "Three questions: was performance promised in positive terms in return for something requested; is it clear, definite, and explicit, leaving nothing open for negotiation; and do other facts show the advertiser intended an offer."
+      ]
+    },
+    {
+      "id": "b-c-lefkowitz",
+      "topic": "Lefkowitz v. Great Minneapolis Surplus",
+      "components": [
+        "Ad was clear, definite, explicit — nothing open to negotiation",
+        "'First come, first served' identified who could accept",
+        "Performance (being first, $1 in hand) was the acceptance",
+        "A limiting mechanism caps acceptances at inventory",
+        "House rules cannot be imposed after acceptance"
+      ],
+      "model": [
+        "'Saturday 9 A.M. Sharp … 1 Black Lapin Stole … $1.00 First Come First Served' was clear, definite, and explicit, leaving nothing open for negotiation — so it was an offer, accepted by the plaintiff's performance in arriving first with the price.",
+        "The limiting language also caps acceptances at inventory. An advertiser may modify before acceptance but may not impose new conditions (the 'women only' house rule) afterward."
+      ]
+    },
+    {
+      "id": "b-c-leonard",
+      "topic": "Leonard v. PepsiCo",
+      "components": [
+        "Commercial deferred all terms to a separate catalog",
+        "No limiting words — nothing capped the acceptances",
+        "Objective reasonable viewer would perceive a joke",
+        "The viewer's order form was itself the offer, never accepted"
+      ],
+      "model": [
+        "The Harrier Jet commercial was not an offer: it was not self-contained (redemption terms lived in the separate catalog), it lacked any 'first come, first served'-type limitation, and no objective, reasonable person would have understood it as serious.",
+        "Under the ordinary rule, Leonard's order form and check constituted the offer — which PepsiCo never accepted."
+      ]
+    },
+    {
+      "id": "b-c-accept",
+      "topic": "Acceptance — definition and mode",
+      "components": [
+        "§ 50 — manifestation of assent in a manner invited or required",
+        "By default, any reasonable manner is invited",
+        "By promise — every act essential to making the promise",
+        "By performance — at least part performed or tendered",
+        "Ambiguous offer — either mode works"
+      ],
+      "model": [
+        "Rest. § 50: acceptance is the manifestation of assent to the terms of the offer, made by the offeree in a manner invited or required by the offer. By default an offer invites acceptance in any reasonable manner.",
+        "Acceptance by promise requires every act essential to making the promise; acceptance by performance requires at least part of the requested performance to be performed or tendered — mere preparation is insufficient. If the offer is ambiguous, either mode works."
+      ]
+    },
+    {
+      "id": "b-c-mirror",
+      "topic": "Mirror image rule",
+      "components": [
+        "An acceptance changing a material term is a counteroffer",
+        "A counteroffer operates as a rejection",
+        "§ 59 — conditional on assent to different/additional terms = counteroffer",
+        "§ 61 — a mere request for change does not invalidate",
+        "…unless the acceptance is made to DEPEND on that change"
+      ],
+      "model": [
+        "An acceptance that attempts to change a material term of the offer is a counteroffer, not an acceptance, and a counteroffer operates as a rejection.",
+        "Rest. § 59: a reply purporting to accept but conditional on the offeror's assent to additional or different terms is a counter-offer. Rest. § 61: an acceptance that requests a change or addition is not invalidated unless the acceptance is made to depend on assent to it."
+      ]
+    },
+    {
+      "id": "b-c-ardente",
+      "topic": "Ardente v. Horan",
+      "components": [
+        "Buyer signed and returned the agreement with a deposit",
+        "Letter sought 'confirmation' the furnishings were 'part of the transaction'",
+        "…and stressed the items would be difficult to replace",
+        "Read as a condition, not a collateral request → counteroffer, no contract"
+      ],
+      "model": [
+        "The plaintiff executed the purchase agreement and enclosed a deposit, but the accompanying letter asked the sellers to confirm that listed furnishings were part of the transaction and stressed they would be difficult to replace.",
+        "Because the letter did not unequivocally state he would proceed either way, it imposed a condition rather than making a collateral request — converting the acceptance into a counteroffer, so no contract formed."
+      ]
+    },
+    {
+      "id": "b-c-notice",
+      "topic": "Notice of acceptance",
+      "components": [
+        "No contract until acceptance is communicated to the offeror",
+        "An uncommunicated intention to accept is not an acceptance",
+        "Where the offer calls for a promise, notice is always essential",
+        "Notice to an agent within authority is notice to the principal"
+      ],
+      "model": [
+        "There is no contract until acceptance is communicated to the offeror; an uncommunicated intention to accept is not an acceptance, and a mere private act of the offeree does not suffice. Where the offer calls for a promise rather than an act, notice of acceptance is always essential (Hendricks v. Behee).",
+        "Notice to an agent, within the scope of the agent's authority, is notice to the principal — which is why revocation delivered to the sellers' agent beat their signed but uncommunicated acceptance."
+      ]
+    },
+    {
+      "id": "b-c-mailbox",
+      "topic": "Mailbox rule — the basic rule",
+      "components": [
+        "§ 63(a) — acceptance operative when put out of the offeree's control",
+        "Unless the offer provides otherwise",
+        "Effective even if it never reaches the offeror",
+        "Morrison v. Thoelke — complete on mailing, barring later repudiation"
+      ],
+      "model": [
+        "Rest. § 63(a): unless the offer provides otherwise, an acceptance made in a manner and by a medium invited by the offer is operative and completes the manifestation of mutual assent as soon as it is put out of the offeree's control, without regard to whether it ever reaches the offeror.",
+        "Morrison v. Thoelke: the contract is complete on mailing, which bars repudiation before delivery."
+      ]
+    },
+    {
+      "id": "b-c-mailbox2",
+      "topic": "Mailbox rule — receipt and overtaking",
+      "components": [
+        "Dispatch timing applies ONLY to first-move acceptances",
+        "Revocations are effective on receipt",
+        "Rejections are effective on receipt",
+        "An acceptance sent after a rejection is only a counteroffer unless it arrives first",
+        "Option contracts excepted — exercise effective on receipt"
+      ],
+      "model": [
+        "The dispatch rule applies only to first-move acceptances. Revocations, rejections, and second-move acceptances are effective only upon actual receipt.",
+        "Overtaking: a mailed rejection does not terminate the power of acceptance until received, but an acceptance dispatched after a rejection is only a counteroffer unless it reaches the offeror before the rejection does.",
+        "Options are excepted — an exercise must be received within the option period."
+      ]
+    },
+    {
+      "id": "b-c-term",
+      "topic": "Termination of the offer — five ways",
+      "components": [
+        "Rejection",
+        "Revocation at any time before acceptance",
+        "Counteroffer (a conditional acceptance can be one)",
+        "Lapse of time — reasonable time or the time stated",
+        "Death of the offeror"
+      ],
+      "model": [
+        "Five ways: rejection, which ends the acceptability of the offer; revocation at any time prior to acceptance; counteroffer, which operates as a rejection (and a conditional acceptance can be a counteroffer); lapse of time, either a reasonable time or the time provided in the offer; and death of the offeror — the death of the offeror is the death of the offer.",
+        "After termination the offer cannot be accepted."
+      ]
+    },
+    {
+      "id": "b-c-43",
+      "topic": "Revocation through action (§ 43)",
+      "components": [
+        "Power of acceptance ends on definite inconsistent action",
+        "…plus the offeree acquiring reliable information of it",
+        "No formal revocation notice from the offeror required",
+        "Dickinson v. Dodds — buyer knew of the sale to Allan before 'accepting'",
+        "The minds must meet at the moment of acceptance"
+      ],
+      "model": [
+        "Rest. § 43: an offeree's power of acceptance is terminated when the offeror takes definite action inconsistent with an intention to enter into the proposed contract and the offeree acquires reliable information to that effect.",
+        "Dickinson v. Dodds: told by a third party that Dodds had sold to Allan, Dickinson could no longer accept — 'it is impossible to say there was ever that existence of the same mind between the two parties which is essential in point of law to the making of an agreement.'"
+      ]
+    },
+    {
+      "id": "b-c-option",
+      "topic": "Option contracts",
+      "components": [
+        "A bare promise to hold an offer open is a nudum pactum",
+        "Consideration paid for irrevocability creates a true option",
+        "An option is irrevocable for its stated term",
+        "Option acceptances are effective on receipt, not dispatch"
+      ],
+      "model": [
+        "A promise to hold an offer open, unsupported by consideration, is a nudum pactum and does not bind — the offeror may still revoke (Dickinson v. Dodds).",
+        "Where consideration is given for the promise of irrevocability, a true option contract exists and the offer cannot be revoked during its term. Note the timing wrinkle: the mailbox rule does not apply, so an exercise must be received within the option period."
+      ]
+    },
+    {
+      "id": "b-c-87",
+      "topic": "Reliance option (§ 87(2))",
+      "components": [
+        "An offer the offeror should reasonably expect to induce substantial action",
+        "…before acceptance, and which does induce it",
+        "Is binding as an option contract",
+        "To the extent necessary to prevent injustice"
+      ],
+      "model": [
+        "Rest. § 87(2): an offer which the offeror should reasonably expect to induce action or forbearance of a substantial character on the part of the offeree before acceptance, and which does induce such action or forbearance, is binding as an option contract to the extent necessary to prevent injustice.",
+        "This is the modern counterweight to Dickinson's hard rule — the classic application is a subcontractor's bid relied on by a general contractor in its master bid."
+      ]
+    },
+    {
+      "id": "b-c-consid",
+      "topic": "Consideration — definition and forms",
+      "components": [
+        "Bargained-for exchange — sought by the promisor, given in exchange",
+        "Form — a return promise",
+        "Form — performance: an act other than a promise",
+        "Form — performance: forbearance",
+        "Form — performance: affecting legal relations"
+      ],
+      "model": [
+        "Consideration is a bargained-for exchange: something sought by the promisor in exchange for the promise and given by the promisee in exchange for that promise.",
+        "Four forms: a return promise; performance by an act other than a promise; performance by forbearance; and performance affecting legal relations."
+      ]
+    },
+    {
+      "id": "b-c-benefit",
+      "topic": "Benefit and detriment",
+      "components": [
+        "Benefit to the promisor is NOT required",
+        "Giving up a legal right you were free to exercise is consideration (Hamer)",
+        "Conversely, almost any benefit to the promisor suffices (Langer)",
+        "e.g. the advantage of a promisee not working for a competitor"
+      ],
+      "model": [
+        "Consideration does not require benefit to the promisor: abstaining from exercising a legal right you were free to exercise — drinking, cards, tobacco until twenty-one — is consideration (Hamer v. Sidway).",
+        "Working the other direction, almost any benefit to the promisor will support a promise: 'it is reasonable to conclude that it is to the advantage of the promisor if the promisee is not employed by a competitive company' (Langer v. Superior Steel)."
+      ]
+    },
+    {
+      "id": "b-c-past",
+      "topic": "Past consideration (Dougherty v. Salt)",
+      "components": [
+        "Consideration already received cannot support a future promise",
+        "The aunt's note recited value but nothing was exchanged for it",
+        "A gratuitous promise dressed as a contract is still gratuitous"
+      ],
+      "model": [
+        "Consideration that has already been received does not support a future promise (Dougherty v. Salt) — the aunt's promissory note to her nephew recited consideration, but nothing was sought or given in exchange for it.",
+        "This is the same timing defect that later sinks Mills and Harrington."
+      ]
+    },
+    {
+      "id": "b-c-kirksey",
+      "topic": "Gift condition vs. exchange (Kirksey)",
+      "components": [
+        "A condition merely necessary to receive a gift is not consideration",
+        "Test: was the act sought in exchange, or is it how the gift is collected?",
+        "Exchange — going to the store benefits the promisor",
+        "Gratuitous condition — going to the store merely effects the gift"
+      ],
+      "model": [
+        "If the 'consideration' is just a necessary requirement of receiving the gift, it may not be valid consideration (Kirksey v. Kirksey) — the widow's move was the condition of a gratuity, not a bargained-for exchange.",
+        "The test: going to the store to get out of the photograph is an exchange, because it benefits the promisor; going to the store because that is where the gift is handed over is a gratuitous condition."
+      ]
+    },
+    {
+      "id": "b-c-forbear",
+      "topic": "Forbearance of claims (§ 74)",
+      "components": [
+        "Forbearance from asserting a claim is valid consideration",
+        "Forbearing an INVALID claim is not, unless…",
+        "(a) the claim is in fact doubtful as to facts or law, or",
+        "(b) the forbearing party believes it may fairly be determined valid",
+        "Good faith separates settlement from extortion"
+      ],
+      "model": [
+        "Forbearance from asserting a claim is valid consideration (Military College Co. v. Brooks).",
+        "Rest. 2d § 74(1) limits it: forbearance to assert a claim or defense which proves to be invalid is not consideration unless (a) the claim or defense is in fact doubtful because of uncertainty as to the facts or the law, or (b) the forbearing party believes that the claim or defense may be fairly determined to be valid."
+      ]
+    },
+    {
+      "id": "b-c-pe",
+      "topic": "Promissory estoppel — elements",
+      "components": [
+        "A promise — sufficiently definite, but not a whole contract",
+        "Promisor should reasonably expect it to induce action or forbearance",
+        "It ACTUALLY induces that action or forbearance",
+        "Injustice can be avoided only by enforcement"
+      ],
+      "model": [
+        "Rest. § 90: a promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person, and which does induce such action or forbearance, is binding if injustice can be avoided only by enforcement of the promise.",
+        "Four elements: (1) a promise — not an entire contract, but sufficiently definite; (2) the promisor should reasonably expect it to induce action or forbearance, judged by his objective reasonableness; (3) it actually induces that action or forbearance; (4) injustice can be avoided only by enforcement."
+      ]
+    },
+    {
+      "id": "b-c-pe2",
+      "topic": "Promissory estoppel — scope and limits",
+      "components": [
+        "Reliance substitutes for consideration",
+        "The remedy may be limited as justice requires",
+        "The promise need not equal a contractual offer (Stewart)",
+        "The promise must PRECEDE the reliance",
+        "Gratitude for a completed act induces nothing (Harrington)"
+      ],
+      "model": [
+        "Promissory estoppel makes reliance a substitute for consideration, and the remedy granted for breach may be limited as justice requires.",
+        "A § 90 promise need not be the functional equivalent of an offer to enter a contract — which is why a jury can find no contract but still find estoppel (Stewart v. Cendant).",
+        "The hard limit is timing: the promise must come before the reliance. A promise made in gratitude for an act already completed induces nothing (Harrington v. Taylor)."
+      ]
+    },
+    {
+      "id": "b-c-ue",
+      "topic": "Unjust enrichment — elements",
+      "components": [
+        "One unjustly enriched at another's expense is liable in restitution",
+        "Element 1 — receipt of a benefit from the plaintiff",
+        "Element 2 — retention of the benefit is unjust",
+        "The plaintiff must show BOTH"
+      ],
+      "model": [
+        "A person who is unjustly enriched at the expense of another is subject to liability in restitution. The plaintiff must show both elements: receipt of a benefit from the plaintiff, and that retention of that benefit would be unjust."
+      ]
+    },
+    {
+      "id": "b-c-ue-benefits",
+      "topic": "Unjust enrichment — what is a benefit",
+      "components": [
+        "Grant of a possessory interest — money, land, possessions",
+        "Performing services beneficial to or at the request of the defendant",
+        "Satisfaction of the defendant's debt",
+        "Any other benefit that 'in any way adds to the other's advantage'"
+      ],
+      "model": [
+        "Benefits satisfying element one include: a grant of possessory interest, giving the defendant an interest in money, land, or possessions; performing services that are either beneficial to, or at the request of, the defendant; satisfaction of the defendant's debt; and other benefits — anything that 'in any way adds to the other's advantage.'"
+      ]
+    },
+    {
+      "id": "b-c-ue-x",
+      "topic": "Unjust enrichment — exceptions",
+      "components": [
+        "Unrequested benefit voluntarily conferred (the volunteer)",
+        "Choosing gratuity over contracting creates no obligation",
+        "Forced exchange",
+        "Unrequested services the party wouldn't have bought at market value",
+        "Both defeat element two, not element one"
+      ],
+      "model": [
+        "Two exceptions defeat the second element even though a benefit was plainly received. First, an unrequested benefit voluntarily conferred: gratuitously choosing to confer a benefit instead of entering into a contract does not create a compensation obligation. Second, a forced exchange: receiving unrequested services the party would not necessarily have purchased at market value does not create one either."
+      ]
+    },
+    {
+      "id": "b-c-subordinate",
+      "topic": "Restitution is subordinate to contracts",
+      "components": [
+        "Where a valid contract governs the benefit, it fixes the recovery",
+        "Restitution cannot be used to rewrite the bargain",
+        "Restatement (Third): the target is enrichment lacking an adequate legal basis",
+        "A contract IS an adequate legal basis"
+      ],
+      "model": [
+        "Restitution is subordinate to contracts: where a valid contract governs the exact benefit conferred, it fixes the recovery and unjust enrichment is unavailable.",
+        "Restatement (Third) framing: the concern is not unjust enrichment in a broad sense but unjustified enrichment — enrichment that lacks an adequate legal basis. A valid contract is such a basis."
+      ]
+    },
+    {
+      "id": "b-c-sparks",
+      "topic": "Sparks v. Gustafson",
+      "components": [
+        "Gustafson managed the building for years without charge or request for payment",
+        "Continued after Sparks died, with the executor's knowledge, paying expenses himself",
+        "Relationship and delay suggested gratuity — but did not control",
+        "Extent and business character of the services overcame that inference",
+        "Distinguished Kershaw's ordinary favors between friends"
+      ],
+      "model": [
+        "Gustafson managed the Nome Center Building for a friend without charge, continued after the owner's death with the executor's knowledge, collected rents, made repairs, and paid expenses out of pocket, never requesting payment until a sale fell through.",
+        "The closeness of the relationship and his failure to request payment suggested gratuitous intent, but the extent and professional character of the services overcame it — services of the sort an ordinary person would expect to pay for. It was inequitable for the Estate to receive them while retaining the benefits, distinguishing Kershaw's ordinary favors."
+      ]
+    },
+    {
+      "id": "b-c-moral2",
+      "topic": "Promises for benefits received — two types",
+      "components": [
+        "Gratitude for past actions / moral consideration",
+        "…not always enforceable",
+        "Subsequent affirmation of an unenforceable promise",
+        "…typically enforceable"
+      ],
+      "model": [
+        "Two categories. Gratitude for past actions, or moral consideration — not always enforceable. And subsequent affirmation of an unenforceable promise — typically enforceable."
+      ]
+    },
+    {
+      "id": "b-c-mills",
+      "topic": "Mills v. Wyman",
+      "components": [
+        "Mills, a stranger, nursed Levi Wyman (age 25, independent) who then died",
+        "The father afterward promised by letter to pay the expenses",
+        "Promise made AFTER the care was complete — no consideration",
+        "Moral obligation alone will not support a promise",
+        "No pre-existing legal obligation to revive"
+      ],
+      "model": [
+        "Mills, a stranger, cared for Levi Wyman — an adult, independent son — who then died. The father afterward wrote promising to pay the expenses, then refused.",
+        "Certain promises for benefits received may be unenforceable notwithstanding any moral obligation: the care was already complete when the promise was made, so nothing was bargained for, and the father had no pre-existing legal obligation to revive. Nonsuit affirmed."
+      ]
+    },
+    {
+      "id": "b-c-revival",
+      "topic": "Pre-existing legal obligation categories",
+      "components": [
+        "Debts incurred during infancy",
+        "Debts barred by the statute of limitations",
+        "Debts discharged in bankruptcy",
+        "Common thread — a real legal obligation existed and became unenforceable",
+        "The later promise REVIVES it"
+      ],
+      "model": [
+        "Moral obligation can support a promise where it revives a pre-existing legal obligation that became unenforceable for a technical reason: debts incurred during infancy, debts barred by the statute of limitations, and debts discharged in bankruptcy.",
+        "In each, a genuine legal obligation once existed and merely lost enforceability — the new promise revives it rather than creating something from nothing. Wyman had no such obligation, which is why gratitude alone could not bind him."
+      ]
+    },
+    {
+      "id": "b-c-webb",
+      "topic": "Webb v. McGowin",
+      "components": [
+        "Webb diverted a falling block to save McGowin, crippling himself",
+        "McGowin promised to pay him regularly for life, and paid until his death",
+        "Moral consideration for a MATERIAL BENEFIT supported the promise",
+        "The promisor himself received the direct benefit",
+        "Minority position — Alabama"
+      ],
+      "model": [
+        "Webb, dropping a heavy block from an upper floor of a mill, diverted it to avoid killing McGowin below and was permanently disabled in the process. McGowin promised to pay him a sum regularly for life and paid until he died, whereupon the estate stopped.",
+        "The court held the moral consideration for a material benefit supported an enforceable contract. The key anchor: the promisor himself received the direct, material benefit — his own life. This is a minority position."
+      ]
+    },
+    {
+      "id": "b-c-harrington",
+      "topic": "Harrington v. Taylor",
+      "components": [
+        "Taylor assaulted his wife; she knocked him down and raised an axe",
+        "Harrington caught the blow with her hand, saving him and mutilating it",
+        "Taylor promised to pay her damages, paid a small sum, then stopped",
+        "Held: a humanitarian act voluntarily performed is not consideration",
+        "However much gratitude compels it, the promise is unenforceable"
+      ],
+      "model": [
+        "Taylor assaulted his wife, who took refuge with Harrington; the next day he assaulted her again, she knocked him down with an axe and was about to strike, and Harrington intercepted the blow with her hand, saving his life and mutilating her hand. He promised to pay her damages, paid a small sum, then nothing more.",
+        "Held: a voluntary humanitarian act is not such consideration as would entitle her to recover at law, however much the defendant should be impelled by common gratitude. Demurrer sustained, affirmed."
+      ]
+    },
+    {
+      "id": "b-c-86",
+      "topic": "Restatement § 86",
+      "components": [
+        "A promise in recognition of a benefit previously received by the promisor",
+        "…from the promisee",
+        "Is binding to the extent necessary to prevent injustice",
+        "Not binding if conferred as a gift or the promisor was not unjustly enriched",
+        "Not binding to the extent its value is disproportionate to the benefit"
+      ],
+      "model": [
+        "Rest. § 86: a promise made in recognition of a benefit previously received by the promisor from the promisee is binding to the extent necessary to prevent injustice.",
+        "Such a promise is not binding if the promisee conferred the benefit as a gift or for other reasons the promisor has not been unjustly enriched, or to the extent that its value is disproportionate to the benefit.",
+        "Note the anchor: the benefit must have run to the promisor, from the promisee — third-party gratitude falls outside."
+      ]
+    },
+    {
+      "id": "b-c-split",
+      "topic": "The moral consideration split",
+      "components": [
+        "Yes — a material benefit received can support an enforceable promise",
+        "Yes, but — enforceable only to the extent of the benefit",
+        "No — bargained-for exchange required at the moment of contract",
+        "Exams and the bar: argue BOTH the Webb and Harrington interpretations",
+        "In practice: advise the client and prepare backup arguments"
+      ],
+      "model": [
+        "Jurisdictions split three ways on whether moral consideration is enough: yes, a material benefit received can support an enforceable promise; yes, but the promise is only enforceable to the extent of the benefit; or no, a bargained-for exchange is required at the moment of contract.",
+        "The professor's playbook: on this class's exams and on the bar, write 'if the court uses a Harrington interpretation…' and 'if the court uses a Webb interpretation…'. In practice, advise the partner and client and prepare backup arguments against the competing case law."
+      ]
+    }
+  ],
+  "ladders": [
+    {
+      "id": "l-c-pe",
+      "concept": "Promissory estoppel",
+      "prompt": "Name the elements of promissory estoppel (Rest. § 90).",
+      "slots": [
+        {
+          "label": "A promise (sufficiently definite)",
+          "keywords": [
+            "promise"
+          ]
+        },
+        {
+          "label": "Promisor should reasonably expect it to induce action or forbearance",
+          "keywords": [
+            "reasonably expect",
+            "should expect",
+            "expect to induce"
+          ]
+        },
+        {
+          "label": "It actually induces that action or forbearance",
+          "keywords": [
+            "actually",
+            "does induce",
+            "in fact induce"
+          ]
+        },
+        {
+          "label": "Injustice can be avoided only by enforcement",
+          "keywords": [
+            "injustice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-c-consid",
+      "concept": "Consideration",
+      "prompt": "Name the forms consideration can take.",
+      "slots": [
+        {
+          "label": "Return promise",
+          "keywords": [
+            "return promise",
+            "promise for a promise",
+            "counter promise"
+          ]
+        },
+        {
+          "label": "Performance: an act other than a promise",
+          "keywords": [
+            "act other than",
+            "an act",
+            "performance act"
+          ]
+        },
+        {
+          "label": "Performance: forbearance",
+          "keywords": [
+            "forbear"
+          ]
+        },
+        {
+          "label": "Performance: affecting legal relations",
+          "keywords": [
+            "legal relation",
+            "affecting legal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-c-ue",
+      "concept": "Unjust enrichment",
+      "prompt": "Name the elements of an unjust enrichment claim.",
+      "slots": [
+        {
+          "label": "Receipt of a benefit from the plaintiff",
+          "keywords": [
+            "receipt",
+            "benefit conferred",
+            "received a benefit",
+            "benefit from"
+          ]
+        },
+        {
+          "label": "Retention of the benefit is unjust",
+          "keywords": [
+            "retention",
+            "retain",
+            "unjust",
+            "inequitable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-c-ue-x",
+      "concept": "Unjust enrichment exceptions",
+      "prompt": "Name the exceptions that make retention of a benefit NOT unjust.",
+      "slots": [
+        {
+          "label": "Unrequested benefit voluntarily conferred (volunteer)",
+          "keywords": [
+            "voluntar",
+            "unrequested",
+            "volunteer",
+            "gratuitous"
+          ]
+        },
+        {
+          "label": "Forced exchange",
+          "keywords": [
+            "forced"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-c-offer",
+      "concept": "Offer factors",
+      "prompt": "Name the factors indicating an offer (8 — mnemonic: Fuckin Critics Can't Always Judge My Poor Attitude).",
+      "slots": [
+        {
+          "label": "Finality",
+          "keywords": [
+            "final"
+          ]
+        },
+        {
+          "label": "Completeness",
+          "keywords": [
+            "complete"
+          ]
+        },
+        {
+          "label": "Context",
+          "keywords": [
+            "context"
+          ]
+        },
+        {
+          "label": "Audience",
+          "keywords": [
+            "audience"
+          ]
+        },
+        {
+          "label": "Jargon",
+          "keywords": [
+            "jargon",
+            "magic word"
+          ]
+        },
+        {
+          "label": "Method of acceptance",
+          "keywords": [
+            "method"
+          ]
+        },
+        {
+          "label": "Public policy / fairness",
+          "keywords": [
+            "policy",
+            "fair"
+          ]
+        },
+        {
+          "label": "Accepted practice / course of dealing",
+          "keywords": [
+            "accepted practice",
+            "course of dealing",
+            "practice",
+            "history"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-c-accept",
+      "concept": "Acceptance factors",
+      "prompt": "Name the acceptance factors (6 — mnemonic: For My Pretty Panda Ms. Nori).",
+      "slots": [
+        {
+          "label": "Finality of acceptance",
+          "keywords": [
+            "final"
+          ]
+        },
+        {
+          "label": "Method of acceptance",
+          "keywords": [
+            "method"
+          ]
+        },
+        {
+          "label": "Acceptance by promise",
+          "keywords": [
+            "promise"
+          ]
+        },
+        {
+          "label": "Acceptance by performance",
+          "keywords": [
+            "performance",
+            "perform"
+          ]
+        },
+        {
+          "label": "Mirror image rule",
+          "keywords": [
+            "mirror"
+          ]
+        },
+        {
+          "label": "Notice of acceptance",
+          "keywords": [
+            "notice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-c-term",
+      "concept": "Termination of the offer",
+      "prompt": "Name the ways an offer terminates.",
+      "slots": [
+        {
+          "label": "Rejection",
+          "keywords": [
+            "reject"
+          ]
+        },
+        {
+          "label": "Revocation",
+          "keywords": [
+            "revo"
+          ]
+        },
+        {
+          "label": "Counteroffer",
+          "keywords": [
+            "counter"
+          ]
+        },
+        {
+          "label": "Lapse of time",
+          "keywords": [
+            "lapse",
+            "time",
+            "expire"
+          ]
+        },
+        {
+          "label": "Death of the offeror",
+          "keywords": [
+            "death",
+            "dies",
+            "died"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-c-mills",
+      "concept": "Pre-existing legal obligation categories",
+      "prompt": "Name the categories where moral obligation CAN support a promise (Mills).",
+      "slots": [
+        {
+          "label": "Debts incurred during infancy",
+          "keywords": [
+            "infan",
+            "minor",
+            "minority"
+          ]
+        },
+        {
+          "label": "Debts barred by the statute of limitations",
+          "keywords": [
+            "limitation",
+            "time barred",
+            "statute of lim"
+          ]
+        },
+        {
+          "label": "Debts discharged in bankruptcy",
+          "keywords": [
+            "bankrupt",
+            "discharge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-c-ads",
+      "concept": "Advertisement-as-offer test",
+      "prompt": "Name the questions for whether an advertisement is an offer.",
+      "slots": [
+        {
+          "label": "Was performance promised in positive terms in return for something requested?",
+          "keywords": [
+            "performance",
+            "positive terms",
+            "promised"
+          ]
+        },
+        {
+          "label": "Is it clear, definite, explicit — nothing open for negotiation?",
+          "keywords": [
+            "definite",
+            "clear",
+            "explicit",
+            "negotiation"
+          ]
+        },
+        {
+          "label": "Do other facts show the advertiser intended an offer?",
+          "keywords": [
+            "other facts",
+            "circumstance",
+            "intent",
+            "intended"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "c-sources",
+      "type": "cloze",
+      "concept": "Sources of contract law",
+      "text": "Common law is {{judge}}-made law that applies to {{services}} (guided by the Restatement (Second) of Contracts); the UCC is {{statutory}} law that applies to {{goods}} (Article 2).",
+      "why": "The professor calls this one of the most important concepts in the course — every problem starts with which body of law governs."
+    },
+    {
+      "id": "c-formation",
+      "type": "cloze",
+      "concept": "Contract formation ingredients",
+      "text": "Formation needs all three: an {{offer}} and an {{acceptance}} — together, the meeting of the {{minds}} — plus {{consideration}}, the bargained-for exchange.",
+      "why": "The professor's asterisk on 'Need* all three': promissory estoppel and restitution are the workarounds when an ingredient is missing."
+    },
+    {
+      "id": "c-objective",
+      "type": "cloze",
+      "concept": "Objective theory — Lucy v. Zehmer",
+      "text": "We must look to the {{outward}} expression of a person as manifesting his intention rather than to his {{secret}} and unexpressed intention; the law imputes an intention corresponding to the {{reasonable}} meaning of his words and acts.",
+      "why": "Lucy v. Zehmer, 84 S.E.2d 516 (Va. 1954): drunk or not, the parties memorialized an unambiguous agreement — they're stuck with it."
+    },
+    {
+      "id": "c-consid-types",
+      "type": "flash",
+      "concept": "Consideration — four types",
+      "prompt": "The four types of consideration, with the professor's examples?",
+      "answer": [
+        "1) Return promise — 'I'll pay you $100 if you promise to pay me $110 next year.'",
+        "2) Performance: an act other than a promise — '$100 once you sing Bohemian Rhapsody.'",
+        "3) Performance: forbearance — '$100 if you do not punch me.'",
+        "4) Performance: affecting legal relations — '$100 if you accept termination from my company.'"
+      ],
+      "fallback": "A return {{promise}}; an {{act}} other than a promise; {{forbearance}}; or affecting legal {{relations}}.",
+      "why": "Bargained-for exchange, per the Restatement — each type is something sought by the promisor and given in exchange."
+    },
+    {
+      "id": "c-dougherty",
+      "type": "flash",
+      "concept": "Dougherty v. Salt",
+      "prompt": "Dougherty v. Salt — what's the rule from the aunt's promissory note?",
+      "answer": [
+        "Consideration that has already been received doesn't support a future promise.",
+        "The note to the nephew was a gratuitous promise dressed as a contract — no exchange, no enforcement."
+      ],
+      "fallback": "Consideration {{already}} received does not support a {{future}} promise.",
+      "why": "Past consideration is no consideration — the same defect that later sinks Mills and Harrington."
+    },
+    {
+      "id": "c-hamer",
+      "type": "flash",
+      "concept": "Hamer v. Sidway",
+      "prompt": "Hamer v. Sidway — what counted as consideration, and what did the uncle's estate argue?",
+      "answer": [
+        "Abstaining from exercising your legal right can be consideration — the nephew gave up drinking, cards, etc. until 21.",
+        "The estate argued the uncle received no benefit — the court held benefit to the promisor is not required; the promisee's forbearance (giving up a legal right) is enough."
+      ],
+      "fallback": "{{Abstaining}} from exercising a legal {{right}} can be consideration; a {{benefit}} to the promisor is not required.",
+      "why": "Second issue: the nephew argued the uncle held the $5,000 in trust — which defeated the statute-of-limitations defense."
+    },
+    {
+      "id": "c-military",
+      "type": "flash",
+      "concept": "Military College v. Brooks — § 74(1)",
+      "prompt": "When is forbearance from asserting a claim valid consideration?",
+      "answer": [
+        "Forbearance from asserting a claim is valid consideration.",
+        "But forbearing an INVALID claim is not consideration unless: (a) the claim or defense is in fact doubtful due to uncertainty of facts or law, OR (b) the forbearing party believes the claim may be fairly determined to be valid."
+      ],
+      "fallback": "Forbearing an invalid claim is not consideration unless the claim is {{doubtful}} as to facts or law, or the forbearing party {{believes}} it may fairly be determined valid.",
+      "why": "Restatement 2d § 74(1). The line between settlement and extortion — good-faith doubt is what separates them."
+    },
+    {
+      "id": "c-langer",
+      "type": "flash",
+      "concept": "Langer v. Superior Steel",
+      "prompt": "Langer v. Superior Steel — how much benefit to the promisor is enough for consideration?",
+      "answer": [
+        "Almost any benefit to the promisor is consideration.",
+        "'It is reasonable to conclude that it is to the advantage of the [promisor] if the [promisee] ... is not employed by a competitive company.'"
+      ],
+      "fallback": "Almost {{any}} benefit to the {{promisor}} is consideration — e.g., the retiree not working for a {{competitive}} company.",
+      "why": "Contrast Kirksey: a real (even small) benefit flowing to the promisor is exchange; a condition merely necessary to receive a gift is not."
+    },
+    {
+      "id": "c-kirksey",
+      "type": "flash",
+      "concept": "Kirksey v. Kirksey — gift vs. consideration",
+      "prompt": "Kirksey v. Kirksey — why did the widow lose, and what's the exchange vs. gratuitous condition test?",
+      "answer": [
+        "If the 'consideration' is just a necessary requirement of receiving the gift, it may not be valid consideration — her move was merely the condition of a gratuity.",
+        "Exchange: going to the store to get out of the photograph is a BENEFIT to the promisor.",
+        "Gratuitous condition: going to the store is merely necessary to effect the gift."
+      ],
+      "fallback": "A condition merely {{necessary}} to receive a {{gift}} is not consideration; ask whether the act is a {{benefit}} to the promisor.",
+      "why": "The brother-in-law's letter induced her to abandon her land — but inducement alone isn't bargain. (Modern lawyers would plead promissory estoppel.)"
+    },
+    {
+      "id": "c-pe-elements",
+      "type": "flash",
+      "concept": "Promissory estoppel — Restatement § 90",
+      "prompt": "Promissory estoppel: the four elements the asserting party must prove, with the professor's gloss on each?",
+      "answer": [
+        "1) A promise — not an entire contract; just a promise, but it must be sufficiently definite.",
+        "2) Promisor should reasonably expect it to induce action or forbearance — focus on the promisor's objective reasonableness.",
+        "3) It ACTUALLY induces the action or forbearance — only counts if it does.",
+        "4) Injustice can be avoided only by enforcement — the final stopgap."
+      ],
+      "fallback": "1) A sufficiently definite {{promise}} 2) promisor should reasonably {{expect}} it to induce action or {{forbearance}} 3) it {{actually}} induces it 4) {{injustice}} avoidable only by enforcement.",
+      "why": "Reliance as a SUBSTITUTE for consideration — remedy may be limited as justice requires."
+    },
+    {
+      "id": "c-ricketts",
+      "type": "flash",
+      "concept": "Ricketts v. Scothorn",
+      "prompt": "Ricketts v. Scothorn — what doctrine, and what's the takeaway?",
+      "answer": [
+        "Equitable estoppel (estoppel in pais) applied to a promise: grandfather's note induced her to quit her job.",
+        "Justified reliance on a promise can make it enforceable — the promisor is precluded from asserting lack of consideration after inducing the change of position."
+      ],
+      "fallback": "{{Justified}} reliance on a promise can create an enforceable obligation — estoppel in {{pais}}.",
+      "why": "The historical bridge to § 90 promissory estoppel."
+    },
+    {
+      "id": "c-stewart",
+      "type": "flash",
+      "concept": "Stewart v. Cendant Mobility",
+      "prompt": "Stewart v. Cendant — what was the reliance, and why did she win on estoppel after losing on contract?",
+      "answer": [
+        "The reliance: she STAYED with the company (and didn't pursue other employment) on the assurance that her husband joining a competitor wouldn't affect her job.",
+        "The jury found no contract (no definite offer) — but promissory estoppel doesn't require the promise to be the functional equivalent of an offer. Reliance did the work consideration would have done."
+      ],
+      "fallback": "Her {{reliance}} was staying and not seeking other work; a § 90 promise need not equal a contractual {{offer}}.",
+      "why": "The card-catalog error to avoid: her staying was RELIANCE, not consideration — no contract ever formed."
+    },
+    {
+      "id": "c-ue-elements",
+      "type": "flash",
+      "concept": "Unjust enrichment — elements & benefits",
+      "prompt": "Unjust enrichment: the two elements, and the four example categories of 'benefit'?",
+      "answer": [
+        "1) Receipt of a benefit from the plaintiff, AND 2) retention of the benefit is unjust. The plaintiff must show both.",
+        "Benefits: grant of possessory interest (money, land, possessions); performing services (beneficial to, or at the request of, the defendant); satisfaction of the defendant's debt; other benefits ('in any way adds to the other's advantage')."
+      ],
+      "fallback": "1) Receipt of a {{benefit}} from plaintiff 2) retention is {{unjust}}; benefits include a possessory {{interest}}, performing {{services}}, satisfying a {{debt}}, or anything adding to the other's advantage.",
+      "why": "Restitution is SUBORDINATE to contracts — if a contract governs, restitution stays out."
+    },
+    {
+      "id": "c-ue-exceptions",
+      "type": "flash",
+      "concept": "Unjust enrichment — element 2 exceptions",
+      "prompt": "Unjust enrichment's second element is that retaining the benefit is unjust. What are the two exceptions that make retention NOT unjust?",
+      "answer": [
+        "Unrequested benefit voluntarily conferred: gratuitously choosing to confer a benefit instead of entering a contract creates no compensation obligation.",
+        "Forced exchange: receiving unrequested services the party would not necessarily have purchased at market value creates no compensation obligation."
+      ],
+      "fallback": "An unrequested benefit {{voluntarily}} conferred, and a {{forced}} exchange — neither creates a {{compensation}} obligation.",
+      "why": "The lumberjack hypo: cutting a neighbor's dying tree unasked is both a volunteer's gratuity and a forced exchange."
+    },
+    {
+      "id": "c-sparks",
+      "type": "flash",
+      "concept": "Sparks v. Gustafson",
+      "prompt": "Sparks v. Gustafson — outcome, and how did the court distinguish Kershaw?",
+      "answer": [
+        "Inequitable for the Estate to receive professional services while retaining the benefits of those services — Gustafson recovers.",
+        "Kershaw distinguished: those were the ordinary favors of a long-time friend; Gustafson's were extensive BUSINESS services (managing, repairing, paying bills out of pocket for years) — the kind one would ordinarily expect to pay for."
+      ],
+      "fallback": "Inequitable for the Estate to receive {{professional}} services while retaining their {{benefits}}; unlike Kershaw, these went beyond what {{friendship}} ordinarily provides.",
+      "why": "The gratuitous-services exception has a ceiling: extent and business character override the friendship inference."
+    },
+    {
+      "id": "c-moral-2types",
+      "type": "flash",
+      "concept": "Promises for benefits received — two types",
+      "prompt": "The professor's two categories of promises for benefits received, and their default enforceability?",
+      "answer": [
+        "1) Gratitude for past actions / moral consideration → NOT always enforceable.",
+        "2) Subsequent affirmation of an unenforceable promise → TYPICALLY enforceable."
+      ],
+      "fallback": "Gratitude for {{past}} actions — not always enforceable; subsequent {{affirmation}} of an unenforceable promise — typically enforceable.",
+      "why": "Mills v. Wyman lives in category one: certain promises for benefits received are unenforceable notwithstanding any 'moral obligation.'"
+    },
+    {
+      "id": "c-moral-split",
+      "type": "flash",
+      "concept": "When is moral consideration enough?",
+      "prompt": "The jurisdictional split on moral consideration — three positions, and the case for each side of the Webb/Harrington divide?",
+      "answer": [
+        "YES — a material benefit received can support an enforceable promise (Webb v. McGowin: Webb saved McGowin's life at the cost of his own ability to work; monthly payments enforced against the estate).",
+        "YES, BUT — the promise is enforceable only to the extent of the benefit.",
+        "NO — bargained-for exchange required at the moment of contract (Mills v. Wyman; Harrington v. Taylor: hand mutilated saving an attacker from an axe, promise still unenforceable)."
+      ],
+      "fallback": "Yes — {{material}} benefit can support the promise (Webb); yes-but — only to the {{extent}} of the benefit; no — {{bargained}}-for exchange required at contracting (Mills, Harrington).",
+      "why": "Professor's ambiguity playbook: exams and the bar — argue BOTH interpretations; in practice — advise and prep backup arguments; friends & family — refer out."
+    },
+    {
+      "id": "c-rest86",
+      "type": "flash",
+      "concept": "Restatement § 86 — the resolution",
+      "prompt": "How does Restatement § 86 resolve the moral-consideration problem?",
+      "answer": [
+        "A promise made in recognition of a benefit previously received by the promisor from the promisee is binding to the extent necessary to prevent injustice.",
+        "NOT binding if the promisee conferred the benefit as a gift, or the promisor was not unjustly enriched — or to the extent its value is disproportionate to the benefit."
+      ],
+      "fallback": "Binding to the extent necessary to prevent {{injustice}}; not binding if conferred as a {{gift}} or to the extent {{disproportionate}} to the benefit.",
+      "why": "Note the anchor: benefit received by the PROMISOR — a third party's gratitude (Charlie promising for Bob's rescue) falls outside it."
+    },
+    {
+      "id": "c-offer-def",
+      "type": "cloze",
+      "concept": "Offer — Restatement §§ 24, 26",
+      "text": "An offer is the {{manifestation}} of willingness to enter into a bargain, so made as to {{justify}} another person in understanding that their {{assent}} to that bargain is invited and will {{conclude}} it.",
+      "why": "§ 26's flip side: no offer if the addressee knows or has reason to know the maker doesn't intend to conclude a bargain without a further manifestation of assent. If 'I accept' would create mutual obligations — it's probably an offer."
+    },
+    {
+      "id": "c-offer-factors",
+      "type": "flash",
+      "concept": "Factors indicating an offer",
+      "prompt": "The eight factors indicating an offer (and your mnemonic)?",
+      "answer": [
+        "Finality — willing to be bound on acceptance? · Completeness — substantially all terms? · Context — indicates hope for acceptance? · Audience — broad audience is less likely an offer.",
+        "Jargon — 'this is a legally binding offer' tends to make it so · Method of acceptance — specifying one makes it more offer-like · Public policy/fairness — exploiting ambiguity cuts against binding · Accepted practice — course of dealing can bind.",
+        "Mnemonic: Fuckin Critics Can't Always Judge My Poor Attitude."
+      ],
+      "fallback": "{{Finality}}, {{completeness}}, context, {{audience}}, jargon, method of {{acceptance}}, public policy, accepted {{practice}}.",
+      "why": "The professor's caveat, twice on the slides: NONE of these is necessarily dispositive — they're weighing factors, not elements."
+    },
+    {
+      "id": "c-moulton",
+      "type": "flash",
+      "concept": "Moulton v. Kershaw",
+      "prompt": "Moulton v. Kershaw — why wasn't the salt letter an offer?",
+      "answer": [
+        "A general proposal is not necessarily an offer.",
+        "'We are authorized to offer' read as trade solicitation, addressed generally; no quantity term bounded what Kershaw was willing to sell — an order for 2,000 barrels couldn't close a deal that never fixed an amount."
+      ],
+      "fallback": "A {{general}} proposal is not necessarily an offer — solicitation language plus no {{quantity}} limit.",
+      "why": "The court's counterfactual: 'we will sell you all the salt you will order' WOULD have been binding."
+    },
+    {
+      "id": "c-nordyne",
+      "type": "flash",
+      "concept": "Nordyne v. ICM",
+      "prompt": "Nordyne v. ICM — when can a price quotation be an offer, and what was the acceptance here?",
+      "answer": [
+        "Price quotations can be offers based on the course of dealing of the parties and the manner in which they invite acceptance.",
+        "ICM's July 29 quotation (negotiated for months, complete terms, sent to one buyer, custom product) = OFFER; Nordyne's September 15 signature on ICM's sign-off letter = ACCEPTANCE — which is why ICM's invoice terms (forum selection) governed."
+      ],
+      "fallback": "Quotations can be offers based on the course of {{dealing}} and the manner of inviting {{acceptance}}; the {{quotation}} was the offer and the production sign-off the acceptance.",
+      "why": "Restatement § 26 cmt. c factors: prior inquiry, completeness of terms, number of recipients."
+    },
+    {
+      "id": "c-fairmount",
+      "type": "flash",
+      "concept": "Fairmount Glass Works",
+      "prompt": "Fairmount Glass Works — was the seller's quote an offer? Reconcile with Moulton.",
+      "answer": [
+        "Yes. The buyer asked for the lowest price on a SPECIFIC order — ten car loads of Mason jars — and the seller quoted prices 'for immediate acceptance.'",
+        "Reconciliation: a quote RESPONDING to a specific inquiry (quantity supplied by the inquiry) with acceptance-inviting language is an offer; Moulton's letter was unsolicited, general, and quantity-less."
+      ],
+      "fallback": "A quote answering a {{specific}} inquiry, with quantity fixed by the inquiry, 'for immediate {{acceptance}}' — an {{offer}}, unlike Moulton's general letter.",
+      "why": "The middle case in the Moulton → Fairmount → Nordyne line: context and invitation language flip a 'quote' into an offer."
+    },
+    {
+      "id": "c-ad-test",
+      "type": "flash",
+      "concept": "Is an advertisement an offer?",
+      "prompt": "The three questions for whether an advertisement is an offer, with the case anchors?",
+      "answer": [
+        "1) Performance — was some performance promised in positive terms in return for something requested?",
+        "2) Definiteness — is it clear, definite, and explicit, leaving nothing open for negotiation? (Lefkowitz: '1 Black Lapin Stole ... $1.00 First Come First Served' — offer, accepted by being first.)",
+        "3) Other facts — do circumstances show the advertiser intended an offer? (Leonard: obvious joke, terms deferred to catalog, no limiting words — no offer.)",
+        "Default (Craft v. Elder & Johnston): absent special circumstances, an ad is a mere invitation for the audience to make an offer."
+      ],
+      "fallback": "1) {{performance}} promised in positive terms for something requested 2) clear, {{definite}}, explicit, nothing open for {{negotiation}} 3) other {{facts}} showing intent. Default: an ad is an {{invitation}} to make an offer.",
+      "why": "Craft states the rule, Lefkowitz the exception, Leonard the limit — one line of doctrine, three cases."
+    },
+    {
+      "id": "c-acceptance-def",
+      "type": "cloze",
+      "concept": "Acceptance — Restatement § 50",
+      "text": "An acceptance is the manifestation of {{assent}} to the terms of the offer, made by the {{offeree}} in a manner {{invited}} or required by the offer.",
+      "why": "Mirror of § 24: the offeror is master of the offer — the manner of acceptance is the offeror's to set."
+    },
+    {
+      "id": "c-accept-factors",
+      "type": "flash",
+      "concept": "Acceptance factors",
+      "prompt": "The six acceptance factors (and your mnemonic)?",
+      "answer": [
+        "Finality of acceptance — if the proposal lets the offeror approve the 'acceptance,' the proposal was never an offer.",
+        "Method — by default, an offer invites acceptance in any reasonable manner.",
+        "Acceptance by Promise · Acceptance by Performance.",
+        "Mirror image rule — changing a material term = counteroffer; requesting changes without conditioning = still an acceptance (UCC has special rules — Sept. 1).",
+        "Notice — the offeree must normally inform the offeror before the offer expires.",
+        "Mnemonic: For My Pretty Panda Ms. Nori."
+      ],
+      "fallback": "{{Finality}}, {{method}}, acceptance by {{promise}}, acceptance by {{performance}}, the {{mirror}} image rule, and {{notice}}.",
+      "why": "Nonexhaustive factors, same as the offer side — not elements."
+    },
+    {
+      "id": "c-promise-v-perf",
+      "type": "flash",
+      "concept": "Acceptance by promise vs. performance",
+      "prompt": "What completes acceptance by promise vs. by performance — and what if the offer is ambiguous?",
+      "answer": [
+        "Promise: the offeree must complete every act essential to the making of the promise (including notice).",
+        "Performance: at least part of what the offer requests must be performed or tendered — mere preparation to perform is insufficient.",
+        "Ambiguous offer: the offeree can accept by promise OR performance."
+      ],
+      "fallback": "Promise: complete every act essential to {{making}} the promise; performance: at least {{part}} performed or tendered — mere {{preparation}} is insufficient; if ambiguous, {{either}} works.",
+      "why": "Restatement § 50 — the porch, cottage, and 'ship at once' hypos all turn on which mode the offer invites."
+    },
+    {
+      "id": "c-hendricks",
+      "type": "flash",
+      "concept": "Hendricks v. Behee",
+      "prompt": "Hendricks v. Behee — the notice rule, and why did Behee win?",
+      "answer": [
+        "'There is no contract until acceptance of an offer is communicated to the offeror. An uncommunicated intention to accept is not an acceptance. When an offer calls for a promise, notice of acceptance is always essential.'",
+        "The Smiths signed but never communicated; Behee revoked through the Smiths' agent first — notice to an agent within the scope of authority is notice to the principal. No contract."
+      ],
+      "fallback": "When acceptance must be made by {{promise}}, the offeror must receive {{actual}} notice; notice to an {{agent}} within authority binds the principal.",
+      "why": "Hendricks himself was just the escrow agent interpleading the $5,000 deposit — the fight was Behee vs. the Smiths."
+    },
+    {
+      "id": "c-ardente",
+      "type": "flash",
+      "concept": "Ardente v. Horan — conditional acceptance",
+      "prompt": "Restatement §§ 59 & 61 on conditional acceptance, and how it played out in Ardente?",
+      "answer": [
+        "§ 59: a reply that purports to accept but is CONDITIONAL on assent to additional or different terms is not an acceptance — it's a counteroffer.",
+        "§ 61: an acceptance that merely REQUESTS a change is not invalidated — unless the acceptance is made to depend on assent to the change.",
+        "Ardente: conditioning the acceptance on inclusion of the sun parlor furniture converted the acceptance into a counteroffer — no contract."
+      ],
+      "fallback": "A {{conditional}} acceptance is a {{counteroffer}}; a mere {{request}} for changes survives unless the acceptance is made to {{depend}} on assent.",
+      "why": "An acceptance that doesn't mirror the offer may not be valid — watch for 'confirm that X is part of the transaction' language."
+    },
+    {
+      "id": "c-termination",
+      "type": "flash",
+      "concept": "Terminating the offer — five ways",
+      "prompt": "The five ways an offer terminates?",
+      "answer": [
+        "1) Rejection — ends the acceptability of the offer.",
+        "2) Revocation — any time prior to acceptance.",
+        "3) Counteroffer — acts as a rejection (a conditional acceptance can be a counter).",
+        "4) Lapse of time — after a 'reasonable amount of time' or the time stated in the offer.",
+        "5) Death of the offeror — death of the offeror means the death of the offer."
+      ],
+      "fallback": "{{Rejection}}, {{revocation}}, {{counteroffer}}, {{lapse}} of time, and {{death}} of the offeror.",
+      "why": "After termination, the offer cannot be accepted — the power of acceptance is gone."
+    },
+    {
+      "id": "c-dodds",
+      "type": "flash",
+      "concept": "Dickinson v. Dodds + Restatement §§ 43, 87(2)",
+      "prompt": "Dickinson v. Dodds — the two rules, plus the two Restatement follow-ons?",
+      "answer": [
+        "Revoking the offer before acceptance terminates the offer — the promise to hold it open until Friday, without consideration, was not binding.",
+        "Key quote: 'It is impossible ... to say there was ever that existence of the same mind between the two parties which is essential ... to the making of an agreement.'",
+        "§ 43 (revocation through action): the power of acceptance ends when the offeror takes definite action inconsistent with the proposed contract AND the offeree acquires reliable information of it.",
+        "§ 87(2): an offer that should reasonably be expected to induce substantial reliance before acceptance, and does, is binding as an OPTION CONTRACT to the extent necessary to prevent injustice."
+      ],
+      "fallback": "A gratuitous hold-open promise is not {{binding}}; the power of acceptance ends on definite {{inconsistent}} action plus {{reliable}} information; substantial pre-acceptance {{reliance}} can create an option under § 87(2).",
+      "why": "Dickinson knew Dodds was selling to Allan before 'accepting' — the minds never met at the moment of acceptance."
+    },
+    {
+      "id": "c-mailbox",
+      "type": "cloze",
+      "concept": "Mailbox rule — Restatement § 63(a)",
+      "text": "Unless the offer provides otherwise, an acceptance made in an invited manner is operative as soon as put out of the offeree's {{control}} — regardless of whether it ever {{reaches}} the offeror; but revocations, rejections, and second-move acceptances are valid only upon actual {{receipt}}.",
+      "why": "Morrison v. Thoelke: the contract is complete on MAILING, barring repudiation before delivery. The professor's slide: WARNING — dispatch timing applies ONLY to first-move acceptances."
+    },
+    {
+      "id": "c-overtake",
+      "type": "flash",
+      "concept": "Mailbox — overtaking rule",
+      "prompt": "You mail a rejection, then change your mind and mail an acceptance. What result?",
+      "answer": [
+        "A rejection or counteroffer by mail does not terminate the power of acceptance until RECEIVED.",
+        "But an acceptance dispatched AFTER sending a rejection is only a counteroffer — unless the acceptance is received by the offeror BEFORE the rejection arrives (the race)."
+      ],
+      "fallback": "A mailed rejection is effective only on {{receipt}}; an acceptance sent after a rejection is a {{counteroffer}} unless it {{arrives}} first.",
+      "why": "The one scenario where the mailbox rule's dispatch timing gets suspended — the second move must win the race."
+    },
+    {
+      "id": "c-mcq-ucc",
+      "type": "mcq",
+      "concept": "UCC vs. common law",
+      "scenario": "A contract for the sale of a cell phone. Which body of law governs?",
+      "options": [
+        "Common law — all consumer contracts are common law",
+        "UCC Article 2 — a cell phone is a good",
+        "Common law — unless the phone costs over $500",
+        "Both apply equally"
+      ],
+      "correct": 1,
+      "explanation": "UCC Article 2 applies to transactions in goods — movable, tangible things like a phone. Common law (Restatement) governs services. First question in every contracts problem: goods or services?",
+      "why": "The professor's Day 2 hypo, verbatim."
+    },
+    {
+      "id": "c-mcq-porch",
+      "type": "mcq",
+      "concept": "Acceptance by performance — porch hypo",
+      "scenario": "Alice, leaving on a month's vacation, tells Bob she'll pay $50 if he paints her porch while she's away. Bob says he may not have time; Alice says he may decide after she leaves. Bob begins painting after Alice leaves. Has Bob accepted?",
+      "options": [
+        "No — Bob never communicated acceptance to Alice",
+        "Yes — the offer invited acceptance by performance, and beginning the invited performance is acceptance",
+        "No — acceptance occurs only when the porch is fully painted",
+        "Yes — but only if Alice learns of the painting before returning"
+      ],
+      "correct": 1,
+      "explanation": "Alice's offer sought performance, not a promise — and she expressly told Bob to decide after she left, waiving advance notice. Beginning the invited performance (actually painting, not merely buying brushes) operates as acceptance.",
+      "why": "Contrast mere preparation, which is insufficient — the brush must hit the porch."
+    },
+    {
+      "id": "c-mcq-cottage",
+      "type": "mcq",
+      "concept": "Acceptance by promise — cottage hypo",
+      "scenario": "Sydney mails Johnny plans for a cottage on Sydney's remote wilderness land, writing: 'If you will AGREE to build a cottage in accordance with the enclosed plans, I will pay you $5,000.' Johnny never responds — but starts building. Can Johnny demand the $5,000?",
+      "options": [
+        "Yes — beginning performance always accepts an offer",
+        "No — the offer called for a promise ('if you will agree'), so acceptance required a communicated promise, not silent performance",
+        "Yes — Sydney's offer was ambiguous, so either mode works",
+        "No — building on another's land is trespass, voiding the contract"
+      ],
+      "correct": 1,
+      "explanation": "'If you will AGREE to build' seeks a return promise. When an offer calls for a promise, notice of acceptance is always essential (Hendricks) — silently starting to build in a remote wilderness, where Sydney would never learn of it, is not the invited acceptance.",
+      "why": "Compare the porch hypo: the offer's language picks the mode, and the mode dictates whether notice is required."
+    },
+    {
+      "id": "c-mcq-ship",
+      "type": "mcq",
+      "concept": "Ambiguous mode — 'Ship at once' hypo",
+      "scenario": "Billy mails Jane a written order for a machine she regularly sells from stock. The order says 'Ship at once.' Jane immediately mails a letter of acceptance instead of shipping. Valid acceptance?",
+      "options": [
+        "No — 'Ship at once' demanded performance, and only shipment accepts",
+        "Yes — the offer is ambiguous as to mode, so the offeree may accept by prompt promise OR prompt performance",
+        "No — merchants can only accept by shipping goods",
+        "Yes — but the contract forms only when the machine arrives"
+      ],
+      "correct": 1,
+      "explanation": "'Ship at once' is ambiguous — it expresses urgency, not an exclusive mode. Where the offer is ambiguous, the offeree can accept by promise or performance; Jane's immediate mailed acceptance forms the contract (effective on dispatch, per the mailbox rule).",
+      "why": "The default: an offer invites acceptance in any reasonable manner unless it clearly says otherwise."
+    },
+    {
+      "id": "c-mcq-mailbox",
+      "type": "mcq",
+      "concept": "Mailbox rule — Yael & Zed",
+      "scenario": "July 1: Yael mails Zed an offer. July 2: Yael mails a revocation. July 3: Zed receives the offer and mails back an acceptance. July 4: Zed receives the revocation. July 5: Yael receives the acceptance. Contract?",
+      "options": [
+        "No — the revocation was mailed before Zed ever accepted",
+        "Yes — the acceptance was effective on dispatch (July 3), before the revocation became effective on receipt (July 4)",
+        "No — Yael received the acceptance after Zed knew of the revocation",
+        "Yes — but only because Yael's revocation was mailed too early"
+      ],
+      "correct": 1,
+      "explanation": "Acceptances are effective on DISPATCH (mailbox rule); revocations are effective only on RECEIPT. The acceptance operated July 3; the revocation didn't land until July 4 — one day too late. Contract formed July 3.",
+      "why": "Timeline problems are won by labeling each communication with its effective date before comparing."
+    },
+    {
+      "id": "c-mcq-amps",
+      "type": "mcq",
+      "concept": "Ads as offers — Lefkowitz pattern",
+      "scenario": "'Saturday 8 A.M. Sharp — 2 vintage amps, worth $900. $5 each. First come, first served.' M arrives first, $5 in hand; the store refuses ('collectors only'). Was the ad an offer?",
+      "options": [
+        "No — advertisements are never offers",
+        "Yes — clear, definite, explicit, nothing open to negotiate, and performance (being first) was requested in positive terms",
+        "No — no consideration was paid to keep it open",
+        "Yes — any ad that states a price is an offer"
+      ],
+      "correct": 1,
+      "explanation": "This runs the professor's three-part ad test: performance promised in positive terms for something requested (first come = served at $5), fully definite, and the limiting mechanism shows real intent. The 'house rule' came too late — an offeror can modify before acceptance, not after.",
+      "why": "Lefkowitz — the exception that proves Craft's default rule."
+    },
+    {
+      "id": "c-mcq-jet",
+      "type": "mcq",
+      "concept": "Ads as offers — Leonard pattern",
+      "scenario": "A TV spot jokingly shows a fighter jet 'for 7,000,000 points.' All redemption details live in a separate catalog, which omits the jet; nothing limits how many viewers could claim one. A viewer tenders $700,000 for points. Offer?",
+      "options": [
+        "Yes — an item plus a stated price is an offer",
+        "No — terms were deferred to the catalog, there were no limiting words, and an objective viewer would see a joke",
+        "Yes — the viewer's order form was an acceptance",
+        "No — TV ads can never be offers"
+      ],
+      "correct": 1,
+      "explanation": "Leonard v. PepsiCo: the commercial fails all three ad-test questions — no positive-terms performance path (details deferred to the catalog), no limiting words capping acceptances, and the objective circumstances screamed joke. The order form was itself just an offer, never accepted.",
+      "why": "Lucy's objective theory working in the other direction: a reasonable person would NOT take it seriously."
+    },
+    {
+      "id": "c-mcq-dodds",
+      "type": "mcq",
+      "concept": "Revocation — Dickinson v. Dodds pattern",
+      "scenario": "Seller signs: 'This offer stays open until Friday 9 A.M.' Buyer pays nothing for that promise. Wednesday the seller sells to someone else; buyer hears of the sale that evening from a reliable third party, then tenders an 'acceptance' Thursday. Contract?",
+      "options": [
+        "Yes — the signed writing made the offer irrevocable",
+        "Yes — revocation must come from the offeror personally",
+        "No — the gratuitous hold-open promise wasn't binding, and § 43 killed the power of acceptance once buyer reliably learned of the sale",
+        "No — real estate offers expire after 24 hours"
+      ],
+      "correct": 2,
+      "explanation": "No consideration = no option, so the offer stayed freely revocable. Under Restatement § 43, definite inconsistent action (selling to Allan) plus reliable information reaching the offeree terminates the power of acceptance — no formal notice from the offeror needed.",
+      "why": "Dickinson v. Dodds — and remember § 87(2)'s reliance-based option as the modern counterweight."
+    },
+    {
+      "id": "c-mcq-timing",
+      "type": "mcq",
+      "concept": "Consideration timing — Mills pattern",
+      "scenario": "While N is nursing L back to health, L says: 'Keep taking care of me and I'll repay every cost when I recover.' N continues the care. L recovers, then refuses to pay. Enforceable?",
+      "options": [
+        "No — past consideration; the care was a completed act",
+        "Yes — bargained-for exchange: the promise induced continued care",
+        "No — promises to pay for services must be in writing",
+        "Yes — but only under the material benefit rule"
+      ],
+      "correct": 1,
+      "explanation": "The promise came DURING performance and induced its continuation — a real exchange, unlike Mills v. Wyman, where the promise arrived only after the care had fully ended. Timing of the promise decides everything.",
+      "why": "Dougherty, Mills, and Harrington all fail on the same clock; this hypo moves the promise before the act completes."
+    },
+    {
+      "id": "c-hypo-piano",
+      "type": "mcq",
+      "concept": "Condition of gift vs. consideration — Kirksey line",
+      "scenario": "Grandmother tells her grandson: 'If you drive to my house on Sunday, I'll give you my old piano.' He drives the two hours; she refuses to hand it over. Enforceable contract?",
+      "options": [
+        "Yes — driving two hours is a detriment, and detriment is consideration (Hamer)",
+        "No — the drive was merely a condition necessary to receive the gift, not something the grandmother sought in exchange",
+        "Yes — any act performed at the promisor's request is consideration",
+        "No — promises between family members are never enforceable"
+      ],
+      "correct": 1,
+      "explanation": "Kirksey: if the 'consideration' is just a necessary requirement of receiving the gift, it isn't valid consideration. Ask the Langer question — did the drive BENEFIT grandmother, or was it merely how he'd collect the gratuity? Contrast Hamer, where the forbearance was the very thing the uncle bargained for.",
+      "why": "The exchange-vs-gratuitous-condition line: benefit to the promisor is the tell."
+    },
+    {
+      "id": "c-hypo-claim",
+      "type": "mcq",
+      "concept": "Forbearance of an invalid claim — § 74(1)",
+      "scenario": "N threatens to sue D over a property-line claim N privately knows is baseless, purely as leverage. D promises $2,000 if N drops it; N does. D refuses to pay. Consideration?",
+      "options": [
+        "Yes — forbearance from asserting a claim is always consideration",
+        "No — forbearing an invalid claim is not consideration where the claim isn't doubtful and the forbearing party doesn't believe in it",
+        "Yes — D received the benefit of avoiding litigation costs",
+        "No — settlement agreements require court approval"
+      ],
+      "correct": 1,
+      "explanation": "Restatement § 74(1): forbearance of an invalid claim IS consideration only if (a) the claim is genuinely doubtful as to facts or law, or (b) the forbearing party honestly believes it may fairly be determined valid. N flunks both — this is the Military College v. Brooks line between settlement and extortion.",
+      "why": "Flip the facts: an honestly held, uncertain claim dropped in exchange for payment WOULD be consideration."
+    },
+    {
+      "id": "c-hypo-subbid",
+      "type": "mcq",
+      "concept": "Reliance option — Restatement § 87(2)",
+      "scenario": "A subcontractor submits a bid to a general contractor, who uses it (as the sub expects) in computing the winning master bid. Before the GC can formally accept, the sub revokes, citing a pricing error. Can the GC hold the sub to the bid?",
+      "options": [
+        "No — an offer is freely revocable any time before acceptance",
+        "Yes — the bid is binding as an option contract to the extent necessary to prevent injustice, because it foreseeably induced substantial reliance before acceptance",
+        "No — the GC never paid consideration to hold the bid open",
+        "Yes — subcontractor bids are irrevocable by statute"
+      ],
+      "correct": 1,
+      "explanation": "Restatement § 87(2) (in your outline under Dickinson): an offer the offeror should reasonably expect to induce action of a substantial character before acceptance, and which does, is binding as an option to the extent necessary to prevent injustice. The GC's reliance — building the bid into its own — substitutes for the consideration an option would normally require.",
+      "why": "The modern counterweight to Dickinson v. Dodds' hard rule that gratuitous hold-open promises don't bind."
+    },
+    {
+      "id": "c-hypo-option-mail",
+      "type": "mcq",
+      "concept": "Mailbox rule — option contract exception",
+      "scenario": "B pays S $500 for an option to buy S's lot, 'exercisable until June 1.' B mails a letter exercising the option May 30; it arrives June 2. Valid exercise?",
+      "options": [
+        "Yes — the mailbox rule makes the acceptance effective on dispatch, May 30",
+        "No — acceptance under an option contract is effective only upon RECEIPT, and it arrived after the deadline",
+        "Yes — options are construed in favor of the option holder",
+        "No — options can only be exercised in person"
+      ],
+      "correct": 1,
+      "explanation": "The bracketed exception in § 63 you outlined: the mailbox rule does NOT apply to option contracts. An option's acceptance must be RECEIVED within the option period — dispatch isn't enough. June 2 receipt misses a June 1 deadline; the option lapsed.",
+      "why": "The logic: the option holder already bought certainty; the offeror shouldn't bear mail-delay risk on top of it."
+    },
+    {
+      "id": "c-hypo-death",
+      "type": "mcq",
+      "concept": "Termination — death of the offeror",
+      "scenario": "S offers in writing to sell B a boat, 'offer open for two weeks.' One week in, S dies. B — unaware of the death — mails an acceptance within the two weeks. Contract?",
+      "options": [
+        "Yes — B accepted within the stated window without knowledge of the death",
+        "No — death of the offeror terminates the offer, even without notice to the offeree",
+        "Yes — the offer binds S's estate for the full two weeks",
+        "No — but only because boats require a signed writing"
+      ],
+      "correct": 1,
+      "explanation": "The fifth termination method: death of the offeror means the death of the offer — knowledge is irrelevant, because there is no longer a mind to meet. (Distinguish a paid-for OPTION, which can survive death and bind the estate.)",
+      "why": "Compare Mellish's analogy in Dickinson: accepting after learning the property was sold is as impossible as accepting after the offeror dies."
+    },
+    {
+      "id": "c-hypo-request",
+      "type": "mcq",
+      "concept": "Conditional acceptance vs. mere request — § 61",
+      "scenario": "Responding to an offer to sell a house, buyer writes: 'I accept your offer and enclose the signed agreement and deposit. Also — would you consider leaving the patio furniture? Either way, we are moving forward.' Seller ignores it and sells elsewhere. Contract?",
+      "options": [
+        "No — mentioning the furniture made this a counteroffer under the mirror image rule",
+        "Yes — the acceptance was unequivocal; the furniture line was a mere request that the acceptance did not depend on",
+        "No — an acceptance must repeat the offer's terms verbatim",
+        "Yes — but only if the seller responds to the furniture question"
+      ],
+      "correct": 1,
+      "explanation": "Restatement § 61: an acceptance requesting a change isn't invalidated unless it's made to DEPEND on assent to the change. 'Either way, we are moving forward' is exactly the unconditional language Ardente's letter lacked — Ardente sought 'confirmation' the items were 'part of the transaction,' which read as a condition.",
+      "why": "Same fact family as Ardente, flipped by one sentence — the exam move is quoting the language that shows (un)conditionality."
+    },
+    {
+      "id": "c-hypo-subordinate",
+      "type": "mcq",
+      "concept": "Restitution is subordinate to contracts",
+      "scenario": "Homeowner signs a $5,000 written contract with a painter. The painter performs fully, then discovers comparable jobs go for $8,000 and sues in unjust enrichment for the $3,000 difference. Result?",
+      "options": [
+        "Painter recovers $3,000 — the homeowner was enriched by below-market work",
+        "Painter recovers nothing extra — restitution is subordinate to contracts; the valid contract fixes the recovery at its price",
+        "Painter recovers $8,000 in quantum meruit and forfeits the contract price",
+        "Painter recovers if he proves the homeowner knew the market rate"
+      ],
+      "correct": 1,
+      "explanation": "Restitution is SUBORDINATE to contracts: where a valid contract governs the exact benefit conferred, unjust enrichment is unavailable to rewrite the bargain. The 'enrichment' has an adequate legal basis — the contract — so it isn't unjust(ified).",
+      "why": "The Restatement (Third)'s framing from your outline: restitution targets enrichment that LACKS an adequate legal basis."
+    },
+    {
+      "id": "c-hypo-mower",
+      "type": "mcq",
+      "concept": "Unjust enrichment — volunteer / forced exchange",
+      "scenario": "While a homeowner is on vacation, a landscaper mows the badly overgrown lawn uninvited, then bills $200 — genuinely improving the property's look. Must the homeowner pay?",
+      "options": [
+        "Yes — a real benefit was conferred and retained",
+        "No — an unrequested benefit voluntarily conferred creates no compensation obligation, and the homeowner can't be forced into a purchase she never chose",
+        "Yes — but only the fair market value of the mowing",
+        "No — unless the landscaper mows a second time"
+      ],
+      "correct": 1,
+      "explanation": "Both element-two exceptions fire: the landscaper gratuitously chose to confer a benefit instead of contracting (volunteer), and the homeowner received unrequested services she wouldn't necessarily have bought at market value (forced exchange). Element one is satisfied — the lawn IS better — but retention isn't unjust.",
+      "why": "Same skeleton as the professor's lumberjack pattern — good deed, no debt."
+    },
+    {
+      "id": "c-hypo-quote",
+      "type": "mcq",
+      "concept": "Quotations — the Fairmount pattern",
+      "scenario": "Buyer emails: 'What is your best price on 500 units of part #77, delivered to Tampa?' Seller replies: 'Part #77: $4.00/unit delivered Tampa, for immediate acceptance, shipment by June 1.' Buyer replies: 'Accepted — 500 units.' Seller refuses, calling its email 'just a quote.' Contract?",
+      "options": [
+        "No — price quotations are never offers (Moulton)",
+        "Yes — a quote answering a specific inquiry, with quantity supplied by the inquiry and 'for immediate acceptance' language, is an offer",
+        "No — the buyer's reply was the first offer, which the seller never accepted",
+        "Yes — all commercial emails are binding offers"
+      ],
+      "correct": 1,
+      "explanation": "The Fairmount pattern: the seller's response wasn't a general circular (Moulton) — it answered a SPECIFIC inquiry that fixed the quantity, and 'for immediate acceptance' invited assent to conclude the deal. Labeling it a 'quote' doesn't control; the objective features do.",
+      "why": "The Moulton → Fairmount → Nordyne line in one hypo: context, specificity, and acceptance-inviting language flip a quote into an offer."
+    }
+  ]
+}

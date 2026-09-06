@@ -1,0 +1,19 @@
+{
+  "subjects": [
+    {
+      "key": "contracts",
+      "name": "Contracts",
+      "file": "./data/contracts.json"
+    },
+    {
+      "key": "torts",
+      "name": "Torts",
+      "file": "./data/torts.json"
+    },
+    {
+      "key": "civpro",
+      "name": "Civil Procedure",
+      "file": "./data/civpro.json"
+    }
+  ]
+}
