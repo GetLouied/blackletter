@@ -1,6 +1,6 @@
 /* Black Letter — offline shell.
    Bump CACHE whenever you publish, or phones keep serving the old copy. */
-const CACHE = "blackletter-v7";
+const CACHE = "blackletter-v8";
 
 const SHELL = [
   "./",

@@ -15,7 +15,7 @@
       {
         "h": "1. Battery",
         "items": [
-          "Battery is an intentional act causing harmful or offensive contact with the person of another. The intent runs to the contact, not to the harm — the actor must intend the contact, or know it is substantially certain to result. (Lack of consent is often recited as an element; in most jurisdictions consent is properly an affirmative defense the defendant raises, so check how your course frames it.)",
+          "Battery: (1) a volitional act by the defendant; (2) intent to cause a harmful or offensive contact with the person of another, or an imminent apprehension of such a contact; (3) causation; and (4) a harmful or offensive contact that in fact results. The intent runs to the contact, not to the harm. (Lack of consent is often recited as an element; in most jurisdictions consent is properly an affirmative defense — check how your course frames it.)",
           "Offensiveness is judged by the sensibilities of an ordinary person in the circumstances. Contact that is part of the customary give-and-take of crowded life is not offensive unless it is rude, insolent, or angry (Wallace v. Rosen).",
           "The contact need not touch the body: anything so closely identified with the person as to be customarily regarded as part of it will suffice, because the tort protects personal dignity (Fisher v. Carrousel Motor Hotel).",
           "No physical injury is required; a plaintiff who proves battery without harm may recover nominal damages."
@@ -24,7 +24,7 @@
       {
         "h": "2. Assault",
         "items": [
-          "Assault is an intentional act causing the plaintiff reasonable apprehension of an imminent harmful or offensive contact.",
+          "Assault: (1) a volitional act by the defendant; (2) intent to cause apprehension of an imminent harmful or offensive contact, or to cause the contact itself; (3) causation; and (4) the plaintiff is thereby placed in reasonable apprehension of such imminent contact.",
           "Apprehension means awareness of the threatened contact; it is not the same as fear, so a plaintiff who was unafraid still has a claim.",
           "Apparent ability to carry out the contact is sufficient, judged from the standpoint of a reasonable person in the plaintiff's position; actual ability is not required (Western Union Telegraph Co. v. Hill)."
         ]
@@ -32,7 +32,7 @@
       {
         "h": "3. False imprisonment",
         "items": [
-          "False imprisonment is an intentional restraint of the plaintiff's physical liberty within boundaries fixed by the defendant, without adequate legal justification.",
+          "False imprisonment: (1) a volitional act by the defendant; (2) intent to confine the plaintiff within boundaries fixed by the defendant; (3) causation; (4) actual confinement without adequate legal justification; and (5) the plaintiff is conscious of the confinement at the time, or is harmed by it.",
           "The restraint may be accomplished by threats, duress, or asserted legal authority as readily as by physical force (Big Town Nursing Home v. Newman), where egregious disregard of the plaintiff's rights also supported punitive damages.",
           "The plaintiff must have been conscious of the confinement at the time, or else harmed by it. She need not remember it afterward, so an intoxicated plaintiff's loss of memory presents a jury question rather than a bar (Parvi v. City of Kingston)."
         ]
@@ -40,7 +40,7 @@
       {
         "h": "4. Intentional infliction of emotional distress",
         "items": [
-          "IIED requires conduct that is intentional or reckless; that is extreme and outrageous; that is causally connected to the plaintiff's emotional distress; and distress that is severe.",
+          "IIED: (1) conduct that is intentional or reckless; (2) that is extreme and outrageous; (3) a causal connection between the conduct and the plaintiff's emotional distress; and (4) distress that is severe.",
           "Severity is where these claims usually fail. A plaintiff is expected to tolerate a degree of rough treatment, and vague or weakly supported evidence of aggravation will not carry the element even where the conduct was plainly outrageous (Harris v. Jones).",
           "A bystander must show that the defendant knew of her presence and directed the conduct at her, or recklessly disregarded the distress it would cause her (Taylor v. Vallelunga)."
         ]
@@ -110,13 +110,17 @@
       "id": "b-t-battery",
       "topic": "Battery — elements",
       "components": [
-        "An intentional act",
-        "Causing harmful or offensive contact",
-        "With the person of another",
-        "Without consent"
+        "A volitional act by the defendant",
+        "Intent to cause a harmful or offensive contact, or apprehension of one",
+        "Causation — the act in fact brings the contact about",
+        "A harmful or offensive contact with the person of another results",
+        "Intent runs to the CONTACT, not to the harm",
+        "Consent is generally an affirmative defense, not an element the plaintiff proves"
       ],
       "model": [
-        "Battery: an intentional act causing harmful or offensive contact with the person of another, without consent. Intent runs to the contact, not to the harm — no physical injury is required, and a plaintiff proving battery without harm may recover nominal damages."
+        "Battery: (1) a volitional act by the defendant; (2) done with intent to cause a harmful or offensive contact with the person of another, or an imminent apprehension of such a contact; (3) causation; and (4) a harmful or offensive contact that in fact results.",
+        "The intent runs to the contact, not to the harm — the actor need not intend injury or know the act is wrongful. No physical injury is required; nominal damages are available.",
+        "Lack of consent is often recited as a fifth element; in most jurisdictions consent is properly an affirmative defense the defendant raises. Check how your course frames it."
       ]
     },
     {
@@ -137,13 +141,15 @@
       "id": "b-t-assault",
       "topic": "Assault — elements",
       "components": [
-        "An intentional act",
-        "Causing reasonable apprehension",
-        "Of an IMMINENT harmful or offensive contact",
+        "A volitional act by the defendant",
+        "Intent to cause apprehension of an imminent harmful or offensive contact (or to cause the contact itself)",
+        "Causation — the act in fact causes the apprehension",
+        "The plaintiff is placed in reasonable apprehension of an imminent contact",
         "Apprehension is awareness, not fear"
       ],
       "model": [
-        "Assault: an intentional act causing the plaintiff reasonable apprehension of an imminent harmful or offensive contact. Apprehension means awareness of the threatened contact — it is not fear, so an unafraid plaintiff still has a claim."
+        "Assault: (1) a volitional act by the defendant; (2) done with intent to cause apprehension of an imminent harmful or offensive contact — or to cause the contact itself, since intent transfers between the two torts; (3) causation; and (4) the plaintiff is thereby placed in reasonable apprehension of such imminent contact.",
+        "Apprehension means awareness of the threatened contact, not fear — an unafraid plaintiff still has a claim. Restatement § 21 compresses this into two clauses (acting with the requisite intent, and the other 'is thereby put in such imminent apprehension'), but the four-part breakdown separates the volitional act, the intent, causation, and the resulting apprehension."
       ]
     },
     {
@@ -163,14 +169,17 @@
       "id": "b-t-fi",
       "topic": "False imprisonment — elements",
       "components": [
-        "An intentional act",
-        "Restraint of physical liberty within boundaries fixed by the defendant",
-        "Without adequate legal justification",
+        "A volitional act by the defendant",
+        "Intent to confine the plaintiff within fixed boundaries",
+        "Causation — the act in fact causes the confinement",
+        "Actual confinement within boundaries fixed by the defendant, without adequate legal justification",
+        "The plaintiff is conscious of the confinement at the time, or harmed by it",
         "Restraint may be non-physical — threats, duress, asserted authority"
       ],
       "model": [
-        "False imprisonment: an intentional direct restraint of another's physical liberty within boundaries fixed by the defendant, without adequate legal justification.",
-        "The restraint need not be physical — threats, duress, or asserted legal authority suffice, as where a nursing home seized belongings, denied phone use, and retrieved a resident who left (Big Town Nursing Home v. Newman), where egregious disregard of rights also supported punitive damages."
+        "False imprisonment: (1) a volitional act by the defendant; (2) done with intent to confine the plaintiff within boundaries fixed by the defendant; (3) causation; (4) the plaintiff is in fact so confined, without adequate legal justification; and (5) the plaintiff is conscious of the confinement at the time, or is harmed by it.",
+        "The restraint need not be physical — threats, duress, or asserted legal authority suffice (Big Town Nursing Home v. Newman), where egregious disregard of the plaintiff's rights also supported punitive damages.",
+        "Awareness at the time and memory afterward are different things: a plaintiff who cannot later recall the confinement may still recover (Parvi v. City of Kingston)."
       ]
     },
     {
@@ -244,32 +253,33 @@
       "prompt": "Name the elements of battery.",
       "slots": [
         {
-          "label": "An intentional act",
+          "label": "A volitional act by the defendant",
           "keywords": [
-            "intent",
-            "intentional act"
+            "volitional",
+            "voluntary",
+            "act by",
+            "an act"
           ]
         },
         {
-          "label": "Causing harmful or offensive contact",
+          "label": "Intent to cause harmful or offensive contact (or apprehension of it)",
+          "keywords": [
+            "intent",
+            "intend"
+          ]
+        },
+        {
+          "label": "Causation — the act in fact causes the contact",
+          "keywords": [
+            "caus"
+          ]
+        },
+        {
+          "label": "Harmful or offensive contact with the person of another",
           "keywords": [
             "harmful",
             "offensive",
             "contact"
-          ]
-        },
-        {
-          "label": "With the person of another",
-          "keywords": [
-            "person of another",
-            "another",
-            "plaintiff's person"
-          ]
-        },
-        {
-          "label": "Without consent",
-          "keywords": [
-            "consent"
           ]
         }
       ]
@@ -280,25 +290,34 @@
       "prompt": "Name the elements of assault.",
       "slots": [
         {
-          "label": "An intentional act",
+          "label": "A volitional act by the defendant",
+          "keywords": [
+            "volitional",
+            "voluntary",
+            "act by",
+            "an act"
+          ]
+        },
+        {
+          "label": "Intent to cause apprehension of imminent harmful or offensive contact (or to cause the contact itself)",
           "keywords": [
             "intent",
-            "intentional act"
+            "intend"
           ]
         },
         {
-          "label": "Causing reasonable apprehension",
+          "label": "Causation — the act in fact causes the apprehension",
+          "keywords": [
+            "caus",
+            "in fact",
+            "thereby"
+          ]
+        },
+        {
+          "label": "The plaintiff is placed in reasonable apprehension of an imminent harmful or offensive contact",
           "keywords": [
             "apprehension",
-            "reasonable apprehension"
-          ]
-        },
-        {
-          "label": "Of an imminent harmful or offensive contact",
-          "keywords": [
-            "imminent",
-            "harmful",
-            "offensive"
+            "apprehend"
           ]
         }
       ]
@@ -309,37 +328,47 @@
       "prompt": "Name the elements of false imprisonment.",
       "slots": [
         {
-          "label": "An intentional act",
+          "label": "A volitional act by the defendant",
+          "keywords": [
+            "volitional",
+            "voluntary",
+            "act by",
+            "an act"
+          ]
+        },
+        {
+          "label": "Intent to confine the plaintiff within fixed boundaries",
           "keywords": [
             "intent",
-            "intentional"
+            "intend",
+            "confine"
           ]
         },
         {
-          "label": "Restraint of the plaintiff's physical liberty within fixed boundaries",
+          "label": "Causation — the act in fact causes the confinement",
           "keywords": [
+            "caus",
+            "in fact",
+            "thereby"
+          ]
+        },
+        {
+          "label": "The plaintiff is actually confined within boundaries fixed by the defendant, without adequate legal justification",
+          "keywords": [
+            "confin",
             "restrain",
-            "confine",
             "boundar",
-            "liberty"
+            "liberty",
+            "justification"
           ]
         },
         {
-          "label": "Without adequate legal justification",
-          "keywords": [
-            "justification",
-            "authority",
-            "lawful",
-            "legal justification"
-          ]
-        },
-        {
-          "label": "Plaintiff conscious of the confinement at the time (or harmed by it)",
+          "label": "The plaintiff is conscious of the confinement at the time, or is harmed by it",
           "keywords": [
             "conscious",
             "aware",
             "awareness",
-            "knowledge of"
+            "harmed"
           ]
         }
       ]
@@ -364,7 +393,7 @@
           ]
         },
         {
-          "label": "Causal connection between conduct and distress",
+          "label": "Causal connection between the conduct and the distress",
           "keywords": [
             "caus"
           ]
