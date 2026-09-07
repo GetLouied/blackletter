@@ -665,6 +665,41 @@
         "Looking forward, we consider the likelihood, as we would have understood it then, that some harm would occur, and the likely severity of that harm should it occur. Those two together are the RISK. On the other side we evaluate the cost of avoiding that harm and that risk by complying with the duty we contemplate — including the cost to this defendant, the cost to others similarly situated, and the social costs, if any, of imposing the duty. This is social policy, not math.",
         "We then compare the risk to the cost of avoidance. Unavoidably it requires comparing incommensurables; Judge Hand says so himself. It is both inefficient and unfair to impose on defendants a cost of avoidance too high for the risk involved. So even if there is risk and a reasonably measurable cost of avoidance, there might still be no duty."
       ]
+    },
+    {
+      "id": "b-t-craft",
+      "topic": "Exam craft — the legal idiom",
+      "components": [
+        "Issue: whether π can establish a prima facie case against Δ for [tort]",
+        "A claim is ESTABLISHED, not 'provided'",
+        "Affirmative defenses come after the prima facie case, and Δ pleads and proves them",
+        "Open the application with 'on these facts' or 'in the instant case'",
+        "Take the elements one at a time; link the rule directly to the facts",
+        "Δ is SUBJECT TO LIABILITY, not 'guilty'",
+        "Intrusion ONTO real property; Δ ENTERED (past tense)",
+        "Do not bolt 'no reasonable means of escape' onto the FI rule — that is what confined means"
+      ],
+      "model": [
+        "Frame the issue as whether the party can establish a prima facie case against the other party for a named cause of action. Do not recite facts in the issue, and do not frame the issue around Δ's affirmative defense — consent and the other privileges are pleaded and proved by Δ after the prima facie case is established.",
+        "Open the application with 'on these facts,' 'in the instant case,' or simply 'here.' Take the elements one at a time and link the governing rule directly to the facts that satisfy each; a sweep across 'every element' invites the question which one, and how.",
+        "Use the working verbs: π establishes a prima facie case; Δ pleads and proves an affirmative defense; a privilege attaches; Δ is subject to liability. Avoid 'guilty,' which is criminal, and avoid declaring an issue 'cut and dried.'"
+      ]
+    },
+    {
+      "id": "b-t-craft2",
+      "topic": "Exam craft — conclusory language",
+      "components": [
+        "Strike 'clearly,' 'obviously,' 'no question,' 'cut and dried,' 'pretty much'",
+        "These assert the conclusion the analysis is supposed to earn",
+        "Name the conduct, tie it to the element, state the legal consequence",
+        "Do not raise an argument you concede the facts will not support",
+        "Either analyze the counterargument or omit it"
+      ],
+      "model": [
+        "Subjective characterizations do no analytical work. 'Clearly,' 'obviously,' 'there was no question,' 'cut and dried' — each announces a result in place of the reasoning that should produce it. Delete them; if the sentence still stands, they were padding, and if it collapses, the analysis was never there.",
+        "Replace them with the move itself: name the conduct, tie it to the element it satisfies, and state the legal consequence.",
+        "The same discipline applies to counterarguments. Raising an argument and then conceding the record will not support it spends words without advancing the answer. Either the facts support it, in which case analyze it and explain why it fails, or they do not, in which case leave it out."
+      ]
     }
   ],
   "ladders": [
@@ -1609,7 +1644,7 @@
       "id": "m-t-food-1",
       "type": "mcq",
       "concept": "Contaminated food",
-      "scenario": "A diner cracks a molar on a fragment of shell in a bowl of clam chowder at a restaurant. She sues in strict liability for contaminated food. Best analysis?",
+      "scenario": "A diner cracks a molar on a fragment of shell in a bowl of clam chowder at a restaurant. She sues in strict liability for contaminated food. Which statement best analyzes the claim?",
       "options": [
         "She recovers — any foreign material in food is contamination",
         "She does not recover on this theory — shell in chowder is natural to the food, the 'bones and stones' limitation",
@@ -1624,12 +1659,12 @@
       "id": "m-t-food-2",
       "type": "mcq",
       "concept": "Contaminated food",
-      "scenario": "A sealed jar of peanut butter leaves the factory clean. A grocery stocker punctures the seal with a box cutter, and mold develops. The buyer sues the manufacturer in strict liability. Result?",
+      "scenario": "A sealed jar of peanut butter leaves the factory clean. A grocery stocker punctures the seal with a box cutter, and mold develops. The buyer sues the manufacturer in strict liability. What result?",
       "options": [
-        "Manufacturer liable — it manufactured the product that injured the buyer",
-        "Manufacturer not liable — the product did not reach the consumer in substantially the same condition as when it left the manufacturer's control",
-        "Manufacturer liable because mold is putrefaction",
-        "Manufacturer liable unless it proves the stocker acted intentionally"
+        "The manufacturer is subject to liability — it manufactured the product that injured the buyer",
+        "Manufacturer not subject to liability — the product did not reach the consumer in substantially the same condition as when it left the manufacturer's control",
+        "The manufacturer is subject to liability because mold is putrefaction",
+        "The manufacturer is subject to liability unless it proves the stocker acted intentionally"
       ],
       "correct": 1,
       "explanation": "The third element requires the product to reach the consumer in substantially the same condition as when it left the defendant's control. An intervening puncture breaks that chain as to the manufacturer, whatever the grocery's own exposure may be.",
@@ -1639,7 +1674,7 @@
       "id": "m-t-food-3",
       "type": "mcq",
       "concept": "Contaminated food",
-      "scenario": "A neighbor bakes a pie as a gift. It contains a shard of glass from a broken mixing bowl, and the recipient is injured. Strict liability for contaminated food?",
+      "scenario": "A neighbor bakes a pie as a gift. It contains a shard of glass from a broken mixing bowl, and the recipient is injured. Can π establish a prima facie case in strict liability for contaminated food?",
       "options": [
         "Yes — glass is a foreign object and it caused injury",
         "No — the neighbor was not engaged in the business of manufacturing or selling the food product",
@@ -1654,7 +1689,7 @@
       "id": "m-t-food-4",
       "type": "mcq",
       "concept": "Contaminated food",
-      "scenario": "A canner proves it uses the most advanced sterilization equipment available and inspects every lot, yet one can of soup left the plant carrying botulinum toxin and poisons a consumer. Liable?",
+      "scenario": "A canner proves it uses the most advanced sterilization equipment available and inspects every lot, yet one can of soup left the plant carrying botulinum toxin and poisons a consumer. Is Δ subject to liability?",
       "options": [
         "No — reasonable care, indeed the utmost care, is a complete answer",
         "Yes — strict liability is liability without fault; the care exercised is irrelevant to the prima facie case",
@@ -1669,7 +1704,7 @@
       "id": "m-t-food-5",
       "type": "mcq",
       "concept": "Contaminated food",
-      "scenario": "A consumer bites into a burger and finds a small metal screw, which he spits out unharmed. He is disgusted but suffers no physical injury and no illness. Strict liability claim?",
+      "scenario": "A consumer bites into a burger and finds a small metal screw, which he spits out unharmed. He is disgusted but suffers no physical injury and no illness. Can π establish a prima facie case in strict liability against Δ?",
       "options": [
         "Yes — the presence of a foreign object completes the tort",
         "No — the prima facie case requires that the contamination cause an injury suffered by the plaintiff, and none occurred",
@@ -1684,7 +1719,7 @@
       "id": "m-t-wild-1",
       "type": "mcq",
       "concept": "Wild animals",
-      "scenario": "A private collector keeps a tiger in a reinforced enclosure. It escapes through a gate a vandal cuts open and mauls a passerby. The collector proves he took every conceivable precaution. Liable?",
+      "scenario": "A private collector keeps a tiger in a reinforced enclosure. It escapes through a gate a vandal cuts open and mauls a passerby. The collector proves he took every conceivable precaution. Is Δ subject to liability?",
       "options": [
         "No — his precautions establish reasonable care",
         "Yes — scienter is presumed for wild animals and liability attaches without fault",
@@ -1699,7 +1734,7 @@
       "id": "m-t-wild-2",
       "type": "mcq",
       "concept": "Wild animals",
-      "scenario": "A zoo's elephant, startled by thunder, sits down on a visitor's foot while being led to its enclosure. The visitor sues in strict liability. Best analysis?",
+      "scenario": "A zoo's elephant, startled by thunder, sits down on a visitor's foot while being led to its enclosure. The visitor sues in strict liability. Which statement best analyzes the claim?",
       "options": [
         "Strict liability applies — an elephant is a wild animal and it caused harm",
         "Strict liability likely does not apply — the harm flowed from the animal's size and clumsiness, not from a dangerous propensity arising from its wildness",
@@ -1714,12 +1749,12 @@
       "id": "m-t-wild-3",
       "type": "mcq",
       "concept": "Wild animals",
-      "scenario": "A trapper sells a captured wolf to a roadside attraction, which keeps it for a year before it bites a customer. The customer sues the trapper. Result?",
+      "scenario": "A trapper sells a captured wolf to a roadside attraction, which keeps it for a year before it bites a customer. The customer sues the trapper. What result?",
       "options": [
-        "Trapper liable — he originally captured and harbored the wolf",
-        "Trapper not liable — the defendant must have been the last to have kept or harbored the animal",
-        "Trapper liable jointly with the attraction",
-        "Trapper liable because scienter is presumed as to wolves"
+        "The trapper is subject to liability — he originally captured and harbored the wolf",
+        "Trapper not subject to liability — the defendant must have been the last to have kept or harbored the animal",
+        "The trapper is subject to liability jointly with the attraction",
+        "The trapper is subject to liability because scienter is presumed as to wolves"
       ],
       "correct": 1,
       "explanation": "The element is that the defendant owned, kept, or harbored the animal, and the defendant must have been the last to have kept or harbored it. Having passed the wolf on a year earlier, the trapper is outside the rule.",
@@ -1744,11 +1779,11 @@
       "id": "m-t-wild-5",
       "type": "mcq",
       "concept": "Wild animals",
-      "scenario": "A rattlesnake kept as a pet escapes and a neighbor, seeing it, leaps backward off a porch and breaks an ankle. The snake never touched her. Analysis?",
+      "scenario": "A rattlesnake kept as a pet escapes and a neighbor, seeing it, leaps backward off a porch and breaks an ankle. The snake never touched her. Which statement best analyzes the claim?",
       "options": [
-        "No claim — the animal must physically contact the plaintiff",
+        "π cannot establish a prima facie case — the animal must physically contact the plaintiff",
         "The claim turns on whether harm resulted from a dangerous propensity arising from wildness; a flight reaction to a venomous snake is closely tied to that propensity",
-        "No claim — fright is not harm to person or property",
+        "π cannot establish a prima facie case — fright is not harm to person or property",
         "Strict liability is automatic once the snake escapes"
       ],
       "correct": 1,
@@ -1759,7 +1794,7 @@
       "id": "m-t-dom-1",
       "type": "mcq",
       "concept": "Unusually dangerous domestic animals",
-      "scenario": "A dog with no history of aggression bites a mail carrier for the first time. The owner had no reason to think it dangerous. Strict liability?",
+      "scenario": "A dog with no history of aggression bites a mail carrier for the first time. The owner had no reason to think it dangerous. Can π establish a prima facie case in strict liability against Δ?",
       "options": [
         "Yes — dog owners are strictly liable at common law",
         "No — scienter is not presumed for domestic animals, and the owner had neither actual nor constructive knowledge of abnormal dangerousness",
@@ -1774,7 +1809,7 @@
       "id": "m-t-dom-2",
       "type": "mcq",
       "concept": "Unusually dangerous domestic animals",
-      "scenario": "A dog has lunged and snapped at three delivery drivers over six months, each time restrained just in time. It has never made contact. It then bites a neighbor. Owner's best argument?",
+      "scenario": "A dog has lunged and snapped at three delivery drivers over six months, each time restrained just in time. It has never made contact. It then bites a neighbor. What is the owner's strongest argument?",
       "options": [
         "No scienter — the dog had never actually bitten anyone before",
         "The argument fails: abnormal dangerousness usually arises from other attacks OR other behavior creating a risk of harm, and repeated lunging supplies constructive knowledge",
@@ -1789,12 +1824,12 @@
       "id": "m-t-dom-3",
       "type": "mcq",
       "concept": "Unusually dangerous domestic animals",
-      "scenario": "A man agrees to watch his brother's dog for a week. He knows the dog has bitten two people. It bites a visitor on day three. He argues he does not own the dog. Result?",
+      "scenario": "A man agrees to watch his brother's dog for a week. He knows the dog has bitten two people. It bites a visitor on day three. He argues he does not own the dog. What result?",
       "options": [
-        "Not liable — the element requires ownership",
-        "Liable — the element is satisfied by one who kept, possessed, or harbored the animal; ownership is not required",
-        "Not liable — scienter belongs to the brother",
-        "Liable only if he was negligent in restraining it"
+        "Not subject to liability — the element requires ownership",
+        "Subject to liability — the element is satisfied by one who kept, possessed, or harbored the animal; ownership is not required",
+        "Not subject to liability — scienter belongs to the brother",
+        "Subject to liability only if he was negligent in restraining it"
       ],
       "correct": 1,
       "explanation": "The first element is that the defendant kept, possessed, or harbored the animal, and expressly need not own it. He knew of the prior bites, so scienter is satisfied as to him.",
@@ -1804,7 +1839,7 @@
       "id": "m-t-dom-4",
       "type": "mcq",
       "concept": "Unusually dangerous domestic animals",
-      "scenario": "A horse known to kick anyone who approaches from behind instead spooks at a siren and tramples a bystander in front of it. Strict liability?",
+      "scenario": "A horse known to kick anyone who approaches from behind instead spooks at a siren and tramples a bystander in front of it. Can π establish a prima facie case in strict liability against Δ?",
       "options": [
         "Yes — the owner knew the horse was abnormally dangerous",
         "Likely no — the harm must result from the abnormal dangerousness the defendant knew about, and trampling while spooked is a different characteristic",
@@ -1819,7 +1854,7 @@
       "id": "m-t-dom-5",
       "type": "mcq",
       "concept": "Unusually dangerous domestic animals",
-      "scenario": "Compare the scienter requirement for wild animals with that for abnormally dangerous domestic animals.",
+      "scenario": " How does the scienter requirement for wild animals differ from that for abnormally dangerous domestic animals?",
       "options": [
         "Both are presumed",
         "For wild animals scienter is presumed; for domestic animals the plaintiff must show actual or constructive knowledge",
@@ -1858,7 +1893,7 @@
       "id": "m-t-ultra-1",
       "type": "mcq",
       "concept": "Ultrahazardous activities",
-      "scenario": "A blasting contractor sets off a charge. A mile away, a farmer's mink, alarmed by the noise, kill their own kits. The farmer sues in strict liability. Best analysis?",
+      "scenario": "A blasting contractor sets off a charge. A mile away, a farmer's mink, alarmed by the noise, kill their own kits. The farmer sues in strict liability. Which statement best analyzes the claim?",
       "options": [
         "Recovery — blasting is ultrahazardous and the harm resulted from it",
         "No recovery on this theory — § 519 limits strict liability to the kind of harm the possibility of which makes the activity abnormally dangerous, and nervous mink are outside the characteristic risks of concussion, vibration, and flying debris",
@@ -1873,7 +1908,7 @@
       "id": "m-t-ultra-2",
       "type": "mcq",
       "concept": "Ultrahazardous activities",
-      "scenario": "A defendant argues that its activity cannot be abnormally dangerous because it satisfies only four of the six § 520 factors. Best response?",
+      "scenario": "A defendant argues that its activity cannot be abnormally dangerous because it satisfies only four of the six § 520 factors. What is the strongest response?",
       "options": [
         "Correct — a majority of the factors must be satisfied",
         "Incorrect — these are factors to be considered, not elements of a cause of action; no fixed number must be met",
@@ -1918,7 +1953,7 @@
       "id": "m-t-ultra-5",
       "type": "mcq",
       "concept": "Ultrahazardous activities",
-      "scenario": "A blasting company proves it followed every industry safety protocol and the shot was executed perfectly. Debris still damages a home. Effect of its care?",
+      "scenario": "A blasting company proves it followed every industry safety protocol and the shot was executed perfectly. Debris still damages a home. What is the legal effect of that showing on the prima facie case?",
       "options": [
         "It defeats liability — reasonable care is a defense",
         "None on the prima facie case — § 519 imposes liability although the actor exercised the utmost care, and § 520(c) treats inability to eliminate risk by reasonable care as a factor pointing toward strict liability",
@@ -1933,7 +1968,7 @@
       "id": "m-t-sldef-1",
       "type": "mcq",
       "concept": "Strict liability — defenses",
-      "scenario": "A visitor to a private zoo climbs over a warning barrier to photograph a bear and is clawed. The zoo raises a defense to strict liability. Which?",
+      "scenario": "A visitor to a private zoo climbs over a warning barrier to photograph a bear and is clawed. The zoo raises a defense to strict liability. On which affirmative defense should the zoo rely?",
       "options": [
         "Contributory negligence",
         "Voluntary assumption of a known risk",
@@ -1948,7 +1983,7 @@
       "id": "m-t-sldef-2",
       "type": "mcq",
       "concept": "Strict liability — defenses",
-      "scenario": "A homeowner is inattentive and fails to notice blasting warning signs before walking near a construction site, where flying debris injures him. The contractor pleads contributory negligence. Result under the common law rule for this course?",
+      "scenario": "A homeowner is inattentive and fails to notice blasting warning signs before walking near a construction site, where flying debris injures him. The contractor pleads contributory negligence. What result under the common law rule applied in this course?",
       "options": [
         "Complete bar — contributory negligence bars any tort claim",
         "Not the operative defense — the only defense to know here is voluntary assumption of a KNOWN risk, and mere inattention is not knowing acceptance",
@@ -1963,7 +1998,7 @@
       "id": "m-t-int-1",
       "type": "mcq",
       "concept": "Intent",
-      "scenario": "A man having an epileptic seizure strikes a bystander with his flailing arm. Battery?",
+      "scenario": "A man having an epileptic seizure strikes a bystander with his flailing arm. Can π establish a prima facie case for battery against Δ?",
       "options": [
         "Yes — the contact was harmful and he caused it",
         "No — there is no volitional act; he was not in physical control of his actions",
@@ -1978,7 +2013,7 @@
       "id": "m-t-int-2",
       "type": "mcq",
       "concept": "Intent",
-      "scenario": "A shooter aims at what he believes is a stray dog worrying his sheep. It is in fact his neighbor's prize show dog. He argues mistake. Result?",
+      "scenario": "A shooter aims at what he believes is a stray dog worrying his sheep. It is in fact his neighbor's prize show dog. He argues mistake. What result?",
       "options": [
         "No intent — he did not intend to shoot that dog",
         "Intent established — mistake as to target does not negate intent [Ransom]",
@@ -1993,7 +2028,7 @@
       "id": "m-t-int-3",
       "type": "mcq",
       "concept": "Intent",
-      "scenario": "A defendant drinks heavily, then deliberately shoves a stranger at a bar. He argues intoxication negated intent. Result?",
+      "scenario": "A defendant drinks heavily, then deliberately shoves a stranger at a bar. He argues intoxication negated intent. What result?",
       "options": [
         "No intent — intoxication negates the mental state",
         "Intent established — voluntary intoxication does not negate intent",
@@ -2008,7 +2043,7 @@
       "id": "m-t-int-4",
       "type": "mcq",
       "concept": "Intent",
-      "scenario": "A defendant with a serious mental illness believes his neighbor is an intruder and strikes him. Under McGuire, can he form intent?",
+      "scenario": "A defendant with a serious mental illness believes his neighbor is an intruder and strikes him. Under McGuire, may Δ form the requisite intent?",
       "options": [
         "No — insanity is a complete defense to intentional torts",
         "Generally yes — an insane person is capable of intent depending on the nature of the illness, if that person is capable of intending to commit the act in question",
@@ -2023,7 +2058,7 @@
       "id": "m-t-int-5",
       "type": "mcq",
       "concept": "Intent",
-      "scenario": "A five-year-old pulls a chair away as an adult begins to sit, having no wish to hurt her but understanding she will land on the floor. Under Garratt, is intent satisfied?",
+      "scenario": "A five-year-old pulls a chair away as an adult begins to sit, having no wish to hurt her but understanding she will land on the floor. Under Garratt, is the intent element satisfied?",
       "options": [
         "No — a five-year-old is legally incapable of intent",
         "Yes — knowledge of a substantial certainty that the contact will occur satisfies intent, and a child might be capable of intent depending on age",
@@ -2038,7 +2073,7 @@
       "id": "m-t-bat-1",
       "type": "mcq",
       "concept": "Battery",
-      "scenario": "At a crowded reception a guest deliberately snatches a plate from another guest's hand in a racially abusive manner, never touching his body. Battery?",
+      "scenario": "At a crowded reception a guest deliberately snatches a plate from another guest's hand in a racially abusive manner, never touching his body. Can π establish a prima facie case for battery against Δ?",
       "options": [
         "No — battery requires contact with the plaintiff's body",
         "Yes — the person of the plaintiff includes things attached to him, such as items held or worn, under the extended person rule [Fisher]",
@@ -2053,12 +2088,12 @@
       "id": "m-t-bat-2",
       "type": "mcq",
       "concept": "Battery",
-      "scenario": "A prankster pulls a chair away intending only a harmless joke. The victim falls and, because of an undiagnosed condition, suffers a catastrophic spinal injury. Extent of liability?",
+      "scenario": "A prankster pulls a chair away intending only a harmless joke. The victim falls and, because of an undiagnosed condition, suffers a catastrophic spinal injury. To what extent is Δ subject to liability?",
       "options": [
-        "Liable only for the harm a normal person would have suffered",
-        "Liable for all harm caused, even if unforeseeable — true of all the intentional torts",
-        "Not liable, since he intended no harm",
-        "Liable only if he knew of the condition"
+        "Subject to liability only for the harm a normal person would have suffered",
+        "Subject to liability for all harm caused, even if unforeseeable — true of all the intentional torts",
+        "Not subject to liability, since he intended no harm",
+        "Subject to liability only if he knew of the condition"
       ],
       "correct": 1,
       "explanation": "The defendant is responsible for all harm caused, even if unforeseeable, and the outline notes this is true of all the intentional torts. The intent needed is intent to cause contact, not intent to cause harm.",
@@ -2068,7 +2103,7 @@
       "id": "m-t-bat-3",
       "type": "mcq",
       "concept": "Battery",
-      "scenario": "A doctor performs a medically flawless operation on a patient who consented to a different procedure. The patient suffers no adverse outcome. Battery?",
+      "scenario": "A doctor performs a medically flawless operation on a patient who consented to a different procedure. The patient suffers no adverse outcome. Can π establish a prima facie case for battery against Δ?",
       "options": [
         "No — no harm resulted",
         "Yes — the tort is complete upon contact, and good faith or a good result will not lead a court to imply consent [Mohr]",
@@ -2083,7 +2118,7 @@
       "id": "m-t-bat-4",
       "type": "mcq",
       "concept": "Battery",
-      "scenario": "A man taps a stranger lightly on the shoulder to ask directions. The stranger is unusually sensitive to being touched and is deeply upset. Battery?",
+      "scenario": "A man taps a stranger lightly on the shoulder to ask directions. The stranger is unusually sensitive to being touched and is deeply upset. Can π establish a prima facie case for battery against Δ?",
       "options": [
         "Yes — any unconsented touching is a battery",
         "No — the contact intended must be harmful or offensive to a person of ordinary sensibilities, and a light tap to get attention is not",
@@ -2098,7 +2133,7 @@
       "id": "m-t-bat-5",
       "type": "mcq",
       "concept": "Battery",
-      "scenario": "A defendant throws a rock at A. It misses and strikes B, whom the defendant never saw. Battery against B?",
+      "scenario": "A defendant throws a rock at A. It misses and strikes B, whom the defendant never saw. Can B establish a prima facie case for battery against Δ?",
       "options": [
         "No — no intent as to B",
         "Yes — intent may be transferred to another person or another cause of action [Talmage]",
@@ -2113,7 +2148,7 @@
       "id": "m-t-as-1",
       "type": "mcq",
       "concept": "Assault",
-      "scenario": "A clerk reaches over a counter toward a customer's wife with a raised fist. Photographs later show the counter was too wide for him to have reached her. Assault?",
+      "scenario": "A clerk reaches over a counter toward a customer's wife with a raised fist. Photographs later show the counter was too wide for him to have reached her. Can π establish a prima facie case for assault against Δ?",
       "options": [
         "No — he could not physically have made contact",
         "Yes — the defendant must have apparent ability to cause the contact, and whether he did is a question for the jury [Western Union]",
@@ -2128,7 +2163,7 @@
       "id": "m-t-as-2",
       "type": "mcq",
       "concept": "Assault",
-      "scenario": "A bodybuilder tells a smaller man, 'If you weren't my brother's friend, I'd flatten you right now,' while standing still with his arms folded. Assault?",
+      "scenario": "A bodybuilder tells a smaller man, 'If you weren't my brother's friend, I'd flatten you right now,' while standing still with his arms folded. Can π establish a prima facie case for assault against Δ?",
       "options": [
         "Yes — the threat was serious and he had the ability to carry it out",
         "Likely no — the apprehended contact must be imminent, and words conditioned on a state of affairs that does not exist do not create expectation of imminent contact",
@@ -2143,7 +2178,7 @@
       "id": "m-t-as-3",
       "type": "mcq",
       "concept": "Assault",
-      "scenario": "A veteran soldier, entirely unafraid, watches a scrawny assailant swing a bat at his head and steps aside. He sues for assault. Effect of his lack of fear?",
+      "scenario": "A veteran soldier, entirely unafraid, watches a scrawny assailant swing a bat at his head and steps aside. He sues for assault. What is the legal effect of π's lack of fear?",
       "options": [
         "Fatal — apprehension means fear",
         "None to the prima facie case — apprehension is best understood as expectation; fear is not required, though it may increase damages",
@@ -2158,7 +2193,7 @@
       "id": "m-t-as-4",
       "type": "mcq",
       "concept": "Assault",
-      "scenario": "A man sneaks up behind a woman and swings a pipe at her head, missing by inches. She never sees or hears it and learns of it a week later from a witness. Assault?",
+      "scenario": "A man sneaks up behind a woman and swings a pipe at her head, missing by inches. She never sees or hears it and learns of it a week later from a witness. Can π establish a prima facie case for assault against Δ?",
       "options": [
         "Yes — the swing was intentional and dangerous",
         "No — the element requires that the act cause apprehension, and the tort is complete only upon apprehension; she had none",
@@ -2173,7 +2208,7 @@
       "id": "m-t-as-5",
       "type": "mcq",
       "concept": "Assault",
-      "scenario": "A man swings at another's head intending to strike him. The victim ducks and is untouched, but saw the punch coming. What torts, if any?",
+      "scenario": "A man swings at another's head intending to strike him. The victim ducks and is untouched, but saw the punch coming. What causes of action, if any, may π establish?",
       "options": [
         "Battery only",
         "Assault — intent to cause contact transfers to the assault cause of action, and the victim expected imminent contact",
@@ -2188,7 +2223,7 @@
       "id": "m-t-fi-1",
       "type": "mcq",
       "concept": "False imprisonment",
-      "scenario": "A store manager tells a suspected shoplifter, 'Stay right here or I'll have your car towed and call your employer.' The customer stays for an hour. No one touches her. False imprisonment?",
+      "scenario": "A store manager tells a suspected shoplifter, 'Stay right here or I'll have your car towed and call your employer.' The customer stays for an hour. No one touches her. Can π establish a prima facie case for false imprisonment against Δ?",
       "options": [
         "No — she was free to walk out and no one restrained her",
         "Potentially yes — physical restraint is not necessary; a threat of harm to the plaintiff, her property, or another person may be enough to confine",
@@ -2203,7 +2238,7 @@
       "id": "m-t-fi-2",
       "type": "mcq",
       "concept": "False imprisonment",
-      "scenario": "A guest is locked in a large walled garden with an unlocked gate on the far side that she does not know about, and no indication it exists. Confined?",
+      "scenario": "A guest is locked in a large walled garden with an unlocked gate on the far side that she does not know about, and no indication it exists. Was π confined within the meaning of the tort?",
       "options": [
         "No — an available exit defeats confinement in every case",
         "Potentially yes — the requirement is no apparent escape; an exit she has no way of knowing about is not an apparent one",
@@ -2218,7 +2253,7 @@
       "id": "m-t-fi-3",
       "type": "mcq",
       "concept": "False imprisonment",
-      "scenario": "An intoxicated man is taken by police to a remote area and left there. He has no memory of the events afterward but was aware at the time. Element of harm or awareness satisfied?",
+      "scenario": "An intoxicated man is taken by police to a remote area and left there. He has no memory of the events afterward but was aware at the time. Is the harm-or-awareness element satisfied?",
       "options": [
         "No — he cannot testify to what he does not remember",
         "Yes — the element is harm or awareness, measured at the time of the confinement; later memory is a different question",
@@ -2233,7 +2268,7 @@
       "id": "m-t-fi-4",
       "type": "mcq",
       "concept": "False imprisonment",
-      "scenario": "A warehouse worker locks a storeroom at closing, not knowing a colleague is inside. The colleague is trapped overnight. False imprisonment?",
+      "scenario": "A warehouse worker locks a storeroom at closing, not knowing a colleague is inside. The colleague is trapped overnight. Can π establish a prima facie case for false imprisonment against Δ?",
       "options": [
         "Yes — the act of locking was volitional and caused confinement",
         "No — the intent element requires intent to cause confinement or knowledge of a substantial certainty that confinement will occur, and he had neither",
@@ -2248,7 +2283,7 @@
       "id": "m-t-fi-5",
       "type": "mcq",
       "concept": "False imprisonment",
-      "scenario": "A man could leave a locked room by climbing out a third-story window onto a narrow ledge. He stays. Is he confined?",
+      "scenario": "A man could leave a locked room by climbing out a third-story window onto a narrow ledge. He stays. Was π confined within the meaning of the tort?",
       "options": [
         "No — an escape route existed",
         "Yes — the requirement is no apparent escape, or alternatively a risk of harm in escape; an escape that risks serious injury does not defeat confinement",
@@ -2270,7 +2305,7 @@
       "id": "m-t-iied-1",
       "type": "mcq",
       "concept": "IIED",
-      "scenario": "A supervisor mocks an employee's stutter dozens of times over months. The employee testifies he was 'nervous' and 'upset,' with no other evidence of his condition. Result?",
+      "scenario": "A supervisor mocks an employee's stutter dozens of times over months. The employee testifies he was 'nervous' and 'upset,' with no other evidence of his condition. What result?",
       "options": [
         "Recovery — the conduct was plainly outrageous",
         "No recovery — outrageousness may be established, but severe emotional distress means a severely disabling emotional response, and vague testimony does not establish it",
@@ -2285,7 +2320,7 @@
       "id": "m-t-iied-2",
       "type": "mcq",
       "concept": "IIED",
-      "scenario": "A plaintiff already suffering from an anxiety disorder is subjected to outrageous conduct and says it made things worse. What must he show on severity?",
+      "scenario": "A plaintiff already suffering from an anxiety disorder is subjected to outrageous conduct and says it made things worse. What must π show on the severity element?",
       "options": [
         "Nothing more — any worsening suffices",
         "That the pre-existing condition was exacerbated by an increment that itself qualifies as severe [Harris]",
@@ -2300,7 +2335,7 @@
       "id": "m-t-iied-3",
       "type": "mcq",
       "concept": "IIED",
-      "scenario": "A debt collector tells a debtor, 'Pay by Friday or next week my associates will break both your legs.' No violence occurs. Can the threat satisfy the outrageousness element?",
+      "scenario": "A debt collector tells a debtor, 'Pay by Friday or next week my associates will break both your legs.' No violence occurs. May the threat satisfy the outrageousness element?",
       "options": [
         "No — only completed violence is outrageous",
         "Yes — threats of future physical violence might be sufficient [Siliznoff]",
@@ -2315,7 +2350,7 @@
       "id": "m-t-iied-4",
       "type": "mcq",
       "concept": "IIED",
-      "scenario": "A defendant taunts a stranger about a personal tragedy he happens to know about, in a way that would leave most people unbothered but devastates this plaintiff, whose vulnerability the defendant knew. Relevant to outrageousness?",
+      "scenario": "A defendant taunts a stranger about a personal tragedy he happens to know about, in a way that would leave most people unbothered but devastates this plaintiff, whose vulnerability the defendant knew. Is the victim's vulnerability relevant to the outrageousness element?",
       "options": [
         "No — outrageousness is judged by a purely objective standard",
         "Yes — the character and vulnerability of the victim are factors in the determination [Harris]",
@@ -2330,7 +2365,7 @@
       "id": "m-t-iied-5",
       "type": "mcq",
       "concept": "IIED",
-      "scenario": "A defendant severely beats a man in his own home while the man's daughter watches from the doorway. Can the daughter state an IIED claim?",
+      "scenario": "A defendant severely beats a man in his own home while the man's daughter watches from the doorway. May the daughter establish a prima facie case for IIED?",
       "options": [
         "Never — she was not the target",
         "Possibly — harm to a family member in the presence of the plaintiff might be sufficient [Taylor]",
@@ -2345,7 +2380,7 @@
       "id": "m-t-tl-1",
       "type": "mcq",
       "concept": "Trespass to land",
-      "scenario": "A factory's night operations flood a neighbor's yard with bright light and constant noise. The neighbor sues for trespass to land. Result?",
+      "scenario": "A factory's night operations flood a neighbor's yard with bright light and constant noise. The neighbor sues for trespass to land. What result?",
       "options": [
         "Trespass — the light and sound physically enter the property",
         "Not trespass — odor, light, and noise are nuisance, not trespass; trespass requires intrusion by a person or tangible substance",
@@ -2360,11 +2395,11 @@
       "id": "m-t-tl-2",
       "type": "mcq",
       "concept": "Trespass to land",
-      "scenario": "A hiker crosses a corner of private land, doing no damage whatsoever and leaving no trace. The owner sues. Result?",
+      "scenario": "A hiker crosses a corner of private land, doing no damage whatsoever and leaving no trace. The owner sues. What result?",
       "options": [
-        "No claim — no damages",
+        "π cannot establish a prima facie case — no damages",
         "Claim lies — the interference is the injury, so separate damages need not be proved, and the tort is complete upon entry",
-        "No claim — unless the hiker was warned",
+        "π cannot establish a prima facie case — unless the hiker was warned",
         "Claim lies only for nominal damages if the owner proves emotional harm"
       ],
       "correct": 1,
@@ -2375,7 +2410,7 @@
       "id": "m-t-tl-3",
       "type": "mcq",
       "concept": "Trespass to land",
-      "scenario": "Blasting a mile away sends vibrations through the ground that shake a homeowner's foundation. He pleads trespass to land. Best analysis?",
+      "scenario": "Blasting a mile away sends vibrations through the ground that shake a homeowner's foundation. He pleads trespass to land. Which statement best analyzes the claim?",
       "options": [
         "Trespass — the vibrations physically entered the land",
         "Not trespass — vibration is strict liability or nuisance, not trespass; but an ultrahazardous activity claim may lie since ground vibration is a characteristic risk of blasting",
@@ -2390,7 +2425,7 @@
       "id": "m-t-tl-4",
       "type": "mcq",
       "concept": "Trespass to land",
-      "scenario": "A driver, having a heart attack, loses consciousness and her car rolls onto a lawn. Trespass to land?",
+      "scenario": "A driver, having a heart attack, loses consciousness and her car rolls onto a lawn. Can π establish a prima facie case for trespass to land against Δ?",
       "options": [
         "Yes — her car physically entered the property",
         "No — there is no volitional act; she was not in physical control of her actions",
@@ -2405,7 +2440,7 @@
       "id": "m-t-tl-5",
       "type": "mcq",
       "concept": "Trespass to land",
-      "scenario": "A contractor dumps a truckload of gravel just over the property line, honestly believing the line ran ten feet further. Trespass?",
+      "scenario": "A contractor dumps a truckload of gravel just over the property line, honestly believing the line ran ten feet further. Can π establish a prima facie case for trespass to land against Δ?",
       "options": [
         "No — he made an honest mistake about the boundary",
         "Yes — mistake does not negate intent, and gravel is a tangible substance intruding on real property",
@@ -2420,7 +2455,7 @@
       "id": "m-t-tc-1",
       "type": "mcq",
       "concept": "Trespass to chattels",
-      "scenario": "A neighbor borrows a lawnmower without permission for two hours and returns it in perfect condition. The owner did not need it and never noticed. Claim?",
+      "scenario": "A neighbor borrows a lawnmower without permission for two hours and returns it in perfect condition. The owner did not need it and never noticed. Can π establish a prima facie case against Δ?",
       "options": [
         "Yes — any unpermitted use is a trespass to chattels",
         "Likely no — the interference must constitute harm to the interest in the chattel; a brief unnoticed use causing no dispossession, damage, or impairment of use does not",
@@ -2435,7 +2470,7 @@
       "id": "m-t-tc-2",
       "type": "mcq",
       "concept": "Trespass to chattels",
-      "scenario": "A man takes a colleague's bicycle for a week, then returns it undamaged. The colleague had to take taxis. Measure of damages?",
+      "scenario": "A man takes a colleague's bicycle for a week, then returns it undamaged. The colleague had to take taxis. What is the measure of damages?",
       "options": [
         "The full value of the bicycle",
         "Fair rental value and losses caused by impairment of use",
@@ -2465,7 +2500,7 @@
       "id": "m-t-tc-4",
       "type": "mcq",
       "concept": "Trespass to chattels",
-      "scenario": "A defendant lets the air out of the plaintiff's tires. The tires are undamaged and easily reinflated, but the plaintiff misses a day of work. Claim?",
+      "scenario": "A defendant lets the air out of the plaintiff's tires. The tires are undamaged and easily reinflated, but the plaintiff misses a day of work. Can π establish a prima facie case against Δ?",
       "options": [
         "No — the chattel was not damaged or taken",
         "Yes — impairment of use is one of the three routes, and losses caused by impairment of use are recoverable",
@@ -2480,7 +2515,7 @@
       "id": "m-t-tc-5",
       "type": "mcq",
       "concept": "Trespass to chattels",
-      "scenario": "A gallery holds a painting for three days past the agreed return date, then returns it unharmed. The owner sues for conversion. Best analysis?",
+      "scenario": "A gallery holds a painting for three days past the agreed return date, then returns it unharmed. The owner sues for conversion. Which statement best analyzes the claim?",
       "options": [
         "Conversion — any unauthorized retention is conversion",
         "Likely trespass to chattels rather than conversion — conversion requires permanent or very long term dispossession or substantial destruction such as would warrant payment of full value",
@@ -2518,7 +2553,7 @@
       "id": "m-t-conv-1",
       "type": "mcq",
       "concept": "Conversion",
-      "scenario": "A defendant takes the plaintiff's car and sells it to an unknown buyer who cannot be traced. Trespass to chattels or conversion?",
+      "scenario": "A defendant takes the plaintiff's car and sells it to an unknown buyer who cannot be traced. Does π's claim lie in trespass to chattels or in conversion?",
       "options": [
         "Trespass to chattels — he did not destroy the car",
         "Conversion — permanent dispossession warranting payment of the full value",
@@ -2533,7 +2568,7 @@
       "id": "m-t-conv-2",
       "type": "mcq",
       "concept": "Conversion",
-      "scenario": "A warehouse in complete good faith delivers the plaintiff's goods to the wrong claimant, who consumes them. The warehouse pleads its good faith. Result under § 222A?",
+      "scenario": "A warehouse in complete good faith delivers the plaintiff's goods to the wrong claimant, who consumes them. The warehouse pleads its good faith. What result under § 222A?",
       "options": [
         "Complete defense — good faith negates the intent element",
         "Not a defense, though it is one of the six factors bearing on the seriousness of the interference; the goods are gone, so the other factors point to conversion",
@@ -2563,7 +2598,7 @@
       "id": "m-t-conv-4",
       "type": "mcq",
       "concept": "Conversion",
-      "scenario": "A defendant intentionally destroys the plaintiff's laptop with a hammer. Which route to conversion applies, and what is the remedy?",
+      "scenario": "A defendant intentionally destroys the plaintiff's laptop with a hammer. Which route to conversion applies, and what is the measure of recovery?",
       "options": [
         "Long term dispossession; fair rental value",
         "Substantial destruction; payment of the full value of the chattel, plus incidental losses",
@@ -2578,7 +2613,7 @@
       "id": "m-t-conv-5",
       "type": "mcq",
       "concept": "Conversion",
-      "scenario": "Two defendants each keep the plaintiff's identical tools for a month. One returns them; the other cannot because they were stolen from his shed. Same tort for both?",
+      "scenario": "Two defendants each keep the plaintiff's identical tools for a month. One returns them; the other cannot because they were stolen from his shed. Do both Δs commit the same tort?",
       "options": [
         "Yes — both interfered for the same duration",
         "No — duration is only one § 222A factor; the resulting interference differs, and only the second produced a loss warranting payment of full value",
@@ -2593,7 +2628,7 @@
       "id": "m-t-ad-1",
       "type": "mcq",
       "concept": "Affirmative defenses — principles",
-      "scenario": "A jury finds the plaintiff proved every element of battery AND that the defendant proved consent. Result?",
+      "scenario": "A jury finds the plaintiff proved every element of battery AND that the defendant proved consent. What result?",
       "options": [
         "Plaintiff wins — the prima facie case was established",
         "Defendant wins — if both are established, the affirmative defense defeats the plaintiff's prima facie case",
@@ -2608,7 +2643,7 @@
       "id": "m-t-ad-2",
       "type": "mcq",
       "concept": "Affirmative defenses — principles",
-      "scenario": "A defendant never pleads self-defense but raises it for the first time in closing argument. Problem?",
+      "scenario": "A defendant never pleads self-defense but raises it for the first time in closing argument. Is there a defect in Δ's position?",
       "options": [
         "None — evidence at trial is what matters",
         "Yes — affirmative defenses must be pleaded and proved by the defendant under FRCP 8 and similar state rules",
@@ -2623,7 +2658,7 @@
       "id": "m-t-cons-1",
       "type": "mcq",
       "concept": "Consent",
-      "scenario": "A surgeon has consent to operate on the right ear. Under anesthesia he discovers the left ear is worse, operates on it in good faith, and the result is excellent. Defense of consent?",
+      "scenario": "A surgeon has consent to operate on the right ear. Under anesthesia he discovers the left ear is worse, operates on it in good faith, and the result is excellent. Does the affirmative defense of consent attach?",
       "options": [
         "Yes — the good result cures any defect in consent",
         "No — the scope of consent may not be exceeded, and the good faith of the defendant and a good result will not be a basis to imply consent [Mohr]",
@@ -2638,7 +2673,7 @@
       "id": "m-t-cons-2",
       "type": "mcq",
       "concept": "Consent",
-      "scenario": "A football player is struck in the back of the head well after the whistle, a blow no rule permits. He sues. The defender pleads consent to the violence of the sport. Result?",
+      "scenario": "A football player is struck in the back of the head well after the whistle, a blow no rule permits. He sues. The defender pleads consent to the violence of the sport. What result?",
       "options": [
         "Consent bars the claim — football is a violent sport",
         "Consent is limited to contact within the customs of the sport or activity, which may go beyond the rules of the game but does not reach a deliberate strike after play has ended [Hackbart]",
@@ -2653,7 +2688,7 @@
       "id": "m-t-cons-3",
       "type": "mcq",
       "concept": "Consent",
-      "scenario": "An immigrant in a vaccination line holds up her arm to the doctor without a word, having watched others do the same. She later sues for battery. Which form of consent?",
+      "scenario": "An immigrant in a vaccination line holds up her arm to the doctor without a word, having watched others do the same. She later sues for battery. Which form of consent is presented?",
       "options": [
         "Express, because she moved deliberately",
         "Apparent — a gesture or behavior indicating consent as it would be understood by a reasonable person under all the circumstances, including in some cases silence [O'Brien]",
@@ -2668,7 +2703,7 @@
       "id": "m-t-cons-4",
       "type": "mcq",
       "concept": "Consent",
-      "scenario": "A man conceals a communicable disease he has a duty to disclose and obtains his partner's agreement to contact. Effect on consent?",
+      "scenario": "A man conceals a communicable disease he has a duty to disclose and obtains his partner's agreement to contact. What is the legal effect on the consent given?",
       "options": [
         "Valid — she agreed to the contact that occurred",
         "Invalid — consent obtained by deceit, misrepresentation, or silence concerning a matter as to which there is a duty to disclose is vitiated by the failure to disclose information material to the consent",
@@ -2683,7 +2718,7 @@
       "id": "m-t-cons-5",
       "type": "mcq",
       "concept": "Consent",
-      "scenario": "Paramedics treat an unconscious accident victim who would die without immediate care. Nothing suggests he would refuse. Which conditions must be met for treatment without consent?",
+      "scenario": "Paramedics treat an unconscious accident victim who would die without immediate care. Nothing suggests he would refuse. What conditions must be satisfied before a provider may treat without consent?",
       "options": [
         "None — emergencies suspend all consent requirements",
         "The patient is unable to consent; delay imposes a risk of serious harm; a reasonable person would consent; and the provider has no reason to believe this patient would refuse",
@@ -2698,7 +2733,7 @@
       "id": "m-t-sd-1",
       "type": "mcq",
       "concept": "Self-defense",
-      "scenario": "A man knocks his attacker to the ground, ending the threat. He then kicks the attacker twice more while he lies there. Privilege?",
+      "scenario": "A man knocks his attacker to the ground, ending the threat. He then kicks the attacker twice more while he lies there. Does the privilege attach to Δ's conduct?",
       "options": [
         "Yes — he was originally attacked",
         "No as to the kicks — there is no privilege to retaliate, and only such force as is necessary in the circumstances is privileged",
@@ -2713,7 +2748,7 @@
       "id": "m-t-sd-2",
       "type": "mcq",
       "concept": "Self-defense",
-      "scenario": "A man reasonably but wrongly believes an approaching stranger is about to attack him, and shoves him away. The stranger was reaching to hand him a dropped wallet. Privilege?",
+      "scenario": "A man reasonably but wrongly believes an approaching stranger is about to attack him, and shoves him away. The stranger was reaching to hand him a dropped wallet. Does the privilege attach to Δ's conduct?",
       "options": [
         "No — he was mistaken about the threat",
         "Yes — the privilege is present when the defendant reasonably believes the use of force in self-defense is necessary, even if he is mistaken",
@@ -2728,7 +2763,7 @@
       "id": "m-t-sd-3",
       "type": "mcq",
       "concept": "Self-defense",
-      "scenario": "A man is subjected to an extraordinary stream of racial and personal abuse. He punches the speaker. Privilege of self-defense?",
+      "scenario": "A man is subjected to an extraordinary stream of racial and personal abuse. He punches the speaker. Does the privilege of self-defense attach to Δ's conduct?",
       "options": [
         "Yes — the abuse was outrageous",
         "No — insults, no matter how vile, do not create a privilege to use force; that is not self-defense at common law",
@@ -2743,7 +2778,7 @@
       "id": "m-t-sd-4",
       "type": "mcq",
       "concept": "Self-defense",
-      "scenario": "A woman is threatened in her own kitchen by an intruder. She could safely leave through the back door but stands her ground and uses force. Privilege?",
+      "scenario": "A woman is threatened in her own kitchen by an intruder. She could safely leave through the back door but stands her ground and uses force. Does the privilege attach to Δ's conduct?",
       "options": [
         "No — she was required to retreat because escape was safe",
         "Yes — retreat is not required in one's home",
@@ -2758,7 +2793,7 @@
       "id": "m-t-sd-5",
       "type": "mcq",
       "concept": "Self-defense",
-      "scenario": "A man sees another draw back a fist. Before the blow lands he strikes first. The other argues no battery had yet occurred. Result?",
+      "scenario": "A man sees another draw back a fist. Before the blow lands he strikes first. The other argues no battery had yet occurred. What result?",
       "options": [
         "No privilege — self-defense requires an actual battery first",
         "Privilege available — there is no need to wait for an actual battery to occur before acting in self-defense",
@@ -2773,7 +2808,7 @@
       "id": "m-t-do-1",
       "type": "mcq",
       "concept": "Defense of others",
-      "scenario": "A bystander sees a man being beaten and intervenes with force. It turns out the man being beaten had started the fight and was the aggressor. Result?",
+      "scenario": "A bystander sees a man being beaten and intervenes with force. It turns out the man being beaten had started the fight and was the aggressor. What result?",
       "options": [
         "Privileged in every jurisdiction — he acted reasonably",
         "Uncertain — the privilege is derivative of the other's privilege, and on mistake the courts are divided",
@@ -2788,7 +2823,7 @@
       "id": "m-t-do-2",
       "type": "mcq",
       "concept": "Defense of others",
-      "scenario": "An intervenor uses far more force than the person he is defending could lawfully have used. Result?",
+      "scenario": "An intervenor uses far more force than the person he is defending could lawfully have used. What result?",
       "options": [
         "Privileged — intervenors get latitude",
         "Not privileged as to the excess — the intervenor's conduct is governed by all the same rules that govern the victim's in self-defense",
@@ -2803,7 +2838,7 @@
       "id": "m-t-dp-1",
       "type": "mcq",
       "concept": "Defense of property",
-      "scenario": "An owner rigs a spring gun in a boarded-up farmhouse to stop trespassers. It shoots a trespasser in the leg. Privilege?",
+      "scenario": "An owner rigs a spring gun in a boarded-up farmhouse to stop trespassers. It shoots a trespasser in the leg. Does the privilege attach to Δ's conduct?",
       "options": [
         "Yes — he was defending his property from an unlawful intrusion",
         "No — deadly force may not be used to protect property, and one may not use a mechanical device to do what one could not do oneself [Katko]",
@@ -2818,7 +2853,7 @@
       "id": "m-t-dp-2",
       "type": "mcq",
       "concept": "Defense of property",
-      "scenario": "A homeowner shoves a meter reader off the porch, telling him to stay off the property. The meter reader had a legal right of entry. Privilege?",
+      "scenario": "A homeowner shoves a meter reader off the porch, telling him to stay off the property. The meter reader had a legal right of entry. Does the privilege attach to Δ's conduct?",
       "options": [
         "Yes — it is his property",
         "No — there is no privilege to use force if the intrusion onto the property is lawful",
@@ -2848,7 +2883,7 @@
       "id": "m-t-dp-4",
       "type": "mcq",
       "concept": "Defense of property",
-      "scenario": "An owner keeps a dog trained to attack anyone entering the yard. It mauls a trespasser. Analysis under Katko?",
+      "scenario": "An owner keeps a dog trained to attack anyone entering the yard. It mauls a trespasser. What result under Katko?",
       "options": [
         "Privileged — a dog is not a mechanical device",
         "Not privileged — one may not use a mechanical device OR a dog to do what one could not do oneself",
@@ -2863,7 +2898,7 @@
       "id": "m-t-dp-5",
       "type": "mcq",
       "concept": "Defense of property",
-      "scenario": "A shopkeeper sees a customer walking out with an unpaid item and blocks the door with his body, using no more force than needed. Privilege?",
+      "scenario": "A shopkeeper sees a customer walking out with an unpaid item and blocks the door with his body, using no more force than needed. Does the privilege attach to Δ's conduct?",
       "options": [
         "No — any force to protect property is barred",
         "Yes — one may use reasonable, non-deadly force to prevent the commission of a tort against one's property",
@@ -2878,7 +2913,7 @@
       "id": "m-t-rec-1",
       "type": "mcq",
       "concept": "Recovery of property",
-      "scenario": "A man sees his stolen bicycle chained outside a cafe. He waits, and when the taker emerges he demands it back. The taker refuses and mounts the bike. May he use non-deadly force?",
+      "scenario": "A man sees his stolen bicycle chained outside a cafe. He waits, and when the taker emerges he demands it back. The taker refuses and mounts the bike. Does the privilege to recapture the chattel attach?",
       "options": [
         "No — self-help is never permitted",
         "Yes — the rightful possessor may use non-deadly force to recapture after a demand for return is ignored, if he reasonably believes it can be recovered only by such force",
@@ -2893,7 +2928,7 @@
       "id": "m-t-rec-2",
       "type": "mcq",
       "concept": "Recovery of property",
-      "scenario": "A thief is running away with a woman's laptop. She does not shout a demand — there is plainly no point — and tackles him. Privilege?",
+      "scenario": "A thief is running away with a woman's laptop. She does not shout a demand — there is plainly no point — and tackles him. Does the privilege attach to Δ's conduct?",
       "options": [
         "No — she skipped the required demand",
         "Yes — a demand is excused if the rightful possessor reasonably believes such demand would be useless, or that substantial harm could be done to the chattel before demand can be made",
@@ -2908,7 +2943,7 @@
       "id": "m-t-shop-1",
       "type": "mcq",
       "concept": "Shopkeeper's privilege",
-      "scenario": "A store manager, on reasonable suspicion of shoplifting, detains a customer in an office for six hours without contacting anyone. Privilege?",
+      "scenario": "A store manager, on reasonable suspicion of shoplifting, detains a customer in an office for six hours without contacting anyone. Does the privilege attach to Δ's conduct?",
       "options": [
         "Yes — reasonable suspicion existed",
         "No as to the duration — detention is privileged only for a reasonable amount of time to investigate",
@@ -2923,7 +2958,7 @@
       "id": "m-t-shop-2",
       "type": "mcq",
       "concept": "Shopkeeper's privilege",
-      "scenario": "A merchant, suspecting theft, follows a customer four blocks down the street and detains her there. Privilege?",
+      "scenario": "A merchant, suspecting theft, follows a customer four blocks down the street and detains her there. Does the privilege attach to Δ's conduct?",
       "options": [
         "Yes — pursuit is permitted so long as suspicion is reasonable",
         "No — the privilege as stated permits detention on the premises",
@@ -2953,7 +2988,7 @@
       "id": "m-t-nec-1",
       "type": "mcq",
       "concept": "Necessity",
-      "scenario": "A city official orders houses demolished to create a firebreak, saving the rest of the town. An owner sues. At common law?",
+      "scenario": "A city official orders houses demolished to create a firebreak, saving the rest of the town. An owner sues. What result at common law?",
       "options": [
         "Recovery of the full value of the house",
         "No compensation required at common law under public necessity, though many states now provide for it by statute",
@@ -2968,7 +3003,7 @@
       "id": "m-t-nec-2",
       "type": "mcq",
       "concept": "Necessity",
-      "scenario": "A ship captain moors to a private dock during a violent storm to save the ship and crew. The ship damages the dock. Liability?",
+      "scenario": "A ship captain moors to a private dock during a violent storm to save the ship and crew. The ship damages the dock. Is Δ subject to liability, and to what extent?",
       "options": [
         "None — necessity is a complete defense",
         "The user must pay the value of the damage to the dock, but no punitive damages — private necessity is an incomplete defense",
@@ -2983,22 +3018,22 @@
       "id": "m-t-nec-3",
       "type": "mcq",
       "concept": "Necessity",
-      "scenario": "During that same storm, the dock owner unties the ship's lines and casts it off. The ship is wrecked. Liability?",
+      "scenario": "During that same storm, the dock owner unties the ship's lines and casts it off. The ship is wrecked. Is Δ subject to liability, and to what extent?",
       "options": [
         "None — it was his dock and he may exclude anyone",
-        "The owner is liable — if the owner forces the user to desist and harm results to the user or the user's property, the owner is liable",
+        "The owner is subject to liability — if the owner forces the user to desist and harm results to the user or the user's property, the owner is subject to liability",
         "None, unless he acted maliciously",
-        "The owner is liable only for the value of the mooring"
+        "The owner is subject to liability only for the value of the mooring"
       ],
       "correct": 1,
-      "explanation": "Because no legal wrong is committed by the privileged user, the owner may not compel him to desist; and if the owner does force him to desist and harm results to the user or the user's property, the owner is liable.",
+      "explanation": "Because no legal wrong is committed by the privileged user, the owner may not compel him to desist; and if the owner does force him to desist and harm results to the user or the user's property, the owner is subject to liability.",
       "why": "This is the flip side of Lake Erie Transport, and the reason the privilege is meaningful."
     },
     {
       "id": "m-t-nec-4",
       "type": "mcq",
       "concept": "Necessity",
-      "scenario": "Health officials confine residents of a building during an outbreak. The residents sue for false imprisonment. Best defense?",
+      "scenario": "Health officials confine residents of a building during an outbreak. The residents sue for false imprisonment. On what affirmative defense should Δ rely?",
       "options": [
         "Consent, since they live there",
         "Public necessity — the principle includes quarantine and other physical restraints that would otherwise be false imprisonment or battery",
@@ -3013,7 +3048,7 @@
       "id": "m-t-nec-5",
       "type": "mcq",
       "concept": "Necessity",
-      "scenario": "A firefighter destroys a shed that is not yet burning, reasonably believing it will spread flames to a school. It turns out the shed was fireproof and posed no risk. Defense?",
+      "scenario": "A firefighter destroys a shed that is not yet burning, reasonably believing it will spread flames to a school. It turns out the shed was fireproof and posed no risk. What affirmative defense, if any, is available to Δ?",
       "options": [
         "No — the destruction was in fact unnecessary",
         "Yes — property may be destroyed when necessary, OR APPARENTLY NECESSARY, to prevent great harm to the community",
@@ -3028,7 +3063,7 @@
       "id": "m-t-auth-1",
       "type": "mcq",
       "concept": "Justification",
-      "scenario": "A defendant's conduct fits no named privilege, but the circumstances were extraordinary and his response was measured. Any defense available?",
+      "scenario": "A defendant's conduct fits no named privilege, but the circumstances were extraordinary and his response was measured. Is any affirmative defense available to Δ?",
       "options": [
         "No — the privileges are a closed list",
         "Possibly justification — a catch-all under Rest. 2d § 10 recognizing that a privilege may arise in circumstances unanticipated before [Sindle]",
@@ -3088,7 +3123,7 @@
       "id": "m-t-rpp-2",
       "type": "mcq",
       "concept": "Reasonable person",
-      "scenario": "A blind pedestrian, walking without noticing a hazard visible only to sighted people, injures another. Standard?",
+      "scenario": "A blind pedestrian, walking without noticing a hazard visible only to sighted people, injures another. What standard of care governs Δ's conduct?",
       "options": [
         "The ordinary reasonable sighted person",
         "The duty of a reasonable blind person to others — physical limitations are accounted for",
@@ -3103,7 +3138,7 @@
       "id": "m-t-rpp-3",
       "type": "mcq",
       "concept": "Reasonable person",
-      "scenario": "An experienced pharmacologist, acting in an ordinary personal capacity, recognizes a drug interaction that a layperson would miss, and says nothing. Standard?",
+      "scenario": "An experienced pharmacologist, acting in an ordinary personal capacity, recognizes a drug interaction that a layperson would miss, and says nothing. What standard of care governs Δ's conduct?",
       "options": [
         "The ordinary reasonable person, who would not have known",
         "He must use his superior knowledge",
@@ -3118,7 +3153,7 @@
       "id": "m-t-child-1",
       "type": "mcq",
       "concept": "Children as defendants",
-      "scenario": "A twelve-year-old shoots a friend while handling a rifle carelessly. Standard of care?",
+      "scenario": "A twelve-year-old shoots a friend while handling a rifle carelessly. What standard of care governs Δ's conduct?",
       "options": [
         "That of a child of like age, education, intelligence and experience",
         "The adult standard — a gun is always the adult standard",
@@ -3133,7 +3168,7 @@
       "id": "m-t-child-2",
       "type": "mcq",
       "concept": "Children as defendants",
-      "scenario": "A child defendant argues the standard should account for his own unusual immaturity relative to other children his age. Result?",
+      "scenario": "A child defendant argues the standard should account for his own unusual immaturity relative to other children his age. What result?",
       "options": [
         "Accepted — the standard is subjective as to children",
         "Rejected — the standard is objective: based on children with characteristics similar to those of this child, but not on this particular child",
@@ -3148,7 +3183,7 @@
       "id": "m-t-child-3",
       "type": "mcq",
       "concept": "Children as defendants",
-      "scenario": "A ten-year-old riding a bicycle collides with a pedestrian. Adult standard or child standard?",
+      "scenario": "A ten-year-old riding a bicycle collides with a pedestrian. What standard of care governs Δ's conduct?",
       "options": [
         "Adult — bicycles are vehicles",
         "Child standard — bicycles fall on the side of activities not generally reserved for adults, unlike a tractor, snowmobile, or gun",
@@ -3163,7 +3198,7 @@
       "id": "m-t-src-1",
       "type": "mcq",
       "concept": "Sources of duty",
-      "scenario": "A defendant proves he complied with every custom of his industry. Effect?",
+      "scenario": "A defendant proves he complied with every custom of his industry. What is the legal effect of that showing?",
       "options": [
         "Complete defense — compliance with custom establishes due care",
         "Important evidence that courts ordinarily follow, but it does not bind the court or jury and may be challenged on Hand Formula considerations [Helling v. Carey]",
@@ -3210,7 +3245,7 @@
       "id": "m-t-nps-1",
       "type": "mcq",
       "concept": "Negligence per se",
-      "scenario": "A statute requires fencing around livestock to prevent animals wandering onto highways. A farmer's unfenced sheep contract a disease from a neighbor's herd. Negligence per se?",
+      "scenario": "A statute requires fencing around livestock to prevent animals wandering onto highways. A farmer's unfenced sheep contract a disease from a neighbor's herd. Does negligence per se apply?",
       "options": [
         "Yes — the statute was violated and harm followed",
         "No — the statute must protect against injury of the type suffered; disease is not the highway-collision harm the statute targets",
@@ -3285,7 +3320,7 @@
       "id": "m-t-prof-1",
       "type": "mcq",
       "concept": "Professional standard",
-      "scenario": "A rural physician argues he should be judged against the practices of other physicians in his small town. Result?",
+      "scenario": "A rural physician argues he should be judged against the practices of other physicians in his small town. What result?",
       "options": [
         "Correct — the locality rule governs",
         "Incorrect — for physicians the standard of care is national; the old locality rule is out",
@@ -3300,12 +3335,12 @@
       "id": "m-t-prof-2",
       "type": "mcq",
       "concept": "Professional standard",
-      "scenario": "A surgeon performs a procedure flawlessly within the standard of care, but never warned of a known 2% risk of nerve damage that materializes. Theory and framing?",
+      "scenario": "A surgeon performs a procedure flawlessly within the standard of care, but never warned of a known 2% risk of nerve damage that materializes. On what theory does π's claim proceed?",
       "options": [
         "Battery, since the patient did not consent to nerve damage",
         "Negligence — informed consent is part of the physician's duty and standard of care, and failure to inform is handled as negligence, not battery",
         "Strict liability",
-        "No claim — the treatment met the standard of care"
+        "π cannot establish a prima facie case — the treatment met the standard of care"
       ],
       "correct": 1,
       "explanation": "Informed consent is part of the physician's duty and standard of care, and the outline is explicit that failure to inform is handled as negligence, not battery, in Franklin and generally in the US. It is precisely the theory used when treatment was properly performed but an adverse outcome followed.",
@@ -3330,7 +3365,7 @@
       "id": "m-t-prof-4",
       "type": "mcq",
       "concept": "Professional standard",
-      "scenario": "A plaintiff sues an electrician for negligence and offers no expert testimony on the trade's standards. Problem?",
+      "scenario": "A plaintiff sues an electrician for negligence and offers no expert testimony on the trade's standards. Is there a defect in Δ's position?",
       "options": [
         "None — juries apply common sense to all cases",
         "Yes — for a professional or person with special skill, expert testimony is generally necessary",
@@ -3360,7 +3395,7 @@
       "id": "m-t-oth-1",
       "type": "mcq",
       "concept": "Duty from foreseeable negligence",
-      "scenario": "A driver has a seizure, crashes through an unbarricaded roadside work zone, and injures a worker. The contractor argues the driver's conduct was the cause. Duty analysis?",
+      "scenario": "A driver has a seizure, crashes through an unbarricaded roadside work zone, and injures a worker. The contractor argues the driver's conduct was the cause. Did Δ owe π a duty on these facts?",
       "options": [
         "No duty — the driver's negligence was an intervening cause",
         "Duty exists — the foreseeable negligence of one tortfeasor can become the basis of a duty imposed on another; negligent driving is foreseeable at a roadside site [Derdiarian]",
@@ -3375,7 +3410,7 @@
       "id": "m-t-oth-2",
       "type": "mcq",
       "concept": "Duty from foreseeable negligence",
-      "scenario": "A tenant is assaulted in a building where assaults have occurred repeatedly and the locks are broken. Landlord's duty?",
+      "scenario": "A tenant is assaulted in a building where assaults have occurred repeatedly and the locks are broken. Did the landlord owe π a duty on these facts?",
       "options": [
         "None — the criminal, not the landlord, caused the harm",
         "A duty to provide security sufficient for the risk, such as locks and cameras, based on the foreseeability of intentional torts and crimes in that place",
@@ -3435,7 +3470,7 @@
       "id": "m-t-hand-3",
       "type": "mcq",
       "concept": "Learned Hand's formula",
-      "scenario": "Whose costs count on the avoidance side?",
+      "scenario": " Whose costs are weighed on the avoidance side?",
       "options": [
         "Only this defendant's out-of-pocket cost",
         "The cost to this defendant, the cost to others similarly situated, and the social costs, if any, of imposing the duty",
@@ -3450,7 +3485,7 @@
       "id": "m-t-hand-4",
       "type": "mcq",
       "concept": "Learned Hand's formula",
-      "scenario": "A plaintiff shows real risk and a precisely quantified, moderate cost of avoidance. Must a duty be imposed?",
+      "scenario": "A plaintiff shows real risk and a precisely quantified, moderate cost of avoidance. Must the court impose a duty?",
       "options": [
         "Yes — if cost is less than risk, duty follows arithmetically",
         "Not necessarily — the comparison is not arithmetic but social policy, requiring comparison of incommensurables, and even with measurable risk and cost there might still be no duty",
@@ -3475,6 +3510,132 @@
       "correct": 1,
       "explanation": "The stated rationale is that it is both inefficient and unfair to impose on defendants a cost of avoidance too high for the risk involved. Both halves matter — efficiency and fairness.",
       "why": "Fairness is doing independent work here alongside efficiency."
+    },
+    {
+      "id": "x-craft-issue",
+      "type": "mcq",
+      "concept": "Exam craft — framing the issue",
+      "scenario": "You are opening the IIED section of an answer. Which issue statement is in the correct form?",
+      "options": [
+        "Whether Δ's constant provocations and actions on the day in question caused π's harm and exacerbated his mental illness, thus providing a claim for IIED against him.",
+        "Whether π can establish a prima facie case against Δ for intentional infliction of emotional distress.",
+        "Whether Δ was so outrageous that he should have to pay π damages.",
+        "Whether the facts of this case add up to IIED."
+      ],
+      "correct": 1,
+      "explanation": "The issue asks whether the party can ESTABLISH A PRIMA FACIE CASE for a named cause of action against a named party. It does not recite the facts, and it does not preview the answer. Note also the verb: a claim is established, not 'provided.'",
+      "why": "Keep the issue at the level of the legal question; the facts belong in the application, and the answer belongs in the conclusion."
+    },
+    {
+      "id": "x-craft-affdef",
+      "type": "mcq",
+      "concept": "Exam craft — where defenses go",
+      "scenario": "On a trespass to land count, Δ argues π's taunt was consent. Where does that argument belong in the answer?",
+      "options": [
+        "In the issue statement: 'Whether the provocation constituted consent for Δ to enter π's property.'",
+        "As an affirmative defense, raised after π's prima facie case is established — consent is pleaded and proved by Δ",
+        "In the rule statement for trespass to land",
+        "It does not belong anywhere, since consent is never a defense to trespass"
+      ],
+      "correct": 1,
+      "explanation": "Consent is an affirmative defense, pleaded and proved by Δ. Framing the issue around the defense skips π's prima facie case and inverts the burden. Establish the prima facie case first, then take up the defense.",
+      "why": "An issue framed around Δ's defense is a structural error, not a wording one."
+    },
+    {
+      "id": "x-craft-transition",
+      "type": "mcq",
+      "concept": "Exam craft — opening the application",
+      "scenario": "Which transition opens an application section in the legal idiom?",
+      "options": [
+        "When looking towards the facts, we can conclude that",
+        "On these facts,",
+        "This issue is pretty cut and dry, so",
+        "I think that based on everything above,"
+      ],
+      "correct": 1,
+      "explanation": "'On these facts' — or 'in the instant case' or 'here' — moves straight into analysis. The others are throat-clearing. Option (c) carries a further defect: characterizing an issue as obvious substitutes a verdict for the reasoning that is supposed to earn it. (The idiom is also 'cut and dried,' but the phrase has no place in a legal answer either way.)",
+      "why": "Never tell the reader how easy the question is; show the work and let the conclusion follow."
+    },
+    {
+      "id": "x-craft-element",
+      "type": "mcq",
+      "concept": "Exam craft — element by element",
+      "scenario": "An answer concludes: 'Δ fit every element for a claim of IIED to be brought against him.' What is the defect?",
+      "options": [
+        "Nothing — it states the conclusion efficiently",
+        "It asserts the conclusion without taking the elements one at a time and linking the governing rule directly to the facts that satisfy each",
+        "It should have said 'fits' rather than 'fit'",
+        "IIED has no elements, only factors"
+      ],
+      "correct": 1,
+      "explanation": "A conclusory sweep across the elements leaves the reader asking which element, and how. Work through them in order — volitional act, intentional or reckless, extreme and outrageous, causation, severe emotional distress — attaching the specific facts that satisfy each.",
+      "why": "The recurring margin note on unlinked analysis is 'so what?' — state the legal consequence of each fact you invoke."
+    },
+    {
+      "id": "x-craft-confined",
+      "type": "mcq",
+      "concept": "Exam craft — stating the FI rule",
+      "scenario": "Which statement of the false imprisonment rule is correctly phrased?",
+      "options": [
+        "…confined to a bounded area which causes harm or awareness and has no means of reasonable escape",
+        "…and which causes π to be restricted or confined to a bounded area, with harm or awareness",
+        "…locked in a place he could not get out of, causing him distress",
+        "…restrained against his will for an unreasonable period"
+      ],
+      "correct": 1,
+      "explanation": "Absence of a reasonable means of escape is not a separate element bolted onto the end — it is part of what 'confined' means. Stating it twice signals the rule was assembled rather than known.",
+      "why": "Redundant elements read as padding; the defined term already carries the concept."
+    },
+    {
+      "id": "x-craft-onto",
+      "type": "cloze",
+      "concept": "Exam craft — trespass phrasing",
+      "text": "Trespass to land requires an intrusion {{onto}} real property by a person or tangible substance. In the application, use the past tense: Δ {{entered}} π's property.",
+      "why": "Small preposition and tense errors accumulate; the professor marks them because they read as imprecision."
+    },
+    {
+      "id": "x-craft-verbs",
+      "type": "flash",
+      "concept": "Exam craft — the working verbs",
+      "prompt": "Give the legal idiom for each: (1) bringing a claim successfully; (2) what a defendant does with a defense; (3) what a defendant is when the elements are met; (4) how you introduce your facts.",
+      "answer": [
+        "(1) π ESTABLISHES a prima facie case — not 'provides' or 'has' one.",
+        "(2) Δ PLEADS AND PROVES an affirmative defense; the privilege ATTACHES or it does not.",
+        "(3) Δ IS SUBJECT TO LIABILITY — not 'is guilty,' which is criminal.",
+        "(4) ON THESE FACTS, or IN THE INSTANT CASE, or simply HERE."
+      ],
+      "fallback": "π {{establishes}} a prima facie case; Δ {{pleads}} and proves an affirmative defense; Δ is subject to {{liability}}; introduce facts with 'on these {{facts}}.'",
+      "why": "Using the right verb signals you know which party carries which burden."
+    },
+    {
+      "id": "x-craft-hedge",
+      "type": "mcq",
+      "concept": "Exam craft — hedging and overclaiming",
+      "scenario": "An answer states: 'This issue is pretty cut and dry. π clearly has a case and Δ has no valid defense worth pursuing.' Two sentences later: 'The only possible argument Δ could have is that his actions did not cause the symptoms. However, we do not have the facts to show that.' What is the defect?",
+      "options": [
+        "Nothing — it acknowledges the counterargument and disposes of it",
+        "Two defects: it characterizes the issue as obvious rather than analyzing it, and it raises an argument it concedes cannot be made on these facts",
+        "It should have cited a case",
+        "It is too short"
+      ],
+      "correct": 1,
+      "explanation": "Subjective characterizations — 'cut and dry,' 'clearly,' 'no valid defense worth pursuing,' 'there was no question' — assert conclusions the analysis is supposed to establish. Strike them and the reasoning has to stand on its own. Separately, floating an argument you concede the record will not support spends words without advancing anything: if the facts support a causation argument, make it and explain why it fails; if they do not, leave it out.",
+      "why": "Conclusory adverbs are the tell that analysis is missing underneath."
+    },
+    {
+      "id": "x-craft-subjective",
+      "type": "mcq",
+      "concept": "Exam craft — conclusory language",
+      "scenario": "Which sentence does analytical work rather than merely asserting a conclusion?",
+      "options": [
+        "Δ clearly committed trespass to land twice, and π obviously has no defense worth pursuing.",
+        "Δ entered π's land on two occasions — once to lock the shed and once to unlock it — and each entry interfered with π's right to exclusive possession.",
+        "There was no question this was a purposeful act.",
+        "This issue is pretty cut and dried."
+      ],
+      "correct": 1,
+      "explanation": "Words like 'clearly,' 'obviously,' 'no question,' and 'cut and dried' announce a result without supplying the reasoning. The correct option names the conduct, ties it to the element it satisfies, and states the legal consequence — leaving the reader to draw the obvious conclusion rather than being told it is obvious.",
+      "why": "If a sentence still works with the adverb deleted, the adverb was doing nothing; if it collapses, the analysis was missing."
     }
   ]
 }
