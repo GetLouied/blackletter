@@ -14,6 +14,11 @@
       "key": "civpro",
       "name": "Civil Procedure",
       "file": "./data/civpro.json"
+    },
+    {
+      "key": "craft",
+      "name": "Exam Craft",
+      "file": "./data/craft.json"
     }
   ]
 }

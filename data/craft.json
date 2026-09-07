@@ -1,0 +1,452 @@
+{
+  "key": "craft",
+  "name": "Exam Craft",
+  "attack": {
+    "title": "Exam craft — attack outline",
+    "sections": [
+      {
+        "h": "1. Structure",
+        "items": [
+          "ISSUE: whether π can establish a prima facie case against Δ for [cause of action]. In contracts: whether a contract was formed between A and B, or whether A's promise is enforceable against B. In civil procedure: whether the district court may exercise diversity jurisdiction over this action.",
+          "Do not recite the facts in the issue, do not preview the answer, and do not frame the issue around Δ's affirmative defense — defenses are pleaded and proved by Δ after the prima facie case is established.",
+          "RULE: state the governing standard completely. A truncated rule cannot be applied.",
+          "APPLICATION: open with 'on these facts,' 'in the instant case,' or 'here.' Take the elements one at a time. For each, name the conduct, tie it to the element, and state the legal consequence.",
+          "CONCLUSION: answer the question posed in the issue — nothing more."
+        ]
+      },
+      {
+        "h": "2. The working verbs",
+        "items": [
+          "π ESTABLISHES a prima facie case — not 'provides' or 'has' one.",
+          "Δ PLEADS AND PROVES an affirmative defense; a privilege ATTACHES or it does not.",
+          "In tort, Δ IS SUBJECT TO LIABILITY. 'Guilty' is criminal.",
+          "In contract, a promise is ENFORCEABLE or UNENFORCEABLE and is SUPPORTED BY consideration; a contract is FORMED; an offeree holds a POWER OF ACCEPTANCE that is TERMINATED.",
+          "In civil procedure, the COURT has or LACKS subject matter jurisdiction; diversity is COMPLETE or DESTROYED; a party is DEEMED a citizen; the court DISMISSES SUA SPONTE."
+        ]
+      },
+      {
+        "h": "3. What to strike",
+        "items": [
+          "Conclusory adverbs: clearly, obviously, there was no question, cut and dried, pretty much. They assert the conclusion the analysis is supposed to earn.",
+          "Throat-clearing: 'when looking towards the facts, we can conclude that.' Replace with 'on these facts.'",
+          "Sweeping element claims: 'Δ fit every element.' Which element, and how?",
+          "Abandoned counterarguments: raising an argument and conceding the record will not support it. Analyze it or omit it.",
+          "Subjective framing under an objective standard: 'Δ did not really mean to' concedes the wrong test.",
+          "Redundant elements: 'confined with no reasonable means of escape' — that is what confined means.",
+          "Test for an adverb: delete it. If the sentence stands, it was padding. If it collapses, the analysis was missing."
+        ]
+      }
+    ]
+  },
+  "blurts": [
+    {
+      "id": "b-x-verbs",
+      "topic": "Exam craft — the legal idiom",
+      "components": [
+        "Issue: whether π can establish a prima facie case against Δ for [tort]",
+        "A claim is ESTABLISHED, not 'provided'",
+        "Affirmative defenses come after the prima facie case, and Δ pleads and proves them",
+        "Open the application with 'on these facts' or 'in the instant case'",
+        "Take the elements one at a time; link the rule directly to the facts",
+        "Δ is SUBJECT TO LIABILITY, not 'guilty'",
+        "Intrusion ONTO real property; Δ ENTERED (past tense)",
+        "Do not bolt 'no reasonable means of escape' onto the FI rule — that is what confined means"
+      ],
+      "model": [
+        "Frame the issue as whether the party can establish a prima facie case against the other party for a named cause of action. Do not recite facts in the issue, and do not frame the issue around Δ's affirmative defense — consent and the other privileges are pleaded and proved by Δ after the prima facie case is established.",
+        "Open the application with 'on these facts,' 'in the instant case,' or simply 'here.' Take the elements one at a time and link the governing rule directly to the facts that satisfy each; a sweep across 'every element' invites the question which one, and how.",
+        "Use the working verbs: π establishes a prima facie case; Δ pleads and proves an affirmative defense; a privilege attaches; Δ is subject to liability. Avoid 'guilty,' which is criminal, and avoid declaring an issue 'cut and dried.'"
+      ]
+    },
+    {
+      "id": "b-x-conclusory",
+      "topic": "Exam craft — conclusory language",
+      "components": [
+        "Strike 'clearly,' 'obviously,' 'no question,' 'cut and dried,' 'pretty much'",
+        "These assert the conclusion the analysis is supposed to earn",
+        "Name the conduct, tie it to the element, state the legal consequence",
+        "Do not raise an argument you concede the facts will not support",
+        "Either analyze the counterargument or omit it"
+      ],
+      "model": [
+        "Subjective characterizations do no analytical work. 'Clearly,' 'obviously,' 'there was no question,' 'cut and dried' — each announces a result in place of the reasoning that should produce it. Delete them; if the sentence still stands, they were padding, and if it collapses, the analysis was never there.",
+        "Replace them with the move itself: name the conduct, tie it to the element it satisfies, and state the legal consequence.",
+        "The same discipline applies to counterarguments. Raising an argument and then conceding the record will not support it spends words without advancing the answer. Either the facts support it, in which case analyze it and explain why it fails, or they do not, in which case leave it out."
+      ]
+    },
+    {
+      "id": "b-x-contracts",
+      "topic": "Contracts — the vocabulary",
+      "components": [
+        "Offeror and offeree; promisor and promisee — name the roles, not 'the first guy'",
+        "The offeree holds a POWER OF ACCEPTANCE, which is terminated rather than 'used up'",
+        "A promise is ENFORCEABLE or UNENFORCEABLE; a contract is FORMED",
+        "A promise is SUPPORTED BY consideration",
+        "Parties manifest ASSENT; they do not 'agree in their heads'",
+        "An offer LAPSES, is REVOKED, or is REJECTED",
+        "Issue: whether a contract was formed between A and B, or whether A's promise is enforceable against B"
+      ],
+      "model": [
+        "Name the roles precisely: offeror and offeree for formation, promisor and promisee for enforcement questions. The offeree holds a power of acceptance, which is terminated by rejection, revocation, counteroffer, lapse of time, or death of the offeror.",
+        "A promise is enforceable or unenforceable; a contract is formed or it is not; a promise is supported by consideration, or it fails for want of consideration. Parties manifest assent — the objective theory is built into the vocabulary, so speaking of what a party 'really meant' concedes the wrong standard.",
+        "Frame the issue as whether a contract was formed between the parties, or whether a particular promise is enforceable against a particular party."
+      ]
+    },
+    {
+      "id": "b-x-civpro",
+      "topic": "Civil Procedure — the vocabulary",
+      "components": [
+        "The COURT has or lacks subject matter jurisdiction — not the case or the parties",
+        "A party INVOKES federal jurisdiction and bears the burden of establishing it",
+        "Diversity is COMPLETE, or it is DESTROYED",
+        "A party is DEEMED a citizen of a state for diversity purposes",
+        "The MATTER IN CONTROVERSY EXCEEDS $75,000, exclusive of interest and costs",
+        "The court DISMISSES for lack of subject matter jurisdiction, SUA SPONTE if necessary",
+        "Issue: whether the district court may exercise diversity jurisdiction over this action"
+      ],
+      "model": [
+        "Jurisdiction is a property of the court, not of the case or the parties: the court has or lacks subject matter jurisdiction. A party invokes federal jurisdiction and bears the burden of establishing it.",
+        "Diversity is complete, or it is destroyed by an overlapping citizenship. A corporation or representative is deemed a citizen of a state for diversity purposes. The matter in controversy must exceed $75,000, exclusive of interest and costs.",
+        "Where jurisdiction is absent the court dismisses for lack of subject matter jurisdiction, and must do so sua sponte if the parties do not raise it. Frame the issue as whether the district court may exercise diversity jurisdiction over the action."
+      ]
+    }
+  ],
+  "ladders": [
+    {
+      "id": "l-x-irac",
+      "concept": "The four parts of the analysis",
+      "prompt": "Name the four parts of a written legal analysis, in order.",
+      "slots": [
+        {
+          "label": "Issue — whether π can establish a prima facie case against Δ for [cause of action]",
+          "keywords": [
+            "issue"
+          ]
+        },
+        {
+          "label": "Rule — the governing standard, stated completely",
+          "keywords": [
+            "rule"
+          ]
+        },
+        {
+          "label": "Application — the rule linked directly to these facts, element by element",
+          "keywords": [
+            "application",
+            "analysis",
+            "apply"
+          ]
+        },
+        {
+          "label": "Conclusion — the answer to the question posed in the issue",
+          "keywords": [
+            "conclusion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-x-verbs",
+      "concept": "The working verbs",
+      "prompt": "Name the correct verb for each: what π does with a prima facie case; what Δ does with an affirmative defense; what a privilege does; what Δ is when the elements are met.",
+      "slots": [
+        {
+          "label": "π ESTABLISHES a prima facie case",
+          "keywords": [
+            "establish"
+          ]
+        },
+        {
+          "label": "Δ PLEADS AND PROVES an affirmative defense",
+          "keywords": [
+            "plead",
+            "prove"
+          ]
+        },
+        {
+          "label": "A privilege ATTACHES",
+          "keywords": [
+            "attach"
+          ]
+        },
+        {
+          "label": "Δ IS SUBJECT TO LIABILITY",
+          "keywords": [
+            "subject to liability",
+            "liable"
+          ]
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "x-gen-issue",
+      "type": "mcq",
+      "concept": "Exam craft — framing the issue",
+      "scenario": "You are opening the IIED section of an answer. Which issue statement is in the correct form?",
+      "options": [
+        "Whether Δ's constant provocations and actions on the day in question caused π's harm and exacerbated his mental illness, thus providing a claim for IIED against him.",
+        "Whether π can establish a prima facie case against Δ for intentional infliction of emotional distress.",
+        "Whether Δ was so outrageous that he should have to pay π damages.",
+        "Whether the facts of this case add up to IIED."
+      ],
+      "correct": 1,
+      "explanation": "The issue asks whether the party can ESTABLISH A PRIMA FACIE CASE for a named cause of action against a named party. It does not recite the facts, and it does not preview the answer. Note also the verb: a claim is established, not 'provided.'",
+      "why": "Keep the issue at the level of the legal question; the facts belong in the application, and the answer belongs in the conclusion."
+    },
+    {
+      "id": "x-gen-affdef",
+      "type": "mcq",
+      "concept": "Exam craft — where defenses go",
+      "scenario": "On a trespass to land count, Δ argues π's taunt was consent. Where does that argument belong in the answer?",
+      "options": [
+        "In the issue statement: 'Whether the provocation constituted consent for Δ to enter π's property.'",
+        "As an affirmative defense, raised after π's prima facie case is established — consent is pleaded and proved by Δ",
+        "In the rule statement for trespass to land",
+        "It does not belong anywhere, since consent is never a defense to trespass"
+      ],
+      "correct": 1,
+      "explanation": "Consent is an affirmative defense, pleaded and proved by Δ. Framing the issue around the defense skips π's prima facie case and inverts the burden. Establish the prima facie case first, then take up the defense.",
+      "why": "An issue framed around Δ's defense is a structural error, not a wording one."
+    },
+    {
+      "id": "x-gen-transition",
+      "type": "mcq",
+      "concept": "Exam craft — opening the application",
+      "scenario": "Which transition opens an application section in the legal idiom?",
+      "options": [
+        "When looking towards the facts, we can conclude that",
+        "On these facts,",
+        "This issue is pretty cut and dry, so",
+        "I think that based on everything above,"
+      ],
+      "correct": 1,
+      "explanation": "'On these facts' — or 'in the instant case' or 'here' — moves straight into analysis. The others are throat-clearing. Option (c) carries a further defect: characterizing an issue as obvious substitutes a verdict for the reasoning that is supposed to earn it. (The idiom is also 'cut and dried,' but the phrase has no place in a legal answer either way.)",
+      "why": "Never tell the reader how easy the question is; show the work and let the conclusion follow."
+    },
+    {
+      "id": "x-gen-element",
+      "type": "mcq",
+      "concept": "Exam craft — element by element",
+      "scenario": "An answer concludes: 'Δ fit every element for a claim of IIED to be brought against him.' What is the defect?",
+      "options": [
+        "Nothing — it states the conclusion efficiently",
+        "It asserts the conclusion without taking the elements one at a time and linking the governing rule directly to the facts that satisfy each",
+        "It should have said 'fits' rather than 'fit'",
+        "IIED has no elements, only factors"
+      ],
+      "correct": 1,
+      "explanation": "A conclusory sweep across the elements leaves the reader asking which element, and how. Work through them in order — volitional act, intentional or reckless, extreme and outrageous, causation, severe emotional distress — attaching the specific facts that satisfy each.",
+      "why": "The recurring margin note on unlinked analysis is 'so what?' — state the legal consequence of each fact you invoke."
+    },
+    {
+      "id": "x-gen-confined",
+      "type": "mcq",
+      "concept": "Exam craft — stating the FI rule",
+      "scenario": "Which statement of the false imprisonment rule is correctly phrased?",
+      "options": [
+        "…confined to a bounded area which causes harm or awareness and has no means of reasonable escape",
+        "…and which causes π to be restricted or confined to a bounded area, with harm or awareness",
+        "…locked in a place he could not get out of, causing him distress",
+        "…restrained against his will for an unreasonable period"
+      ],
+      "correct": 1,
+      "explanation": "Absence of a reasonable means of escape is not a separate element bolted onto the end — it is part of what 'confined' means. Stating it twice signals the rule was assembled rather than known.",
+      "why": "Redundant elements read as padding; the defined term already carries the concept."
+    },
+    {
+      "id": "x-gen-onto",
+      "type": "cloze",
+      "concept": "Exam craft — trespass phrasing",
+      "text": "Trespass to land requires an intrusion {{onto}} real property by a person or tangible substance. In the application, use the past tense: Δ {{entered}} π's property.",
+      "why": "Small preposition and tense errors accumulate; the professor marks them because they read as imprecision."
+    },
+    {
+      "id": "x-gen-verbs",
+      "type": "flash",
+      "concept": "Exam craft — the working verbs",
+      "prompt": "Give the legal idiom for each: (1) bringing a claim successfully; (2) what a defendant does with a defense; (3) what a defendant is when the elements are met; (4) how you introduce your facts.",
+      "answer": [
+        "(1) π ESTABLISHES a prima facie case — not 'provides' or 'has' one.",
+        "(2) Δ PLEADS AND PROVES an affirmative defense; the privilege ATTACHES or it does not.",
+        "(3) Δ IS SUBJECT TO LIABILITY — not 'is guilty,' which is criminal.",
+        "(4) ON THESE FACTS, or IN THE INSTANT CASE, or simply HERE."
+      ],
+      "fallback": "π {{establishes}} a prima facie case; Δ {{pleads}} and proves an affirmative defense; Δ is subject to {{liability}}; introduce facts with 'on these {{facts}}.'",
+      "why": "Using the right verb signals you know which party carries which burden."
+    },
+    {
+      "id": "x-gen-hedge",
+      "type": "mcq",
+      "concept": "Exam craft — hedging and overclaiming",
+      "scenario": "An answer states: 'This issue is pretty cut and dry. π clearly has a case and Δ has no valid defense worth pursuing.' Two sentences later: 'The only possible argument Δ could have is that his actions did not cause the symptoms. However, we do not have the facts to show that.' What is the defect?",
+      "options": [
+        "Nothing — it acknowledges the counterargument and disposes of it",
+        "Two defects: it characterizes the issue as obvious rather than analyzing it, and it raises an argument it concedes cannot be made on these facts",
+        "It should have cited a case",
+        "It is too short"
+      ],
+      "correct": 1,
+      "explanation": "Subjective characterizations — 'cut and dry,' 'clearly,' 'no valid defense worth pursuing,' 'there was no question' — assert conclusions the analysis is supposed to establish. Strike them and the reasoning has to stand on its own. Separately, floating an argument you concede the record will not support spends words without advancing anything: if the facts support a causation argument, make it and explain why it fails; if they do not, leave it out.",
+      "why": "Conclusory adverbs are the tell that analysis is missing underneath."
+    },
+    {
+      "id": "x-gen-subjective",
+      "type": "mcq",
+      "concept": "Exam craft — conclusory language",
+      "scenario": "Which sentence does analytical work rather than merely asserting a conclusion?",
+      "options": [
+        "Δ clearly committed trespass to land twice, and π obviously has no defense worth pursuing.",
+        "Δ entered π's land on two occasions — once to lock the shed and once to unlock it — and each entry interfered with π's right to exclusive possession.",
+        "There was no question this was a purposeful act.",
+        "This issue is pretty cut and dried."
+      ],
+      "correct": 1,
+      "explanation": "Words like 'clearly,' 'obviously,' 'no question,' and 'cut and dried' announce a result without supplying the reasoning. The correct option names the conduct, ties it to the element it satisfies, and states the legal consequence — leaving the reader to draw the obvious conclusion rather than being told it is obvious.",
+      "why": "If a sentence still works with the adverb deleted, the adverb was doing nothing; if it collapses, the analysis was missing."
+    },
+    {
+      "id": "x-k-1",
+      "type": "mcq",
+      "concept": "Contracts — the vocabulary",
+      "scenario": "Which states the contracts issue in the correct form?",
+      "options": [
+        "Whether the seller should have to honor what he said about the salt.",
+        "Whether Kershaw's letter was an offer such that Moulton's telegram formed a contract between them.",
+        "Whether it was fair for the seller to back out after the buyer relied.",
+        "Whether the salt letter was clear enough."
+      ],
+      "correct": 1,
+      "explanation": "The issue names the parties, the operative document, and the legal question — offer and formation. The others substitute fairness and vague adequacy for the governing standard.",
+      "why": "Frame around formation or enforceability, not around what a party 'should' have done."
+    },
+    {
+      "id": "x-k-2",
+      "type": "mcq",
+      "concept": "Contracts — the vocabulary",
+      "scenario": "An offeree receives an offer, then the offeror dies before acceptance. Which sentence uses the idiom correctly?",
+      "options": [
+        "The offer was cancelled because the offeror is no longer around.",
+        "The offeree's power of acceptance was terminated by the death of the offeror.",
+        "The contract became void when the offeror died.",
+        "The offeree lost his chance to say yes."
+      ],
+      "correct": 1,
+      "explanation": "The offeree holds a power of acceptance, and that power is terminated — by rejection, revocation, counteroffer, lapse of time, or the death of the offeror. Nothing became void, because no contract was ever formed.",
+      "why": "'Void' presupposes a contract; here formation never occurred."
+    },
+    {
+      "id": "x-k-3",
+      "type": "mcq",
+      "concept": "Contracts — the vocabulary",
+      "scenario": "Which sentence correctly describes a promise that fails for want of consideration?",
+      "options": [
+        "The promise is void because nothing was traded.",
+        "The promise is unenforceable because it was not supported by consideration — there was no bargained-for exchange.",
+        "The contract is illegal without consideration.",
+        "The promisor is not guilty of breach."
+      ],
+      "correct": 1,
+      "explanation": "A promise is supported by consideration or it is not, and one lacking it is unenforceable. 'Void' and 'illegal' describe different defects, and 'guilty' is criminal.",
+      "why": "TRICKY: three distractors borrow vocabulary from other bodies of law."
+    },
+    {
+      "id": "x-k-4",
+      "type": "mcq",
+      "concept": "Contracts — the vocabulary",
+      "scenario": "Under the objective theory, which sentence concedes the wrong standard?",
+      "options": [
+        "Δ's outward manifestations would lead a reasonable person to understand that assent was invited.",
+        "Although Δ did not really mean to sell the farm, he is bound.",
+        "The parties manifested mutual assent to the terms of the writing.",
+        "Δ's secret intention is immaterial; the reasonable meaning of his words and acts controls."
+      ],
+      "correct": 1,
+      "explanation": "Option (b) is not wrong on the result, but 'did not really mean to' frames the analysis around subjective intent — the very thing the objective theory excludes. The vocabulary should carry the standard: manifestation, outward expression, reasonable meaning.",
+      "why": "Choosing the right noun keeps you from arguing against yourself."
+    },
+    {
+      "id": "x-cp-1",
+      "type": "mcq",
+      "concept": "Civil Procedure — the vocabulary",
+      "scenario": "Which sentence states the jurisdictional conclusion correctly?",
+      "options": [
+        "The case does not have jurisdiction because both parties are from Florida.",
+        "The district court lacks subject matter jurisdiction because complete diversity is destroyed by the shared Florida citizenship.",
+        "The parties are not allowed to be in federal court together.",
+        "Jurisdiction is void."
+      ],
+      "correct": 1,
+      "explanation": "Jurisdiction is a property of the court. The court lacks subject matter jurisdiction; diversity is destroyed by an overlapping citizenship. Cases and parties do not 'have' jurisdiction.",
+      "why": "The subject of the sentence should be the court."
+    },
+    {
+      "id": "x-cp-2",
+      "type": "mcq",
+      "concept": "Civil Procedure — the vocabulary",
+      "scenario": "No party raises the defect, but the judge notices that complete diversity is absent. Which sentence describes what follows, in the idiom?",
+      "options": [
+        "The judge should suggest the parties refile in state court.",
+        "The court must dismiss the action sua sponte for lack of subject matter jurisdiction, which cannot be waived or consented to.",
+        "The judge may overlook it since neither side objected.",
+        "The case is thrown out on a technicality."
+      ],
+      "correct": 1,
+      "explanation": "Subject matter jurisdiction can never be waived, stipulated to, or consented into existence, and a court noticing its absence must dismiss sua sponte — the term for acting on the court's own motion.",
+      "why": "Sua sponte is the word; use it."
+    },
+    {
+      "id": "x-cp-3",
+      "type": "mcq",
+      "concept": "Civil Procedure — the vocabulary",
+      "scenario": "Which sentence states the amount in controversy requirement correctly?",
+      "options": [
+        "π is asking for more than $75,000 so the amount is fine.",
+        "The matter in controversy exceeds $75,000, exclusive of interest and costs, and π's good-faith allegation controls unless it appears to a legal certainty that she cannot recover that amount.",
+        "The damages are over the jurisdictional minimum of $75,000.",
+        "π wants enough money to be in federal court."
+      ],
+      "correct": 1,
+      "explanation": "The statutory phrase is that the matter in controversy exceeds $75,000, exclusive of interest and costs. Note also that $75,000 exactly does not exceed it — which is why 'the minimum of $75,000' in option (c) misstates the threshold.",
+      "why": "TRICKY: (c) is nearly right, but 'minimum of $75,000' would let exactly $75,000 in."
+    },
+    {
+      "id": "x-cp-4",
+      "type": "mcq",
+      "concept": "Civil Procedure — the vocabulary",
+      "scenario": "A corporation is incorporated in Delaware with its nerve center in New York. Which sentence uses the idiom correctly?",
+      "options": [
+        "The corporation lives in Delaware and New York.",
+        "The corporation is deemed a citizen of both Delaware and New York for diversity purposes.",
+        "The corporation is a resident of Delaware and New York.",
+        "The corporation counts as being from two places."
+      ],
+      "correct": 1,
+      "explanation": "Entities are deemed citizens of particular states for diversity purposes. Residence is a different concept and is not the test — an individual may reside in one state while domiciled in another.",
+      "why": "Citizenship, domicile, and residence are three different words; only the first two do work here."
+    },
+    {
+      "id": "x-gen-frame",
+      "type": "cloze",
+      "concept": "Exam craft — the issue formula",
+      "text": "Whether {{π}} can establish a {{prima}} {{facie}} case against {{Δ}} for [cause of action]. State the legal question; do not recite the facts, preview the answer, or frame the issue around Δ's affirmative {{defense}}.",
+      "why": "The same skeleton works in every subject: substitute 'whether a contract was formed between A and B,' or 'whether the district court may exercise diversity jurisdiction over this action.'"
+    },
+    {
+      "id": "x-gen-cross",
+      "type": "mcq",
+      "concept": "Exam craft — wrong-subject vocabulary",
+      "scenario": "Which sentence borrows vocabulary from the wrong body of law?",
+      "options": [
+        "Δ is subject to liability for battery.",
+        "Δ is guilty of trespass to land.",
+        "The promise is unenforceable for want of consideration.",
+        "The district court lacks subject matter jurisdiction."
+      ],
+      "correct": 1,
+      "explanation": "'Guilty' is criminal. In tort, Δ is subject to liability; in contract, a promise is enforceable or unenforceable; in procedure, a court has or lacks jurisdiction. Using the wrong register signals the wrong framework.",
+      "why": "Each subject has its own verb for the same idea — borrowing across them reads as imprecision."
+    }
+  ]
+}

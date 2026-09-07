@@ -1,6 +1,6 @@
 /* Black Letter — offline shell.
    Bump CACHE whenever you publish, or phones keep serving the old copy. */
-const CACHE = "blackletter-v11";
+const CACHE = "blackletter-v12";
 
 const SHELL = [
   "./",
@@ -15,7 +15,8 @@ const SHELL = [
   "./data/manifest.json",
   "./data/contracts.json",
   "./data/torts.json",
-  "./data/civpro.json"
+  "./data/civpro.json",
+  "./data/craft.json"
 ];
 
 self.addEventListener("install", (e) => {
