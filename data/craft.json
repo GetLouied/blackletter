@@ -128,6 +128,23 @@
         "Because the element of damages has not yet been reached, simply note the injury — death, broken leg — and the property damage — car damaged, house burned down — to satisfy that element.",
         "Under each element heading: state the RULE in one sentence; give the FACT, naming the actor, object, and timing; give the COUNTER only where the facts supply one; and CONCLUDE that the element is or is not met. Then a defenses section, same structure per defense."
       ]
+    },
+    {
+      "id": "b-x-call",
+      "topic": "Exam craft — the call of the question",
+      "components": [
+        "READ THE CALL OF THE QUESTION FIRST — it determines what you write",
+        "If the call asks whether something CAN BE ESTABLISHED — walk the elements of the prima facie case, then affirmative defenses",
+        "If the call asks whether a party WILL PREVAIL — elements of the cause of action, then any affirmative defenses",
+        "If the call is limited to ONE ELEMENT — write only that element",
+        "Do not write a full analysis when the call asks for cause in fact",
+        "Do not write only one element when the call asks who prevails"
+      ],
+      "model": [
+        "Read the call of the question before writing anything; it determines the scope of the answer.",
+        "If the call asks whether a claim can be established, or whether a party will prevail, walk through the elements of the cause of action and then any affirmative defenses.",
+        "If the call is limited to a single element — cause in fact, for example — write only that element. Spending words on duty and breach when the question asked about cause in fact earns nothing and costs time."
+      ]
     }
   ],
   "ladders": [
@@ -525,6 +542,51 @@
       ],
       "fallback": "{{rule}} in one sentence; {{fact}} naming actor, object, timing; {{counter}} only where the facts supply one; {{conclude}} that the element is or is not met.",
       "why": "The counter move is conditional — inventing one where the facts do not supply it wastes space."
+    },
+    {
+      "id": "x-gen-call1",
+      "type": "mcq",
+      "concept": "Exam craft — the call of the question",
+      "scenario": "The call reads: 'Can π establish strict liability against Δ?' What should the answer contain?",
+      "options": [
+        "Only a conclusion, since strict liability is liability without fault",
+        "The elements of the prima facie case walked through in order, then any affirmative defense",
+        "Every cause of action the facts might support",
+        "Only the affirmative defenses"
+      ],
+      "correct": 1,
+      "explanation": "Where the call asks whether something can be established, walk through the elements of the prima facie case, then take up the affirmative defense. The call sets the scope.",
+      "why": "'Can X be established' is an invitation to run the elements — not to survey the whole fact pattern."
+    },
+    {
+      "id": "x-gen-call2",
+      "type": "mcq",
+      "concept": "Exam craft — the call of the question",
+      "scenario": "The call reads: 'Discuss whether Δ's breach was the cause in fact of π's injury.' What should the answer contain?",
+      "options": [
+        "Duty, breach, cause in fact, proximate cause, and harm",
+        "Only cause in fact",
+        "Cause in fact and proximate cause, since they are related",
+        "The prima facie case plus affirmative defenses"
+      ],
+      "correct": 1,
+      "explanation": "If the call is limited to cause in fact, write only cause in fact. Words spent on the other elements earn nothing and consume time you need elsewhere.",
+      "why": "TRICKY: the instinct to show everything you know is the exact instinct that loses points here."
+    },
+    {
+      "id": "x-gen-format",
+      "type": "mcq",
+      "concept": "Exam craft — the midterm format",
+      "scenario": "Which statement is accurate about the midterm?",
+      "options": [
+        "It is a single long-answer essay, and structure is heavily weighted",
+        "It is 40–50 multiple choice plus 4–5 short-answer essays; no points are taken off for improper structure on this exam, though poor writing costs points on the final",
+        "It is entirely multiple choice",
+        "Only the essays count toward the grade"
+      ],
+      "correct": 1,
+      "explanation": "The midterm is 40 to 50 multiple choice questions plus 4 to 5 short answer essays, answered on a scantron and by computer respectively. No points are deducted for improper structure on this exam, but points are taken off for poor writing on the final.",
+      "why": "Structure still helps you think clearly — but on this exam, substance and the call of the question are what score."
     }
   ]
 }
