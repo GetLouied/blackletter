@@ -109,6 +109,25 @@
         "Diversity is complete, or it is destroyed by an overlapping citizenship. A corporation or representative is deemed a citizen of a state for diversity purposes. The matter in controversy must exceed $75,000, exclusive of interest and costs.",
         "Where jurisdiction is absent the court dismisses for lack of subject matter jurisdiction, and must do so sua sponte if the parties do not raise it. Frame the issue as whether the district court may exercise diversity jurisdiction over the action."
       ]
+    },
+    {
+      "id": "b-x-essay",
+      "topic": "Exam craft — essay structure",
+      "components": [
+        "Use ELEMENT NAMES as headings; do NOT use IRAC as headings",
+        "Use IRAC within each element where appropriate",
+        "Discuss each element separately; do not mix them; do not skip any",
+        "Analyze each cause of action separately: P1 v. D1, then P1 v. D2, then P2 v. D1",
+        "NEVER combine plaintiffs or defendants",
+        "For damages, simply note the injury and the property damage",
+        "Under each heading: RULE, FACT, COUNTER (only if the facts supply one), CONCLUDE"
+      ],
+      "model": [
+        "Structure the answer using the elements as headings. Do not use IRAC for headings — use IRAC within each element where appropriate. Discuss each element separately; do not mix them together and do not skip any.",
+        "Analyze each cause of action separately: P1 v. D1 [negligence] — duty, breach, cause in fact, proximate cause, harm; then P1 v. D2; then P2 v. D1. Never combine plaintiffs or defendants.",
+        "Because the element of damages has not yet been reached, simply note the injury — death, broken leg — and the property damage — car damaged, house burned down — to satisfy that element.",
+        "Under each element heading: state the RULE in one sentence; give the FACT, naming the actor, object, and timing; give the COUNTER only where the facts supply one; and CONCLUDE that the element is or is not met. Then a defenses section, same structure per defense."
+      ]
     }
   ],
   "ladders": [
@@ -447,6 +466,65 @@
       "correct": 1,
       "explanation": "'Guilty' is criminal. In tort, Δ is subject to liability; in contract, a promise is enforceable or unenforceable; in procedure, a court has or lacks jurisdiction. Using the wrong register signals the wrong framework.",
       "why": "Each subject has its own verb for the same idea — borrowing across them reads as imprecision."
+    },
+    {
+      "id": "x-gen-headings",
+      "type": "mcq",
+      "concept": "Exam craft — essay structure",
+      "scenario": "Per the professor's instructions, what should your headings be?",
+      "options": [
+        "Issue, Rule, Application, Conclusion",
+        "The ELEMENT NAMES — duty, breach, cause in fact — with IRAC used within each element, not as headings",
+        "The names of the parties",
+        "The names of the controlling cases"
+      ],
+      "correct": 1,
+      "explanation": "Structure your essay answers using the elements as headings. Discuss each separately; do not mix them together and do not skip any. Use IRAC where appropriate but do NOT use it for headings — use element names.",
+      "why": "A heading that says 'Rule' tells the reader nothing about which element you are on."
+    },
+    {
+      "id": "x-gen-pairs",
+      "type": "mcq",
+      "concept": "Exam craft — party pairs",
+      "scenario": "Two plaintiffs sue two defendants in negligence on overlapping facts. How should the answer be organized?",
+      "options": [
+        "One negligence analysis covering all parties, noting differences as they arise",
+        "Separately: P1 v. D1 — duty, breach, cause in fact, proximate cause, harm; then P1 v. D2; then P2 v. D1; and so on",
+        "By element, with all parties discussed under each element",
+        "Chronologically, following the facts"
+      ],
+      "correct": 1,
+      "explanation": "Analyze each cause of action separately — P1 v. D1 with every element, then P1 v. D2, then P2 v. D1. NEVER combine plaintiffs or defendants. Never.",
+      "why": "The professor states this twice and adds 'Never.' It is a structural instruction, not a preference."
+    },
+    {
+      "id": "x-gen-damages",
+      "type": "mcq",
+      "concept": "Exam craft — the damages element",
+      "scenario": "The damages element has not yet been covered in class, but the instructions say not to skip any element. What should the answer do under that heading?",
+      "options": [
+        "Skip it, since it has not been covered",
+        "Simply note the injury — death, broken leg — and the property damage — car damaged, house burned down — to satisfy the element",
+        "Calculate a dollar figure",
+        "Argue for punitive damages"
+      ],
+      "correct": 1,
+      "explanation": "Because the element of damages has not yet been reached, simply note the injury and the property damage to satisfy that element. Do not skip the heading, and do not attempt a damages analysis you have not been taught.",
+      "why": "TRICKY: 'do not skip any' and 'we have not reached damages' are reconciled by noting the injury."
+    },
+    {
+      "id": "x-gen-elementbody",
+      "type": "flash",
+      "concept": "Exam craft — what goes under each element heading",
+      "prompt": "Under each element heading, what four moves does the answer make?",
+      "answer": [
+        "RULE — one sentence, the precise standard.",
+        "FACT — 'Here, [specific fact]...' naming the actor, the object, and the timing.",
+        "COUNTER — 'Δ will argue...' but ONLY where the facts supply one.",
+        "CONCLUDE — 'Therefore this element is / is not met.'"
+      ],
+      "fallback": "{{rule}} in one sentence; {{fact}} naming actor, object, timing; {{counter}} only where the facts supply one; {{conclude}} that the element is or is not met.",
+      "why": "The counter move is conditional — inventing one where the facts do not supply it wastes space."
     }
   ]
 }
