@@ -117,7 +117,13 @@
           "WHERE EVENTS ARE NOT QUANTIFIABLE — enough to say the breach 'greatly multiplies the chances of accident to the plaintiff, and is of a character naturally leading to its occurrence.' An inference the jury MAY reach. Unlit staircase with no handrail: the jury may find the breach caused the fall even though others did not fall and π might have fallen anyway. ABSENCE OF A SAFETY DEVICE may be inferred to be the cause in fact where the device is intended for precisely that purpose. But testimony insufficient to support ANY inference — 'I don't remember' — FAILS.",
           "MULTIPLE POSSIBLE CAUSES — π establishes three possible causes, all attributable to Δ, with no other possible causes; as to none can it be said it is more likely than not. π STILL GETS TO THE JURY.",
           "Δ BEARS NO BURDEN OF PROOF — Δ's expert need not establish Δ's explanation; the testimony is intended to dissuade the jury from accepting π's inference and is admissible as rebuttal.",
-          "SCIENCE — in chemical exposure cases where the harm also occurs in nature: π must prove the EXPOSURE occurred, and that the exposure caused HER injury, not merely that it CAN in general cause this type of injury. EPIDEMIOLOGICAL EVIDENCE: the incidence in the EXPOSED population must be MORE THAN DOUBLE the incidence in a similar UNEXPOSED population — 10 per 100,000 unexposed means AT LEAST 21 per 100,000 exposed. MEDICAL MALPRACTICE: the physician's negligence must more likely than not have caused the death or loss, INCLUDING loss of a chance of a better outcome."
+          "SCIENCE — in chemical exposure cases where the harm also occurs in nature: π must prove the EXPOSURE occurred, and that the exposure caused HER injury, not merely that it CAN in general cause this type of injury. EPIDEMIOLOGICAL EVIDENCE: the incidence in the EXPOSED population must be MORE THAN DOUBLE the incidence in a similar UNEXPOSED population — 10 per 100,000 unexposed means AT LEAST 21 per 100,000 exposed. MEDICAL MALPRACTICE: the physician's negligence must more likely than not have caused the death or loss, INCLUDING loss of a chance of a better outcome.",
+          "LOST CHANCE — usually med mal, theoretically not limited to it. The physician's negligence must more likely than not have caused the death or other loss. Where the chance of survival was LESS THAN 50%, LOSS is RECHARACTERIZED to include the loss of the chance of survival. 75% chance: the estate reaches the jury on DEATH itself. 40% chance: the estate cannot prove the breach caused the death, so the harm is the lost 40% chance.",
+          "CONCURRENT CAUSES — more than one breach by more than one Δ causing the same injury; breaches that together cause harm neither could alone; more than one breach where only one could have caused it and we cannot know which; or more than one cause any of which alone would have sufficed, sometimes including non-culpable causes.",
+          "MULTIPLE POSSIBLE CAUSES — (1) independent tortfeasors, only ONE could have caused the harm [Summers v. Tice]: JOINT AND SEVERAL. (2) independent tortfeasors whose negligence HAD TO COMBINE, no harm without the combination [Hill v. Edmonds]: JOINT AND SEVERAL. (3) causes some culpable and some not, any of which alone would have caused the harm — lightning fire and RR fire: joint and several among those legally culpable, NOT Mother Nature; if only one Δ is culpable, 100% LIABILITY.",
+          "JOINT AND SEVERAL LIABILITY — JOINT: π may recover the TOTAL judgment from ANY ONE Δ; each is liable for the full amount. SEVERAL: after π is paid in full, a Δ who paid more than its proportional share (presumed EQUAL at common law) may recover from the other Δs to bring everyone even — the RIGHT OF CONTRIBUTION.",
+          "ENTERPRISE vs. MARKET SHARE — often chemical and pharmaceutical exposure. Predicate for both: all Δs breached the SAME duty in the SAME manner; any one or any combination could have caused this π's harm; it must have been one or some, but we cannot know which. ENTERPRISE: ALL industry members before the court → JOINT AND SEVERAL. MARKET SHARE: not all, but the MAJORITY of the market, before the court → SEVERAL liability only. Causation in fact must STILL be proven.",
+          "THE FOUR CASE PATTERNS — PERKINS: quantification possible but not developed by π (π loses). REYNOLDS: no quantification possible; itemize the claim — absence of light and handrail caused the fall, or so the jury could infer (π reaches the jury). GENTRY: testimony supports no inference at all, 'I don't remember' (π loses). KRAMER: quantification possible and it shows more likely than not CANNOT be established (π loses)."
         ]
       },
       {
@@ -964,6 +970,90 @@
         "In determining whether an activity is abnormally dangerous, the following factors are to be considered. These are not elements of a cause of action; they are factors to be considered — say so.",
         "(a) Existence of a high degree of risk of some harm to the person, land or chattels of others; (b) likelihood that the harm that results from it will be great, where likelihood does not mean probability; (c) inability to eliminate the risk by the exercise of reasonable care; (d) extent to which the activity is not a matter of common usage; (e) inappropriateness of the activity to the place where it is carried on; and (f) extent to which its value to the community is outweighed by its dangerous attributes — how much does the community benefit compared to the risk of harm?",
         "Factors (d) and (e) are generally read together."
+      ]
+    },
+    {
+      "id": "b-t-lostchance",
+      "topic": "Lost chance",
+      "components": [
+        "Usually arises in medical malpractice, but theoretically not limited to it",
+        "Med mal rule: the physician's negligence must more likely than not have caused the death or other loss",
+        "LOSS — the element of harm — IS RECHARACTERIZED",
+        "To include not only death, but LOSS OF THE CHANCE OF SURVIVAL",
+        "…when the chance of survival was LESS THAN 50%",
+        "75% chance case: estate reaches the jury on death itself, under more likely than not",
+        "40% chance case: the estate cannot prove the breach caused the DEATH, so the harm is recharacterized as the lost 40% chance"
+      ],
+      "model": [
+        "Lost chance usually becomes an issue in medical malpractice but is theoretically not limited to med mal. The med mal rule is that the physician's negligence must, more likely than not, have caused the death or other loss.",
+        "Where the chance of survival was less than 50%, loss — the element of harm — is recharacterized to include not only death but also the loss of the chance of survival.",
+        "Compare: a patient arrives in the emergency room with a 75% chance of survival with proper medical care after a heart attack; the doctor malpractices and the patient dies. Under the more likely than not standard, the estate gets to the jury on the claim that the breach of duty was the cause in fact of death.",
+        "A patient arrives with a 40% chance of survival with proper care; the doctor malpractices and the patient dies. The estate cannot prove the breach caused the death, because even with proper care she more likely than not would have died. What the estate can prove — virtually to a certainty — is that the malpractice caused the loss of that 40% chance, which is why the harm element is recharacterized."
+      ]
+    },
+    {
+      "id": "b-t-concurrent",
+      "topic": "Concurrent causes",
+      "components": [
+        "Sometimes more than one breach by more than one Δ causes the same injury",
+        "Sometimes the breaches TOGETHER cause the harm, when either breach by itself could not have",
+        "Or there is more than one breach but only ONE could have caused the harm — and we don't know and can't know which",
+        "Or there is more than one cause and ANY of them would have caused the harm by itself",
+        "Sometimes the causes are not all culpable causes"
+      ],
+      "model": [
+        "Sometimes more than one breach by more than one Δ causes the same injury. Sometimes the breaches together cause the harm, when either breach by itself could not have. Or there is more than one breach but only one breach could have caused the harm, and we do not know and cannot know which. Or there is more than one cause and any of the causes would have caused the harm by itself — and sometimes the causes are not all culpable causes."
+      ]
+    },
+    {
+      "id": "b-t-multiple",
+      "topic": "Multiple possible causes — the three patterns",
+      "components": [
+        "(1) Two or more INDEPENDENT tortfeasors, only ONE could have caused the harm [Summers v. Tice] — JOINT AND SEVERAL",
+        "(2) Two or more tortfeasors acting independently whose negligence HAD TO HAVE COMBINED to cause the harm — without the combination, no harm [Hill v. Edmonds] — JOINT AND SEVERAL",
+        "(3) Two or more causes, SOME CULPABLE SOME NOT, any of which alone would have caused the harm — lightning fire and railroad fire",
+        "In (3): joint and several as among those that can be legally culpable — not Mother Nature, not lightning",
+        "In (3): if only one Δ can be held culpable, 100% LIABILITY"
+      ],
+      "model": [
+        "Three patterns. First, two or more independent tortfeasors where only one could have caused the harm — Summers v. Tice — giving joint and several liability. Second, two or more tortfeasors acting independently whose negligence had to have combined in order to cause the harm, so that without their combined negligence there would be no harm — Hill v. Edmonds — also joint and several liability.",
+        "Third, two or more causes, some culpable and some not, any of which alone would have caused the harm — the lightning fire and the railroad fire. Liability is joint and several as among those that can be legally culpable; not Mother Nature, not lightning. If only one Δ can be held culpable, that Δ bears 100% liability."
+      ]
+    },
+    {
+      "id": "b-t-jsl",
+      "topic": "Joint and several liability",
+      "components": [
+        "Applies when two or more Δs are found liable to one π for harm caused by them all",
+        "Two consequences follow",
+        "THE JOINT PART: π may recover the TOTAL amount of the judgment from ANY ONE Δ — each is liable for the full amount",
+        "THE SEVERAL PART: after π is paid in full, a Δ who paid more than its proportional share may recover from the other Δs",
+        "Shares are presumed at common law to be EQUAL as among Δs",
+        "That right of recovery is called the RIGHT OF CONTRIBUTION"
+      ],
+      "model": [
+        "When two or more defendants are found liable to one π for harm caused by them all, two consequences follow.",
+        "The joint part: π may recover the total amount of his judgment from any one of the Δs — each Δ is liable to π for the full amount.",
+        "The several part: after π is paid in full, if any Δ has paid more than its proportional share — presumed at common law to be equal as among Δs — that Δ may recover from the other Δs as much as is necessary to bring everyone even with respect to their share of liability. That right of recovery is called the right of contribution."
+      ]
+    },
+    {
+      "id": "b-t-market",
+      "topic": "Enterprise and market share",
+      "components": [
+        "Often, but not exclusively, applied in chemical and pharmaceutical exposure cases",
+        "ALL Δs breached the SAME duty in the SAME manner",
+        "Any one, or any combination of Δs, could have caused this π's harm",
+        "It must have been one or some of them, but we can't know which",
+        "ENTERPRISE: ALL industry members are before the court — JOINT AND SEVERAL liability",
+        "MARKET SHARE: NOT all industry members are before the court; the MAJORITY of the 'market' is — SEVERAL liability only",
+        "NB: causation in fact must still be proven as described in the earlier rules"
+      ],
+      "model": [
+        "Enterprise and market share liability are often, but not exclusively, applied in chemical and pharmaceutical exposure cases. The predicate is the same for both: all Δs breached the same duty in the same manner; any one, or any combination of Δs, could have caused this π's harm; it must have been one or some of them, but we cannot know which.",
+        "ENTERPRISE: all industry members are before the court, all at fault in the same manner — joint and several liability.",
+        "MARKET SHARE: not all industry members are before the court, but the majority of the market is, all at fault in the same manner — SEVERAL liability only.",
+        "Note that causation in fact must still be proven as described in the general rules."
       ]
     }
   ],
@@ -1975,6 +2065,88 @@
             "exclusive control",
             "instrumentality",
             "control"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-t-multiple",
+      "concept": "Multiple possible causes",
+      "prompt": "Name the three multiple-cause patterns.",
+      "slots": [
+        {
+          "label": "Independent tortfeasors, only one could have caused the harm [Summers v. Tice] — joint and several",
+          "keywords": [
+            "only one",
+            "independent",
+            "summers"
+          ]
+        },
+        {
+          "label": "Independent tortfeasors whose negligence had to combine to cause the harm [Hill v. Edmonds] — joint and several",
+          "keywords": [
+            "combine",
+            "combined",
+            "together",
+            "hill"
+          ]
+        },
+        {
+          "label": "Some culpable causes and some not, any of which alone would have caused the harm — lightning and railroad fire",
+          "keywords": [
+            "lightning",
+            "not culpable",
+            "some not",
+            "nature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-t-jsl",
+      "concept": "Joint and several liability",
+      "prompt": "Name the two consequences of joint and several liability.",
+      "slots": [
+        {
+          "label": "JOINT — π may recover the total judgment from any one Δ; each is liable for the full amount",
+          "keywords": [
+            "total",
+            "full amount",
+            "any one",
+            "joint"
+          ]
+        },
+        {
+          "label": "SEVERAL — a Δ who paid more than its share may recover from the others: the right of contribution",
+          "keywords": [
+            "contribution",
+            "several",
+            "share",
+            "recover from"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l-t-market",
+      "concept": "Enterprise vs. market share",
+      "prompt": "State who is before the court and the resulting liability for each doctrine.",
+      "slots": [
+        {
+          "label": "ENTERPRISE — ALL industry members before the court → JOINT AND SEVERAL liability",
+          "keywords": [
+            "enterprise",
+            "all industry",
+            "all members",
+            "joint and several"
+          ]
+        },
+        {
+          "label": "MARKET SHARE — not all, but the majority of the market before the court → SEVERAL liability",
+          "keywords": [
+            "market share",
+            "majority",
+            "several"
           ]
         }
       ]
@@ -3788,6 +3960,200 @@
       "correct": 1,
       "explanation": "The Hand comparison is social policy, not math, and requires comparing incommensurables. A point can be made in either direction, and courts of equal standing with very good judges do reach opposite results. On an exam, argue both directions and then choose one.",
       "why": "This is permission to argue both sides — use it rather than forcing a single answer."
+    },
+    {
+      "id": "f-t-cifcases",
+      "type": "flash",
+      "concept": "Cause in fact — the four case patterns",
+      "prompt": "Name the four cause in fact patterns and what each turns on.",
+      "answer": [
+        "PERKINS — quantification was possible but not developed by π. π loses for failing to do the work.",
+        "REYNOLDS — no quantification possible. Itemize π's claim: absence of light and handrail caused the fall, or so the jury could infer.",
+        "GENTRY — testimony insufficient to support ANY inference: 'I don't remember.' π loses.",
+        "KRAMER — quantification possible and it indicates 'more likely than not' CANNOT POSSIBLY be established. π loses."
+      ],
+      "fallback": "{{Perkins}}: quantification possible but not developed. {{Reynolds}}: no quantification possible, itemize the claim. {{Gentry}}: testimony supports no inference at all. {{Kramer}}: quantification possible and it shows more likely than not cannot be established.",
+      "why": "Two turn on π's failure of proof (Perkins, Gentry), one on the numbers affirmatively defeating π (Kramer), and one on π succeeding without numbers (Reynolds)."
+    },
+    {
+      "id": "m-cif-6",
+      "type": "mcq",
+      "concept": "Cause in fact",
+      "scenario": "Quantification of causation was possible in π's case, but π never developed the evidence. What result?",
+      "options": [
+        "π reaches the jury — quantification is never required",
+        "π fails — this is the Perkins pattern: quantification was possible but not developed by π, who bears the burden",
+        "The burden shifts to Δ",
+        "π may rely on res ipsa instead"
+      ],
+      "correct": 1,
+      "explanation": "Where quantification is possible but π does not develop it, π fails. Contrast Reynolds, where no quantification was possible and the jury could infer causation from the absence of light and a handrail.",
+      "why": "TRICKY: 'need not be quantifiable' is true only where quantification is genuinely unavailable."
+    },
+    {
+      "id": "m-cif-7",
+      "type": "mcq",
+      "concept": "Cause in fact",
+      "scenario": "Quantification is possible, and the numbers show that 'more likely than not' cannot possibly be established. What result?",
+      "options": [
+        "π reaches the jury and the numbers go to weight",
+        "π fails — this is the Kramer pattern; where the quantification affirmatively defeats the standard, there is nothing for the jury",
+        "π may proceed on a lost chance theory automatically",
+        "The court must order more discovery"
+      ],
+      "correct": 1,
+      "explanation": "Where quantification is possible and indicates that more likely than not cannot possibly be established, π cannot carry the burden. That is Kramer, and it is distinct from Perkins, where the numbers simply were not developed.",
+      "why": "Kramer is the numbers defeating π; Perkins is π failing to produce them."
+    },
+    {
+      "id": "m-lc-1",
+      "type": "mcq",
+      "concept": "Lost chance",
+      "scenario": "A patient arrives with a 75% chance of survival with proper care. The doctor malpractices and the patient dies. What result on cause in fact?",
+      "options": [
+        "The estate must proceed on a lost chance theory",
+        "The estate reaches the jury on the claim that the breach was the cause in fact of DEATH, under the more likely than not standard",
+        "The estate fails — survival was never certain",
+        "Liability is apportioned 75/25"
+      ],
+      "correct": 1,
+      "explanation": "With a 75% chance of survival, the estate can satisfy more likely than not as to death itself: with proper care she probably would have lived. No recharacterization is needed.",
+      "why": "Above 50%, sue for the death. Below 50%, recharacterize."
+    },
+    {
+      "id": "m-lc-2",
+      "type": "mcq",
+      "concept": "Lost chance",
+      "scenario": "A patient arrives with a 40% chance of survival with proper care. The doctor malpractices and the patient dies. Which statement best analyzes the claim?",
+      "options": [
+        "The estate proves the breach caused the death, since the doctor plainly malpracticed",
+        "The estate cannot prove the breach caused the DEATH, so the harm element is recharacterized as the loss of the 40% chance of survival",
+        "The estate fails entirely — below 50% there is no claim",
+        "The estate must prove the patient would certainly have survived"
+      ],
+      "correct": 1,
+      "explanation": "Where the chance of survival was less than 50%, the estate cannot show that more likely than not the breach caused the death — she probably would have died regardless. Loss is therefore recharacterized to include the loss of the chance of survival, which the malpractice did cause.",
+      "why": "TRICKY: (c) is the intuitive answer and it is wrong — the doctrine exists precisely to rescue the sub-50% case."
+    },
+    {
+      "id": "m-mult-1",
+      "type": "mcq",
+      "concept": "Multiple possible causes",
+      "scenario": "Two hunters negligently fire in π's direction. One pellet strikes π, and it is impossible to know whose gun it came from. What result?",
+      "options": [
+        "π fails — causation cannot be established against either",
+        "Joint and several liability — two or more independent tortfeasors where only one could have caused the harm",
+        "Each is liable for 50% only",
+        "π must elect one Δ to sue"
+      ],
+      "correct": 1,
+      "explanation": "This is the first multiple-cause pattern: two or more independent tortfeasors, only one of whom could have caused the harm. The result is joint and several liability.",
+      "why": "Only one caused it; both answer for all of it."
+    },
+    {
+      "id": "m-mult-2",
+      "type": "mcq",
+      "concept": "Multiple possible causes",
+      "scenario": "Two Δs acting independently are each negligent, and their negligence had to combine to produce π's harm — neither breach alone would have been enough. What result?",
+      "options": [
+        "Neither is liable, since neither alone caused the harm",
+        "Joint and several liability — without their combined negligence, no harm",
+        "Each is liable only for its proportional contribution",
+        "π must prove which contributed more"
+      ],
+      "correct": 1,
+      "explanation": "This is the second pattern: two or more tortfeasors acting independently whose negligence had to have combined in order to cause the harm. Without the combined negligence there would be no harm, and the result is joint and several liability.",
+      "why": "TRICKY: 'neither alone would suffice' sounds like a defense; it is the basis of the pattern."
+    },
+    {
+      "id": "m-mult-3",
+      "type": "mcq",
+      "concept": "Multiple possible causes",
+      "scenario": "A fire set by Δ's railroad and a fire started by lightning converge on π's property. Either alone would have destroyed it. What result?",
+      "options": [
+        "No liability — the lightning is an independent cause",
+        "Liability is joint and several as among those that can be legally culpable; lightning is not culpable, so if only Δ can be held culpable, Δ bears 100% liability",
+        "Δ is liable for 50%, the lightning accounting for the rest",
+        "π must sue the party responsible for the lightning"
+      ],
+      "correct": 1,
+      "explanation": "This is the third pattern: two or more causes, some culpable and some not, any of which would alone have caused the harm. Joint and several as among those that can be legally culpable — not Mother Nature, not lightning — and if only one Δ can be held culpable, that Δ bears 100% liability.",
+      "why": "TRICKY: the natural cause does not absorb a share; it simply is not a party who can be culpable."
+    },
+    {
+      "id": "m-jsl-1",
+      "type": "mcq",
+      "concept": "Joint and several liability",
+      "scenario": "Three Δs are jointly and severally liable on a $900,000 judgment. π collects the entire amount from Δ-1. What follows?",
+      "options": [
+        "Δ-1 has no recourse; π's choice is final",
+        "Δ-1 may recover from Δ-2 and Δ-3 as much as is necessary to bring everyone even — the right of contribution, with shares presumed equal at common law",
+        "π must return two-thirds and collect from the others",
+        "Δ-1 may only recover from Δs who were served"
+      ],
+      "correct": 1,
+      "explanation": "The joint part lets π recover the total from any one Δ. The several part lets a Δ who paid more than its proportional share — presumed equal at common law — recover from the others to bring everyone even. That is the right of contribution.",
+      "why": "Contribution runs between Δs, and only after π has been paid in full."
+    },
+    {
+      "id": "m-jsl-2",
+      "type": "mcq",
+      "concept": "Joint and several liability",
+      "scenario": "Which statement describes the JOINT part of joint and several liability?",
+      "options": [
+        "Each Δ is liable only for its proportional share",
+        "π may recover the total amount of the judgment from any one Δ — each is liable to π for the full amount",
+        "Δs may seek contribution from one another",
+        "π must sue all Δs in a single action"
+      ],
+      "correct": 1,
+      "explanation": "The joint part is that π may recover the total amount from any one Δ; each Δ is liable to π for the full amount. The several part is the contribution right among Δs after π is paid.",
+      "why": "TRICKY: (c) describes the SEVERAL part — keep the two halves straight."
+    },
+    {
+      "id": "m-mkt-1",
+      "type": "mcq",
+      "concept": "Enterprise and market share",
+      "scenario": "All manufacturers of a chemical are before the court, all having breached the same duty in the same manner, and any of them could have caused π's harm. Which doctrine applies and with what liability?",
+      "options": [
+        "Market share, several liability",
+        "Enterprise, joint and several liability",
+        "Enterprise, several liability",
+        "Market share, joint and several liability"
+      ],
+      "correct": 1,
+      "explanation": "Enterprise liability applies where all industry members are before the court, all at fault in the same manner — and the result is joint and several liability.",
+      "why": "All members present → enterprise → joint and several."
+    },
+    {
+      "id": "m-mkt-2",
+      "type": "mcq",
+      "concept": "Enterprise and market share",
+      "scenario": "Only the majority of an industry's members are before the court, all having breached the same duty in the same manner. Which doctrine applies and with what liability?",
+      "options": [
+        "Enterprise, joint and several liability",
+        "Market share, SEVERAL liability only",
+        "Market share, joint and several liability",
+        "Neither — π must join every manufacturer"
+      ],
+      "correct": 1,
+      "explanation": "Market share applies where not all industry members are before the court but the majority of the market is, all at fault in the same manner — and the result is several liability, not joint and several.",
+      "why": "TRICKY: this is the distinction most likely to be tested — enterprise gives JOINT AND SEVERAL, market share gives SEVERAL only."
+    },
+    {
+      "id": "m-mkt-3",
+      "type": "mcq",
+      "concept": "Enterprise and market share",
+      "scenario": "Δ argues that because market share liability applies, π is relieved of proving causation in fact. Which statement best analyzes the argument?",
+      "options": [
+        "Δ is correct — the doctrine substitutes for causation",
+        "Δ is incorrect — causation in fact must still be proven as described in the general rules; the doctrine addresses WHICH Δ answers, not whether causation is required",
+        "Δ is correct only in pharmaceutical cases",
+        "The question is for the jury"
+      ],
+      "correct": 1,
+      "explanation": "The outline flags this expressly: causation in fact must still be proven as described in the earlier rules. Enterprise and market share address the problem of identifying which Δ among many, not the requirement of causation itself.",
+      "why": "The doctrines solve an identification problem, not a causation problem."
     }
   ]
 }
